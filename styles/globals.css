@@ -1,0 +1,86 @@
+/* Global link styling */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9; /* Light background for the page */
+  color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    border: 2px solid transparent; /* Initially, make the border transparent */
+    padding: 0.5rem;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Oscillating rainbow border effect on hover */
+  a:hover {
+    animation: rainbow-border 3s infinite;
+  }
+  
+  /* Keyframes to create the oscillating rainbow effect */
+  @keyframes rainbow-border {
+    0% {
+      border-color: red;
+    }
+    14% {
+      border-color: orange;
+    }
+    28% {
+      border-color: yellow;
+    }
+    42% {
+      border-color: green;
+    }
+    57% {
+      border-color: cyan;
+    }
+    71% {
+      border-color: blue;
+    }
+    85% {
+      border-color: purple;
+    }
+    100% {
+      border-color: red;
+    }
+  }
+  
+  /* Global reset and background for body */
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #915c0c69;
+  }
+  
+  /* Background color transition for Blog and Reading List pages */
+  .blog-page, .reading-list-page, .home-page {
+    animation: background-color-shift 6s infinite; /* 30 seconds for a full color cycle */
+    background: linear-gradient(135deg, cyan, salmon, purple, rgb(26, 0, 128));
+    background-size: 400% 400%;
+    height: 100vh; /* Ensure the background covers the full viewport height */
+  }
+  
+  /* Keyframe animation for color transition */
+  @keyframes background-color-shift {
+    0% {
+      background-position: 0% 50%;
+    }
+    25% {
+      background-position: 100% 50%;
+    }
+    50% {
+      background-position: 0% 50%;
+    }
+    75% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
