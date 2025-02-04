@@ -1,9 +1,9 @@
 // pages/index.js
-import React from 'react';
-import Layout from '../components/Layout';
+import React from "react";
+import Layout from "../components/Layout";
 
 function getDailyAIImage() {
-  const images = ['image1.jpg', 'image2.jpg', 'image3.jpg'];
+  const images = ["image1.jpg", "image2.jpg", "image3.jpg"];
   const now = new Date();
   const start = new Date(now.getFullYear(), 0, 0);
   const diff = now - start;
@@ -20,17 +20,17 @@ export default function Home() {
         <div
           className="welcome-section"
           style={{
-            position: 'relative',
+            position: "relative",
             zIndex: 1,
-            textAlign: 'center',
-            padding: '2rem'
+            textAlign: "center",
+            padding: "2rem",
           }}
         >
-          <h1>Welcome to Jackson's Blog</h1>
+          <h1>Welcome to My Cosmic Space!</h1>
           <img
             src={dailyImage}
             alt="Daily AI Generated"
-            style={{ maxWidth: '80%', borderRadius: '8px' }}
+            style={{ maxWidth: "80%", borderRadius: "8px" }}
           />
         </div>
         <style jsx>{`
@@ -38,17 +38,21 @@ export default function Home() {
             position: relative;
             min-height: 100vh;
             /* Updated retro-inspired background */
-            background: linear-gradient(135deg, cyan, salmon, burntorange, purple);
+            background: linear-gradient(
+              135deg,
+              cyan,
+              salmon,
+              burntorange,
+              purple
+            );
             background-size: 400% 400%;
             animation: background-color-shift 30s infinite;
             color: #222;
           }
           h1 {
-            font-family: 'Press Start 2P', cursive; /* Retro font */
-            color:rgb(206, 212, 199);
+            font-family: "Press Start 2P", cursive;
+            color: #ff4e50;
           }
-
-          /* Animation for the color shift */
           @keyframes background-color-shift {
             0% {
               background-position: 0% 50%;
@@ -66,17 +70,17 @@ export default function Home() {
               background-position: 0% 50%;
             }
           }
-
-          /* Metallic grey border and white text for top and bottom */
-          header, footer {
+          header,
+          footer {
             background-color: #808080; /* Metallic grey */
             color: white;
             text-align: center;
             padding: 1rem 0;
           }
-          header h1, footer p {
+          header h1,
+          footer p {
             margin: 0;
-            font-family: 'Arial', sans-serif;
+            font-family: "Arial", sans-serif;
             font-size: 1.2rem;
           }
         `}</style>
