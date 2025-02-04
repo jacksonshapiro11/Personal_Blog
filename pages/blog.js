@@ -1,6 +1,4 @@
 // pages/blog.js
-//import Link from 'next/link';
-// pages/blog.js
 import Layout from '../components/Layout';
 import { getSortedPostsData } from '../lib/posts';
 
@@ -27,4 +25,3 @@ export default function Blog({ allPostsData }) {
     </Layout>
   );
 }
-
