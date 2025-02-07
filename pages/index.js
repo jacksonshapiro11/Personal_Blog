@@ -26,7 +26,7 @@ export default function Home() {
             padding: "2rem",
           }}
         >
-          <h1>Welcome to My Cosmic Space!</h1>
+          <h1>Welcome to Jackson's very tame website!</h1>
           <img
             src={dailyImage}
             alt="Daily AI Generated"
