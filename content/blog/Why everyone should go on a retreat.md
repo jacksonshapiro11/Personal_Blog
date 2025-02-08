@@ -6,9 +6,6 @@ author: "Jackson"
 
 ### Why everyone should go on a retreat: 3 simple steps to make it successful
 
-### TLDR what am I about to ready and is it worth my time? 
-Because you know I actually value my time and this rainbows and dinos website seems a bit crazy, so maybe I just want a little preview before I waste 19 minutes, 8 seconds (at 200 WPM assumption) on this random post.  Please see some AI generated highlights.
-
 ### AI Generated Summary and Takeways
 Top Quotes ... but there are more good ones I promise every line is really great
 1. “People fear sitting alone in a room alone for even a few minutes without a phone to entertain themselves because they do not want to get to know themselves.”
@@ -32,6 +29,7 @@ Actionable Insights
 4. Create Clear Systems: Use small, specific goals (e.g., read one page nightly) tied to existing routines.
 5. Review & Adapt: Track your progress and refine habits or feedback loops over time.
 
+Time Estimate: 19 minutes, 8 seconds (at 200 WPM assumption)
 
 ### Finally the actual post
 
