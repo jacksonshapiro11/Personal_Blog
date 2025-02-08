@@ -51,7 +51,7 @@ export default function Home() {
           }
           h1 {
             font-family: "Press Start 2P", cursive;
-            color: #ff4e50;
+            color:rgb(78, 119, 255);
           }
           @keyframes background-color-shift {
             0% {
