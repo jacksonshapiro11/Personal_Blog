@@ -4,11 +4,7 @@ import Link from "next/link";
 
 export default function Layout({ children }) {
   return (
-    <div style={{ 
-      minHeight: '100vh',
-      display: 'flex',
-      flexDirection: 'column'
-    }}>
+    <div className="page-wrapper">
       <header className="navbar">
         <nav>
           <Link href="/">Home</Link> |{" "}
@@ -18,10 +14,7 @@ export default function Layout({ children }) {
         </nav>
       </header>
 
-      <main style={{ 
-        marginTop: '50px',
-        flex: '1 0 auto' // Allow main content to grow
-      }}>
+      <main className="main-content">
         {children}
       </main>
 
@@ -30,6 +23,19 @@ export default function Layout({ children }) {
       </footer>
 
       <style jsx>{`
+        .page-wrapper {
+          display: flex;
+          flex-direction: column;
+          min-height: 100vh;
+          position: relative;
+        }
+        .main-content {
+          flex: 1 0 auto;
+          margin-top: 50px;
+          margin-bottom: 50px; /* Exactly match footer height */
+          display: flex;
+          flex-direction: column;
+        }
         nav a {
           color: white;
           margin: 0 0.5rem;
@@ -37,6 +43,12 @@ export default function Layout({ children }) {
         }
         nav a:hover {
           text-decoration: underline;
+        }
+        .footer {
+          position: absolute;
+          bottom: 0;
+          width: 100%;
+          height: 50px;
         }
       `}</style>
     </div>
