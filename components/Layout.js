@@ -42,12 +42,3 @@ export default function Layout({ children }) {
     </div>
   );
 }
-
-const styles = {
-  footer: {
-    backgroundColor: "#808080", // Metallic grey
-    color: "white",
-    textAlign: "center",
-    padding: "1rem 0",
-  },
-};

@@ -1,6 +1,7 @@
 // pages/index.js
 import React from "react";
 import Layout from "../components/Layout";
+import Image from 'next/image';
 
 function getDailyAIImage() {
   const images = ["image1.jpg", "image2.jpg", "image3.jpg"];
@@ -20,18 +21,19 @@ export default function Home() {
         <div className="welcome-section">
           <h1>Welcome to Random Musings and Tame Thoughts!</h1>
           <div className="image-container">
-            <img
+            <Image
               src={dailyImage}
               alt="Daily AI Generated"
+              width={1200}
+              height={800}
               style={{ 
                 width: "auto", 
                 height: "auto",
                 maxWidth: "95%",
-                maxHeight: "calc(100vh - 150px)", // Reduced margin for header/footer
+                maxHeight: "calc(100vh - 150px)",
                 objectFit: "contain", 
                 borderRadius: "8px",
                 margin: "auto",
-                display: "block",
               }}
             />
           </div>
