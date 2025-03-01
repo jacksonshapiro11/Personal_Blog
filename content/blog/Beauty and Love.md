@@ -6,6 +6,39 @@ author: "Jackson"
 
 ### What are True Relationships Built on?
 
+### AI Generated Summary and Takeaways
+Top Quotes ... but there are more good ones I promise every line is really great
+1. “There is absolutely nothing wrong with selling your soul. Everyone committing to selling their soul is key to a functioning society and each person’s long-term happiness. For heaven’s sake though, do not underprice your soul. Do not sell it too cheap.”
+2. “The Latin word for ‘decision’ is decidere, which means ‘to cut away’ or ‘to cut off’. When we make a decision, we are saying no more than we are saying yes. What we’re doing in that moment may not be the best action for one aspect of our lives, but holistically it drives us closer to the life we want.”
+3. “The most important decisions we make are who we are and what life we want to lead. The second most influential factor is who we surround ourselves with. We all have a finite amount of time, so choose your relationships with care, because by choosing one person you’re inherently rejecting millions of others.”
+4. “Relationships define us. We are shaped by conversations through simple osmosis and purposeful action. Knowing that we default to comfort means we must be super intentional about who we let into our lives and how close we are with them.”
+5. “True relationships only arise when you meet the right people at the right time. They work when you find someone who loves you for who you are and you have the courage to accept and reciprocate that love in equal measure. In a genuine bond, every ounce you put in yields a pound of mutual growth and happiness.”
+
+
+Summary:
+This post challenges us to consider the sacrifices we make every day—what we’re willing to “sell our soul for”—by examining how our decisions shape the life we build. It emphasizes that meaningful progress and genuine relationships require deliberate trade-offs, intentional choices, and mutual support, rather than defaulting to society’s easy path.
+
+
+
+Key Themes
+1. Decisions & Sacrifice: Every choice involves cutting away countless alternatives, demanding that we value our time and effort.
+2. Intentional Living: Success and fulfillment come from actively charting your own course rather than following default norms.
+3. Curating Relationships: The quality of our relationships is vital—they’re our finite resource and the cornerstone of genuine happiness.
+4. Mutual Growth & Support: Relationships are a two-player game where both parties must invest and grow together.
+5. Authenticity Over Vanity: True love and connection thrive on deep, soul-level bonds instead of superficial attributes.
+
+Actionable Insights
+1. Be Deliberate with Your Choices: Recognize that every decision is a trade-off; choose paths that truly align with your authentic goals.
+2. Invest in Deep Connections: Actively seek and nurture relationships that elevate and support you, rather than settling for convenience or superficiality.
+3. Embrace the Sacrifice: Understand that meaningful success requires giving up less important options—don’t underprice your own value.
+4. Create a Personal Support Network: Surround yourself with people who challenge you to grow and help clarify your vision.
+5. Prioritize Authenticity: Reject default modes of living and relationships by committing to what genuinely resonates with your inner self.
+
+
+Time Estimate: 18 minutes, 46 seconds (at 200 WPM assumption)
+
+### Finally the actual post
+
 What would you sell your soul for? Every day we wake up and ask ourselves that question implicitly or explicitly. We have to allocate time.  Balancing what we want to do with what we need to do in order to achieve the life we want.  Most people would rather hang out with friends then work 60, 80, or 100 hours a week, but a lot of people make the choice to work.  Compromise is at the core of everything we do. One day, hoping to get to the place we’ve picked out on our map marked success. There is absolutely nothing wrong with selling your soul.  Everyone committing to selling their soul is key to a functioning society and each person’s long-term happiness.  For heaven’s sake though, do not underprice your soul.  Do not sell it too cheap.  
 
 We can physically only do one thing at a time, so we actively choose to not do the infinite set of all other actions.  The Latin word for "decision" is decidere, which is a verb that means "to cut away" or "to cut off".  When we make a decision, we are saying no more than we are saying yes.  What we’re doing in that moment may not be the best action for one dimension of our lives, but holistically it will drive us closer to the life we want. Making a decision is hard because we are saying no not only to an infinite number of things, but also killing the opioid of hope that creates the fantasies in our mind that come with optionality.  Dreams cannot be destroyed in our head, but die when left there.  Decisions involve fear and doubt and promise no answers, just paths.  We must fight through the fear and poignant reality that we may be murdering our dreams through our action and accept this is preferable to letting them die with inaction.  A slow, less viscerally painful death is provided to us through inaction.  While action can be both scary and painful, it is our only chance of success. We must decide what we want instead of allowing our decisions to be made for us.  The world pushes us through the arrow of time and will of society in a direction.  

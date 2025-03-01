@@ -138,8 +138,8 @@ export default function Book({ bookData }) {
             border-bottom: 1px solid rgba(101, 67, 33, 0.2);
           }
           header h1 {
-            font-family: 'Courier New', Courier, monospace;
-            font-size: 2.8rem;
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
+            font-size: 2.24rem;
             color: #2c3e50;
             text-transform: uppercase;
             letter-spacing: -1px;
@@ -149,10 +149,10 @@ export default function Book({ bookData }) {
             color: #654321;
             font-style: italic;
             margin-top: 0.5rem;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
           }
           .post-content {
-            font-family: 'Courier New', Courier, monospace;
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
             line-height: 1.8;
             color: #2c3e50;
             position: relative;
@@ -160,17 +160,18 @@ export default function Book({ bookData }) {
           }
           .post-content :global(p) {
             margin-bottom: 2.25rem;
-            font-size: 1.2rem;
+            font-size: 0.96rem;
+            text-indent: 2rem;
           }
           .post-content :global(h2) {
-            font-size: 2rem;
+            font-size: 1.6rem;
             margin: 2rem 0 1rem 0;
             color: #2c3e50;
             text-transform: uppercase;
             letter-spacing: -1px;
           }
           .post-content :global(h3) {
-            font-size: 1.5rem;
+            font-size: 1.2rem;
             margin: 1.5rem 0 1rem 0;
             color: #2c3e50;
             text-transform: uppercase;
@@ -182,7 +183,7 @@ export default function Book({ bookData }) {
           }
           .post-content :global(li) {
             margin-bottom: 0.5rem;
-            font-size: 1.2rem;
+            font-size: 0.96rem;
           }
           .post-content :global(pre) {
             background: #f8f9fa;
@@ -192,7 +193,7 @@ export default function Book({ bookData }) {
             margin: 1.5rem 0;
           }
           .post-content :global(code) {
-            font-family: 'Courier New', Courier, monospace;
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
             background: #f8f9fa;
             padding: 0.2rem 0.4rem;
             border-radius: 3px;
@@ -210,16 +211,16 @@ export default function Book({ bookData }) {
               padding: 1.5rem 2rem;
             }
             header h1 {
-              font-size: 2rem;
+              font-size: 1.6rem;
             }
             .post-content :global(p) {
-              font-size: 1rem;
+              font-size: 0.8rem;
             }
             .post-content :global(h2) {
-              font-size: 1.5rem;
+              font-size: 1.2rem;
             }
             .post-content :global(h3) {
-              font-size: 1.25rem;
+              font-size: 1rem;
             }
           }
         `}</style>

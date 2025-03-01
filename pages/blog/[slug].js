@@ -16,6 +16,38 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Post({ postData }) {
+  const [showAiContent, setShowAiContent] = React.useState(false);
+
+  // Function to split content into AI and main sections
+  const splitContent = React.useMemo(() => {
+    const aiStartMarker = "<h3>AI Generated Summary and Takeaways</h3>";
+    const aiEndMarker = "<h3>Finally the actual post</h3>";
+    
+    const contentHtml = postData.contentHtml;
+    const aiStart = contentHtml.indexOf(aiStartMarker);
+    const aiEnd = contentHtml.indexOf(aiEndMarker);
+    
+    console.log('Markers found:', {
+      start: aiStart,
+      end: aiEnd,
+      contentHtml: contentHtml.substring(0, 200) // First 200 chars for debugging
+    });
+    
+    if (aiStart === -1 || aiEnd === -1) {
+      return {
+        beforeAi: "",
+        aiContent: "",
+        afterAi: contentHtml
+      };
+    }
+
+    return {
+      beforeAi: contentHtml.slice(0, aiStart),
+      aiContent: contentHtml.slice(aiStart, aiEnd),
+      afterAi: contentHtml.slice(aiEnd)
+    };
+  }, [postData.contentHtml]);
+
   return (
     <Layout>
       <div className="blog-page" style={{ flex: '1 0 auto', display: 'flex', flexDirection: 'column' }}>
@@ -27,17 +59,37 @@ export default function Post({ postData }) {
                 <time>{postData.date}</time>
               </div>
             </header>
-            <div
-              className="post-content"
-              dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
-            />
+            <div className="post-content">
+              <div dangerouslySetInnerHTML={{ __html: splitContent.beforeAi }} />
+              
+              {splitContent.aiContent && (
+                <>
+                  <button 
+                    className="toggle-ai-button"
+                    onClick={() => setShowAiContent(!showAiContent)}
+                  >
+                    {showAiContent ? 'Hide AI Analysis' : 'Show AI Analysis'}
+                  </button>
+                  
+                  <div 
+                    className={`ai-content ${showAiContent ? 'visible' : ''}`}
+                    dangerouslySetInnerHTML={{ __html: splitContent.aiContent }} 
+                  />
+                </>
+              )}
+              
+              <div dangerouslySetInnerHTML={{ __html: splitContent.afterAi }} />
+            </div>
           </article>
         </div>
         <style jsx>{`
           .content-container {
-            padding: 2rem calc(96px + 2rem);
-            max-width: 1200px;
-            margin: 0 auto;
+            background: #fff;
+            padding: 3rem 6rem;
+            margin: 2rem auto;
+            max-width: 1000px;
+            display: flex;
+            flex-direction: column;
             background-color: #f5e6c3;
             background-image: 
               /* Main coffee cup ring - made MUCH larger and more prominent */
@@ -152,6 +204,7 @@ export default function Post({ postData }) {
           .post-content :global(p) {
             margin-bottom: 2.25rem;
             font-size: 1.2rem;
+            text-indent: 4rem;
           }
           .post-content :global(h2) {
             font-family: 'Courier New', Courier, monospace;
@@ -213,6 +266,56 @@ export default function Post({ postData }) {
             .post-content :global(h3) {
               font-size: 1.25rem;
             }
+          }
+
+          @keyframes rainbow {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+          }
+
+          .toggle-ai-button {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            margin: 1rem 0;
+            border: none;
+            border-radius: 4px;
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
+            cursor: pointer;
+            color:rgb(0, 0, 0);
+            background: linear-gradient(
+              45deg,
+              #ff0000,
+              #ff7300,
+              #fffb00,
+              #48ff00,
+              #00ffd5,
+              #002bff,
+              #7a00ff,
+              #ff00c8,
+              #ff0000
+            );
+            background-size: 200% 200%;
+            animation: rainbow 12s linear infinite;
+            transition: transform 0.2s;
+          }
+
+          .toggle-ai-button:hover {
+            transform: scale(1.05);
+          }
+
+          .ai-content {
+            display: none;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+            border-left: 4px solid #654321;
+            padding-left: 1rem;
+            margin: 1rem 0;
+          }
+
+          .ai-content.visible {
+            display: block;
+            opacity: 1;
           }
         `}</style>
       </div>
