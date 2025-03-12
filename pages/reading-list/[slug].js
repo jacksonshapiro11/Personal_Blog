@@ -4,7 +4,8 @@ import { getSortedBooksData, getBookData } from "../../lib/readingList";
 import { remark } from "remark";
 import html from "remark-html";
 import React from "react";
-import { useSession } from '@supabase/auth-helpers-react'
+import { useRouter } from 'next/router'
+import Head from 'next/head'
 import Comments from '../../components/Comments'
 
 // Generate all possible paths for reading list entries
