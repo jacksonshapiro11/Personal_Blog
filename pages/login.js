@@ -1,13 +1,10 @@
-import { useState, useEffect } from 'react'
-import { useSession, useSupabaseClient } from '@supabase/auth-helpers-react'
-import { useRouter } from 'next/router'
+import { useSession } from '@supabase/auth-helpers-react'
 import Layout from '../components/Layout'
 import Auth from '../components/Auth'
 import Profile from '../components/Profile'
 
 export default function Login() {
   const session = useSession()
-  const router = useRouter()
 
   return (
     <Layout>

@@ -19,7 +19,7 @@ export async function getStaticProps({ params }) {
 
 export default function Post({ postData }) {
   const [showAiContent, setShowAiContent] = React.useState(false);
-  const session = useSession()
+  const session = useSession() // Used for authentication context
 
   // Function to split content into AI and main sections
   const splitContent = React.useMemo(() => {

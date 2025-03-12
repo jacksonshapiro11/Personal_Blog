@@ -13,8 +13,10 @@ export default function Comments({ postId, postType }) {
   const router = useRouter()
 
   useEffect(() => {
-    fetchComments()
-  }, [postId])
+    if (postId) {
+      fetchComments()
+    }
+  }, [postId, postType])
 
   async function fetchComments() {
     try {

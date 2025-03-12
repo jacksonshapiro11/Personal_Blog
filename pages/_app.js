@@ -1,5 +1,5 @@
 // pages/_app.js
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { createBrowserSupabaseClient } from '@supabase/auth-helpers-nextjs'
 import { SessionContextProvider } from '@supabase/auth-helpers-react'
 import '../styles/globals.css'; // Import the global CSS file

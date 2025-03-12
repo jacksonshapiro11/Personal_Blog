@@ -27,7 +27,7 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Book({ bookData }) {
-  const session = useSession()
+  const session = useSession() // Used for authentication context
   
   return (
     <Layout>
