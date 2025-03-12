@@ -7,10 +7,11 @@ export default function Layout({ children }) {
     <div className="page-wrapper">
       <header className="navbar">
         <nav>
-          <Link href="/">Home</Link> |{" "}
-          <Link href="/blog">Blog</Link> |{" "}
-          <Link href="/reading-list">Reading List</Link> |{" "}
-          <Link href="/admin">Admin</Link>
+          <Link href="/" className="nav-link">Home</Link> |{" "}
+          <Link href="/blog" className="nav-link">Blog</Link> |{" "}
+          <Link href="/reading-list" className="nav-link">Reading List</Link> |{" "}
+          <Link href="/admin" className="nav-link">Admin</Link> |{" "}
+          <Link href="/login" className="nav-link">Login</Link>
         </nav>
       </header>
 
