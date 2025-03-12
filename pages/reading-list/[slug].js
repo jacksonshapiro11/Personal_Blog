@@ -1,30 +1,25 @@
 // pages/reading-list/[slug].js
-import Layout from "../../components/Layout";
-import { getSortedBooksData, getBookData } from "../../lib/readingList";
-import { remark } from "remark";
-import html from "remark-html";
-import React from "react";
-import { useRouter } from 'next/router'
-import Head from 'next/head'
+import Layout from '../../components/layout'
+import { getAllBookIds, getBookData } from '../../lib/books'
 import Comments from '../../components/Comments'
 
 // Generate all possible paths for reading list entries
 export async function getStaticPaths() {
-  const allBooksData = getSortedBooksData();
-  const paths = allBooksData.map((book) => ({
-    params: { slug: book.slug },
-  }));
-  return { paths, fallback: false };
+  const paths = getAllBookIds()
+  return {
+    paths,
+    fallback: false
+  }
 }
 
 // Fetch data for a single reading list entry
 export async function getStaticProps({ params }) {
-  const bookData = getBookData(params.slug);
-  // Process the Markdown content to HTML
-  const processedContent = await remark().use(html).process(bookData.content);
-  const contentHtml = processedContent.toString();
-
-  return { props: { bookData: { ...bookData, contentHtml } } };
+  const bookData = await getBookData(params.slug)
+  return {
+    props: {
+      bookData
+    }
+  }
 }
 
 export default function Book({ bookData }) {
