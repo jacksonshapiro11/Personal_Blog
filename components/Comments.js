@@ -13,9 +13,8 @@ export default function Comments({ postId, postType }) {
   const router = useRouter()
 
   useEffect(() => {
-    if (postId) {
-      fetchComments()
-    }
+    fetchComments();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [postId, postType])
 
   async function fetchComments() {

@@ -27,8 +27,6 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Book({ bookData }) {
-  const session = useSession() // Used for authentication context
-  
   return (
     <Layout>
       <div className="background-container">

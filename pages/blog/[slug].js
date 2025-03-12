@@ -2,7 +2,6 @@
 import { getAllPostSlugs, getPostData } from '../../lib/posts';
 import Layout from '../../components/Layout';
 import React from 'react';
-import { useSession } from '@supabase/auth-helpers-react'
 import Comments from '../../components/Comments'
 
 export async function getStaticPaths() {
@@ -19,7 +18,6 @@ export async function getStaticProps({ params }) {
 
 export default function Post({ postData }) {
   const [showAiContent, setShowAiContent] = React.useState(false);
-  const session = useSession() // Used for authentication context
 
   // Function to split content into AI and main sections
   const splitContent = React.useMemo(() => {
