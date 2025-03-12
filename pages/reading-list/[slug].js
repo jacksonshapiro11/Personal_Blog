@@ -1,6 +1,6 @@
 // pages/reading-list/[slug].js
-import Layout from '../../components/layout'
-import { getAllBookIds, getBookData } from '../../lib/books'
+import Layout from '../../components/Layout'
+import { getAllBookIds, getBookData } from '../../lib/readingList'
 import Comments from '../../components/Comments'
 
 // Generate all possible paths for reading list entries
@@ -45,9 +45,9 @@ export default function Book({ bookData }) {
       </div>
       <style jsx>{`
         .background-container {
-          background: linear-gradient(-45deg, #ffffff,rgb(89, 148, 202),rgb(240, 245, 90),rgb(34, 227, 34));
+          background: linear-gradient(-45deg, #ffffff, #e6f3ff, #fff9e6, #e6ffe6);
           background-size: 400% 400%;
-          animation: gradient 5s ease infinite;
+          animation: gradient 15s ease infinite;
           min-height: 100vh;
           padding: 0 20px;
         }
@@ -71,58 +71,8 @@ export default function Book({ bookData }) {
           max-width: 1000px;
           display: flex;
           flex-direction: column;
-          background-image:
-            /* Main coffee cup ring - made MUCH larger and more prominent */
-            radial-gradient(
-              circle at 85% 15%,
-              transparent 40px,
-              rgba(101, 67, 33, 0.6) 42px,
-              rgba(101, 67, 33, 0.8) 44px,
-              rgba(101, 67, 33, 0.6) 46px,
-              transparent 48px
-            ),
-            /* Darker coffee stain under the ring */
-            radial-gradient(
-              circle at 85% 15%,
-              rgba(101, 67, 33, 0.3) 0px,
-              transparent 60px
-            ),
-            /* Additional coffee drips */
-            radial-gradient(
-              circle at 82% 12%,
-              rgba(101, 67, 33, 0.5) 0px,
-              transparent 15px
-            ),
-            radial-gradient(
-              circle at 88% 13%,
-              rgba(101, 67, 33, 0.4) 0px,
-              transparent 12px
-            ),
-            radial-gradient(
-              circle at 87% 18%,
-              rgba(101, 67, 33, 0.4) 0px,
-              transparent 18px
-            ),
-            /* Fold lines */
-            repeating-linear-gradient(
-              to bottom,
-              transparent 0,
-              transparent calc(35 * 1.8rem - 12px),
-              rgba(101, 67, 33, 0.03) calc(35 * 1.8rem - 12px),
-              rgba(101, 67, 33, 0.25) calc(35 * 1.8rem - 1px),
-              rgba(101, 67, 33, 0.3) calc(35 * 1.8rem),
-              rgba(101, 67, 33, 0.25) calc(35 * 1.8rem + 1px),
-              rgba(101, 67, 33, 0.03) calc(35 * 1.8rem + 12px),
-              transparent calc(35 * 1.8rem + 12px)
-            ),
-            /* Existing coffee stains */
-            radial-gradient(ellipse at 20% 20%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
-            radial-gradient(ellipse at 80% 30%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
-            radial-gradient(ellipse at 40% 70%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
-            radial-gradient(ellipse at 70% 80%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
-            radial-gradient(ellipse at 30% 40%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%);
-          box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-          border-radius: 8px;
+          box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+          border-radius: 5px;
           position: relative;
         }
 
