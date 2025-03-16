@@ -8,9 +8,16 @@ export default function Comments({ postId, postType }) {
   const [rating, setRating] = useState(5)
   const [loading, setLoading] = useState(true)
   const [submitting, setSubmitting] = useState(false)
+  const [errorMessage, setErrorMessage] = useState(null)
   const session = useSession()
   const supabase = useSupabaseClient()
   const router = useRouter()
+
+  console.log('Session status:', session ? 'Authenticated' : 'Not authenticated')
+  if (session) {
+    console.log('User ID:', session.user.id)
+    console.log('Access Token:', session.access_token ? 'Present' : 'Missing')
+  }
 
   useEffect(() => {
     fetchComments();
@@ -43,12 +50,17 @@ export default function Comments({ postId, postType }) {
       return
     }
 
+    console.log('Current auth state:', await supabase.auth.getSession())
+
+    // Log the exact user ID
+    console.log('User ID type:', typeof session.user.id)
+    console.log('User ID value:', session.user.id)
+
     if (!newComment.trim()) return
 
     try {
       setSubmitting(true)
-      
-      const { error } = await supabase.from('comments').insert({
+      console.log('Adding comment with data:', {
         post_id: postId,
         post_type: postType,
         content: newComment,
@@ -56,12 +68,25 @@ export default function Comments({ postId, postType }) {
         user_id: session.user.id
       })
       
-      if (error) throw error
+      const { data, error } = await supabase.from('comments').insert({
+        post_id: postId,
+        post_type: postType,
+        content: newComment,
+        rating,
+        user_id: session.user.id
+      }).select()
       
+      if (error) {
+        console.error('Supabase error details:', error)
+        throw error
+      }
+      
+      console.log('Comment added successfully:', data)
       setNewComment('')
       fetchComments()
     } catch (error) {
-      console.error('Error adding comment:', error)
+      console.error('Error adding comment:', error.message)
+      setErrorMessage(`Failed to add comment: ${error.message}`)
     } finally {
       setSubmitting(false)
     }
@@ -136,6 +161,13 @@ export default function Comments({ postId, postType }) {
         </div>
       ) : (
         <p className="no-comments">No comments yet. Be the first to comment!</p>
+      )}
+      
+      {errorMessage && (
+        <div className="error-message">
+          {errorMessage}
+          <button onClick={() => setErrorMessage(null)} className="dismiss-button">✕</button>
+        </div>
       )}
       
       <style jsx>{`
@@ -248,6 +280,24 @@ export default function Comments({ postId, postType }) {
         .no-comments {
           font-style: italic;
           color: #777;
+        }
+        .error-message {
+          padding: 10px 15px;
+          margin: 15px 0;
+          background-color: #ffeeee;
+          border-left: 4px solid #ff6b6b;
+          color: #d32f2f;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+        .dismiss-button {
+          background: none;
+          border: none;
+          color: #d32f2f;
+          cursor: pointer;
+          font-size: 1.2rem;
+          padding: 0 5px;
         }
       `}</style>
     </div>
