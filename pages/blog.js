@@ -11,129 +11,102 @@ export async function getStaticProps() {
 export default function Blog({ allPostsData }) {
   return (
     <Layout>
-      <div className="blog-page">
+      <div className="blog-page" style={{ flex: '1 0 auto', display: 'flex', flexDirection: 'column' }}>
         <div className="content-container">
-          <h1>Blog Posts</h1>
-          <div className="book">
-            <ul className="post-list">
-              {allPostsData.map(({ slug, title, date }) => (
-                <li key={slug} className="post-item">
-                  <Link href={`/blog/${slug}`} className="post-link">
-                    <div className="post-content">
-                      <div className="post-header">
-                        <h2>{title}</h2>
-                        <small className="post-date">{date}</small>
-                      </div>
-                    </div>
-                  </Link>
-                </li>
-              ))}
-            </ul>
+          <h1>Blog</h1>
+          <div className="posts-list">
+            {allPostsData.map(({ slug, title, date }) => (
+              <article key={slug} className="post-item">
+                <Link href={`/blog/${slug}`}>
+                  <h2>{title}</h2>
+                </Link>
+                <div className="post-meta">
+                  <time>{date}</time>
+                </div>
+              </article>
+            ))}
           </div>
         </div>
+
         <style jsx>{`
           .content-container {
             padding: 2rem calc(96px + 2rem);
             max-width: 1200px;
             margin: 0 auto;
-          }
-          .book {
-            perspective: 1000px;
-          }
-          .post-list {
-            list-style: none;
-            padding: 0;
-            transform-style: preserve-3d;
-            transition: transform 0.5s;
-          }
-          .post-item {
-            margin-bottom: 0.75rem;
-            display: flex;
-            transform-origin: left center;
-            transition: transform 0.3s ease-out;
+            background-color: #f5e6c3;
+            background-image: 
+              /* Coffee stains */
+              radial-gradient(ellipse at 20% 20%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
+              radial-gradient(ellipse at 80% 30%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
+              radial-gradient(ellipse at 40% 70%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
+              radial-gradient(ellipse at 70% 80%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%),
+              radial-gradient(ellipse at 30% 40%, transparent 95%, rgba(101, 67, 33, 0.07) 96%, transparent 100%);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
             position: relative;
           }
-          .post-item:hover {
-            transform: rotateY(-15deg);
-            z-index: 1;
-          }
-          .post-link {
-            display: block;
-            text-decoration: none;
-            color: inherit;
-            border: 2px solid transparent;
-            border-radius: 5px;
-            transition: all 0.3s ease-in-out;
-            width: 100%;
-            overflow: hidden;
-            box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
-          }
-          .post-link:hover {
-            animation: rainbow-border 3s infinite;
-            transform: translateY(-2px);
-          }
-          .post-content {
-            padding: 1rem 1.5rem;
-            background: rgba(255, 255, 255, 0.9);
-            border-radius: 3px;
-            white-space: nowrap;
-            overflow: hidden;
-            position: relative;
-          }
-          .post-content::after {
-            content: '';
-            position: absolute;
-            right: 0;
-            top: 0;
-            height: 100%;
-            width: 30px;
-            background: linear-gradient(to right, transparent, rgba(255,255,255,0.9));
-            pointer-events: none;
-          }
-          .post-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 2rem;
-          }
-          .post-content h2 {
-            margin: 0;
+
+          h1 {
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
+            font-size: 2.8rem;
             color: #2c3e50;
-            font-size: 2.4rem;
-            font-family: 'Courier New', Courier, monospace;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            flex: 1;
             text-transform: uppercase;
             letter-spacing: -1px;
+            margin: 0 0 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid rgba(101, 67, 33, 0.2);
           }
-          .post-date {
-            color: #666;
+
+          .posts-list {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+          }
+
+          .post-item {
+            border-bottom: 1px solid rgba(101, 67, 33, 0.1);
+            padding-bottom: 2rem;
+          }
+
+          .post-item:last-child {
+            border-bottom: none;
+          }
+
+          .post-item h2 {
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
+            font-size: 1.8rem;
+            margin: 0 0 0.5rem;
+            color: #2c3e50;
+            cursor: pointer;
+            transition: color 0.2s;
+            display: inline-block;
+            line-height: 1.2;
+          }
+
+          .post-item a {
+            text-decoration: none;
+            display: inline-block;
+          }
+
+          .post-item h2:hover {
+            color: #654321;
+          }
+
+          .post-meta {
+            font-family: 'American Typewriter', 'Special Elite', 'Courier Prime', 'Courier New', Courier, monospace;
+            color: #654321;
             font-style: italic;
-            white-space: nowrap;
-            font-size: 1.2rem;
-            font-family: 'Courier New', Courier, monospace;
           }
-          @keyframes rainbow-border {
-            0% { border-color: red; }
-            14% { border-color: orange; }
-            28% { border-color: yellow; }
-            42% { border-color: green; }
-            57% { border-color: cyan; }
-            71% { border-color: blue; }
-            85% { border-color: purple; }
-            100% { border-color: red; }
-          }
+
           @media (max-width: 768px) {
             .content-container {
               padding: 1.5rem 2rem;
             }
-            .post-content h2 {
-              font-size: 1.8rem;
+            h1 {
+              font-size: 2rem;
             }
-            .post-date {
-              font-size: 1rem;
+            .post-item h2 {
+              font-size: 1.4rem;
             }
           }
         `}</style>
