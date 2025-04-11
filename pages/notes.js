@@ -9,72 +9,81 @@ export default function Notes({ notes, allTags }) {
   const [searchType, setSearchType] = useState('content');
   const [filteredNotes, setFilteredNotes] = useState(notes);
 
-  // Calculate tag frequencies - both book count and total references
-  const tagFrequencies = notes.reduce((acc, note) => {
-    // Get unique tags from the book level
-    const bookTags = [...new Set(note.tags)];
-    
-    bookTags.forEach(tag => {
-      if (!acc[tag]) {
-        acc[tag] = { bookCount: 0, totalCount: 0 };
-      }
-      acc[tag].bookCount += 1; // Increment book count
-    });
-
-    // Count tags from highlights
-    note.highlights.forEach(highlight => {
-      highlight.tags.forEach(tag => {
+  // Calculate tag frequencies for filtered notes
+  const calculateTagFrequencies = (notesToCount) => {
+    return notesToCount.reduce((acc, note) => {
+      // Get unique tags from the book level
+      const bookTags = [...new Set(note.tags)];
+      
+      bookTags.forEach(tag => {
         if (!acc[tag]) {
           acc[tag] = { bookCount: 0, totalCount: 0 };
         }
-        acc[tag].totalCount += 1; // Increment total references
+        acc[tag].bookCount += 1;
       });
+
+      // Count tags from highlights
+      note.highlights.forEach(highlight => {
+        highlight.tags.forEach(tag => {
+          if (!acc[tag]) {
+            acc[tag] = { bookCount: 0, totalCount: 0 };
+          }
+          acc[tag].totalCount += 1;
+        });
+      });
+
+      return acc;
+    }, {});
+  };
+
+  // Filter notes based on search
+  const getFilteredNotesBySearch = () => {
+    if (!searchQuery) return notes;
+    
+    return notes.filter(note => {
+      switch (searchType) {
+        case 'tags':
+          return note.tags.some(tag => 
+            tag.toLowerCase().includes(searchQuery.toLowerCase())
+          );
+        case 'author':
+          return note.author.toLowerCase().includes(searchQuery.toLowerCase());
+        case 'category':
+          return note.category.toLowerCase().includes(searchQuery.toLowerCase());
+        case 'content':
+        default:
+          return (
+            note.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            note.highlights.some(h => 
+              h.text.toLowerCase().includes(searchQuery.toLowerCase()) ||
+              h.note.toLowerCase().includes(searchQuery.toLowerCase())
+            )
+          );
+      }
     });
+  };
 
-    return acc;
-  }, {});
-
-  // Sort tags by total references, then by book count if equal
-  const sortedTags = allTags.sort((a, b) => {
-    const totalDiff = tagFrequencies[b].totalCount - tagFrequencies[a].totalCount;
+  // Get current tag frequencies based on filtered notes
+  const currentTagFrequencies = calculateTagFrequencies(getFilteredNotesBySearch());
+  
+  // Get current available tags
+  const currentTags = Object.keys(currentTagFrequencies).sort((a, b) => {
+    const totalDiff = currentTagFrequencies[b].totalCount - currentTagFrequencies[a].totalCount;
     if (totalDiff !== 0) return totalDiff;
-    return tagFrequencies[b].bookCount - tagFrequencies[a].bookCount;
+    return currentTagFrequencies[b].bookCount - currentTagFrequencies[a].bookCount;
   });
 
   useEffect(() => {
-    let filtered = notes;
+    const searchFiltered = getFilteredNotesBySearch();
     
-    if (searchQuery) {
-      filtered = filtered.filter(note => {
-        switch (searchType) {
-          case 'tags':
-            return note.tags.some(tag => 
-              tag.toLowerCase().includes(searchQuery.toLowerCase())
-            );
-          case 'author':
-            return note.author.toLowerCase().includes(searchQuery.toLowerCase());
-          case 'category':
-            return note.category.toLowerCase().includes(searchQuery.toLowerCase());
-          case 'content':
-          default:
-            return (
-              note.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-              note.highlights.some(h => 
-                h.text.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                h.note.toLowerCase().includes(searchQuery.toLowerCase())
-              )
-            );
-        }
-      });
-    }
+    // Then filter by selected tags
+    const tagFiltered = selectedTags.length > 0
+      ? searchFiltered.filter(note =>
+          selectedTags.every(tag => note.tags.includes(tag))
+        )
+      : searchFiltered;
 
-    if (selectedTags.length > 0) {
-      filtered = filtered.filter(note =>
-        selectedTags.every(tag => note.tags.includes(tag))
-      );
-    }
-
-    setFilteredNotes(filtered);
+    setFilteredNotes(tagFiltered);
   }, [searchQuery, selectedTags, searchType, notes]);
 
   // Modify the rendering logic to show highlights when tags are selected
@@ -82,30 +91,36 @@ export default function Notes({ notes, allTags }) {
     if (selectedTags.length === 0) {
       // Show books when no tags are selected
       return filteredNotes.map(note => (
-        <Link href={`/notes/${note.slug}`} key={note.slug}>
-          <div className="note-card">
-            <h3>{note.title}</h3>
-            <p className="author">By {note.author}</p>
-            <p className="category">{note.category}</p>
-            <div className="tags">
-              {note.tags.slice(0, 5).map(tag => (
-                <span key={tag} className="tag">#{tag}</span>
-              ))}
-              {note.tags.length > 5 && <span>...</span>}
-            </div>
-            {note.highlights && note.highlights[0] && (
-              <div className="highlight">
-                <p>{note.highlights[0].text.substring(0, 200)}...</p>
-              </div>
-            )}
+        <div className="note-card" key={note.slug}>
+          <h3 className="title-line">
+            <Link href={`/notes/${note.slug}`}>
+              {note.title}
+            </Link>
+          </h3>
+          <p className="author">By {note.author}</p>
+          <p className="category">{note.category}</p>
+          <div className="tags">
+            {note.tags.slice(0, 5).map(tag => (
+              <span key={tag} className="tag">#{tag}</span>
+            ))}
+            {note.tags.length > 5 && <span>...</span>}
           </div>
-        </Link>
+          {note.highlights && note.highlights[0] && (
+            <div className="highlight">
+              <p>{note.highlights[0].text.substring(0, 200)}...</p>
+            </div>
+          )}
+        </div>
       ));
     } else {
       // Show highlights that contain selected tags
       return filteredNotes.map(note => (
         <div key={note.slug} className="book-highlights">
-          <h3>{note.title}</h3>
+          <h3 className="title-line">
+            <Link href={`/notes/${note.slug}`}>
+              {note.title}
+            </Link>
+          </h3>
           <p className="author">By {note.author}</p>
           {note.highlights
             .filter(highlight => 
@@ -174,7 +189,7 @@ export default function Notes({ notes, allTags }) {
           <aside className="sidebar">
             <h3>Tags</h3>
             <div className="tags-container">
-              {sortedTags.map(tag => (
+              {currentTags.map(tag => (
                 <button
                   key={tag}
                   className={`tag ${selectedTags.includes(tag) ? 'active' : ''}`}
@@ -189,10 +204,10 @@ export default function Notes({ notes, allTags }) {
                   <span className="tag-name">#{tag}</span>
                   <span className="tag-metrics">
                     <span className="book-count" title="Number of books">
-                      📚 {tagFrequencies[tag].bookCount}
+                      📚 {currentTagFrequencies[tag].bookCount}
                     </span>
                     <span className="total-count" title="Total references">
-                      🏷️ {tagFrequencies[tag].totalCount}
+                      🏷️ {currentTagFrequencies[tag].totalCount}
                     </span>
                   </span>
                 </button>
@@ -421,6 +436,21 @@ export default function Notes({ notes, allTags }) {
             background: rgba(255, 255, 255, 0.05);
             border-radius: 4px;
             font-style: italic;
+          }
+
+          .title-line {
+            margin: 0;
+            padding: 0;
+          }
+
+          .title-line a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s ease;
+          }
+
+          .title-line a:hover {
+            color: #ff8000;
           }
         `}</style>
       </div>
