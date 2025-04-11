@@ -1,9 +1,12 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable react-hooks/exhaustive-deps */
+
 import Layout from '../components/Layout';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { getAllNotes } from '../utils/markdownParser';
 
-export default function Notes({ notes, allTags }) {
+export default function Notes({ notes }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedTags, setSelectedTags] = useState([]);
   const [searchType, setSearchType] = useState('content');
@@ -40,23 +43,27 @@ export default function Notes({ notes, allTags }) {
   const getFilteredNotesBySearch = () => {
     if (!searchQuery) return notes;
     
+    const query = searchQuery.toLowerCase();
+    
     return notes.filter(note => {
       switch (searchType) {
         case 'tags':
           return note.tags.some(tag => 
-            tag.toLowerCase().includes(searchQuery.toLowerCase())
+            tag.toLowerCase().includes(query)
+          ) || note.highlights.some(h => 
+            h.tags.some(tag => tag.toLowerCase().includes(query))
           );
         case 'author':
-          return note.author.toLowerCase().includes(searchQuery.toLowerCase());
+          return note.author.toLowerCase().includes(query);
         case 'category':
-          return note.category.toLowerCase().includes(searchQuery.toLowerCase());
+          return note.category.toLowerCase().includes(query);
         case 'content':
         default:
           return (
-            note.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            note.title.toLowerCase().includes(query) ||
             note.highlights.some(h => 
-              h.text.toLowerCase().includes(searchQuery.toLowerCase()) ||
-              h.note.toLowerCase().includes(searchQuery.toLowerCase())
+              h.text.toLowerCase().includes(query) ||
+              h.note?.toLowerCase().includes(query)
             )
           );
       }
@@ -74,16 +81,18 @@ export default function Notes({ notes, allTags }) {
   });
 
   useEffect(() => {
-    const searchFiltered = getFilteredNotesBySearch();
+    let filtered = getFilteredNotesBySearch();
     
-    // Then filter by selected tags
-    const tagFiltered = selectedTags.length > 0
-      ? searchFiltered.filter(note =>
-          selectedTags.every(tag => note.tags.includes(tag))
+    if (selectedTags.length > 0) {
+      // When tags are selected, filter notes that have highlights matching all selected tags
+      filtered = filtered.filter(note =>
+        note.highlights.some(highlight =>
+          selectedTags.every(tag => highlight.tags.includes(tag))
         )
-      : searchFiltered;
+      );
+    }
 
-    setFilteredNotes(tagFiltered);
+    setFilteredNotes(filtered);
   }, [searchQuery, selectedTags, searchType, notes]);
 
   // Modify the rendering logic to show highlights when tags are selected
@@ -92,8 +101,8 @@ export default function Notes({ notes, allTags }) {
       // Show books when no tags are selected
       return filteredNotes.map(note => (
         <div className="note-card" key={note.slug}>
-          <h3 className="title-line">
-            <Link href={`/notes/${note.slug}`}>
+          <h3 className="title-container">
+            <Link href={`/notes/${encodeURIComponent(note.slug)}`} className="title-link">
               {note.title}
             </Link>
           </h3>
@@ -116,8 +125,8 @@ export default function Notes({ notes, allTags }) {
       // Show highlights that contain selected tags
       return filteredNotes.map(note => (
         <div key={note.slug} className="book-highlights">
-          <h3 className="title-line">
-            <Link href={`/notes/${note.slug}`}>
+          <h3 className="title-container">
+            <Link href={`/notes/${encodeURIComponent(note.slug)}`} className="title-link">
               {note.title}
             </Link>
           </h3>
@@ -142,7 +151,7 @@ export default function Notes({ notes, allTags }) {
               </div>
             ))}
         </div>
-      )).filter(book => book.props.children[2].length > 0); // Only show books with matching highlights
+      )).filter(book => book.props.children[2].length > 0);
     }
   };
 
@@ -438,19 +447,29 @@ export default function Notes({ notes, allTags }) {
             font-style: italic;
           }
 
-          .title-line {
+          .title-container {
             margin: 0;
             padding: 0;
+            font-size: 1.5em;
           }
 
-          .title-line a {
+          .title-link {
             color: white;
+            font-weight: 800;
             text-decoration: none;
             transition: color 0.3s ease;
+            cursor: pointer;
+            display: inline;
           }
 
-          .title-line a:hover {
+          .title-link:hover {
             color: #ff8000;
+          }
+
+          .note-card .title-link,
+          .book-highlights .title-link {
+            font-weight: 700;
+            letter-spacing: 0.5px;
           }
         `}</style>
       </div>
@@ -460,14 +479,10 @@ export default function Notes({ notes, allTags }) {
 
 export async function getStaticProps() {
   const notes = getAllNotes();
-  const allTags = Array.from(
-    new Set(notes.flatMap(note => note.tags))
-  );
-
+  
   return {
     props: {
       notes,
-      allTags,
     },
   };
 } 

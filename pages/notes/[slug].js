@@ -1,25 +1,28 @@
 import Layout from '../../components/Layout';
 import { getAllNotes } from '../../utils/markdownParser';
-import ReactMarkdown from 'react-markdown';
+import Link from 'next/link';
 
 export default function NotePage({ note }) {
+  if (!note) return <div>Note not found</div>;
+
   return (
     <Layout>
       <div className="note-page">
-        <h1>{note.title}</h1>
-        <p className="author">By {note.author}</p>
-        
-        <div className="tags">
-          {note.tags.map(tag => (
-            <span key={tag} className="tag">#{tag}</span>
-          ))}
+        <div className="note-header">
+          <h1>{note.title}</h1>
+          <p className="author">By {note.author}</p>
+          <div className="tags">
+            {note.tags.map(tag => (
+              <span key={tag} className="tag">#{tag}</span>
+            ))}
+          </div>
         </div>
 
-        <div className="highlights">
-          <h2>Key Highlights</h2>
+        <div className="highlights-section">
+          <h2>Highlights</h2>
           {note.highlights.map((highlight, index) => (
-            <div key={index} className="highlight-block">
-              <blockquote>{highlight.text}</blockquote>
+            <div key={index} className="highlight-card">
+              <div className="highlight-text">{highlight.text}</div>
               <div className="highlight-tags">
                 {highlight.tags.map(tag => (
                   <span key={tag} className="tag">#{tag}</span>
@@ -34,9 +37,9 @@ export default function NotePage({ note }) {
           ))}
         </div>
 
-        <div className="content">
-          <ReactMarkdown>{note.content}</ReactMarkdown>
-        </div>
+        <Link href="/notes" className="back-link">
+          ← Back to Notes
+        </Link>
 
         <style jsx>{`
           .note-page {
@@ -45,58 +48,88 @@ export default function NotePage({ note }) {
             padding: 20px;
           }
 
+          .note-header {
+            margin-bottom: 40px;
+            text-align: center;
+          }
+
+          h1 {
+            margin-bottom: 10px;
+            color: white;
+          }
+
           .author {
             color: #666;
             font-style: italic;
+            margin-bottom: 20px;
           }
 
           .tags {
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
+            justify-content: center;
             margin: 20px 0;
           }
 
           .tag {
+            background: rgba(255, 255, 255, 0.1);
             padding: 5px 10px;
             border-radius: 15px;
+            font-size: 0.9em;
+          }
+
+          .highlights-section {
+            margin: 40px 0;
+          }
+
+          .highlight-card {
             background: rgba(255, 255, 255, 0.1);
-            color: #666;
-          }
-
-          .highlights {
-            margin: 30px 0;
-          }
-
-          .highlight-block {
-            margin: 30px 0;
             padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
+            margin: 20px 0;
             border-radius: 8px;
+            border-left: 4px solid #ff8000;
           }
 
-          blockquote {
-            margin: 10px 0;
-            padding: 10px 20px;
-            border-left: 4px solid #ff8000;
-            background: rgba(255, 255, 255, 0.05);
+          .highlight-text {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 15px;
           }
 
           .highlight-tags {
-            margin: 10px 0;
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
+            margin: 10px 0;
           }
 
           .highlight-note {
-            margin-top: 10px;
+            margin-top: 15px;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
             font-style: italic;
-            color: #666;
           }
 
-          .content {
-            line-height: 1.6;
+          .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            transition: all 0.3s ease;
+          }
+
+          .back-link:hover {
+            background: linear-gradient(
+              to right,
+              #ff0000,
+              #ff8000
+            );
+            transform: translateX(-5px);
           }
         `}</style>
       </div>
@@ -118,7 +151,13 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const notes = getAllNotes();
-  const note = notes.find(n => n.slug === params.slug);
+  const note = notes.find(note => note.slug === params.slug);
+
+  if (!note) {
+    return {
+      notFound: true
+    };
+  }
 
   return {
     props: {
