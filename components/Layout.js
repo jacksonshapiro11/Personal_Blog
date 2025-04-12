@@ -9,10 +9,10 @@ export default function Layout({ children }) {
         <nav>
           <Link href="/" className="nav-link">Home</Link> |{" "}
           <Link href="/blog" className="nav-link">Blog</Link> |{" "}
-          <Link href="/reading-list" className="nav-link">Reading List</Link> |{" "}
+          {/* <Link href="/reading-list" className="nav-link">Reading List</Link> |{" "} */}
+          {/* <Link href="/admin" className="nav-link">Admin</Link> */}
           <Link href="/notes" className="nav-link">Notes</Link> |{" "}
           <Link href="/login" className="nav-link">Login</Link> |{" "}
-          <Link href="/admin" className="nav-link">Admin</Link>
         </nav>
       </header>
 
