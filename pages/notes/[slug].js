@@ -139,9 +139,12 @@ export default function NotePage({ note }) {
 
 export async function getStaticPaths() {
   const notes = getAllNotes();
-  const paths = notes.map(note => ({
-    params: { slug: note.slug }
-  }));
+  const paths = notes.map(note => {
+    console.log('Generated path for:', note.title, 'with slug:', note.slug);
+    return {
+      params: { slug: note.slug }
+    };
+  });
 
   return {
     paths,
@@ -150,10 +153,20 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
+  console.log('Attempting to find note with slug:', params.slug);
   const notes = getAllNotes();
-  const note = notes.find(note => note.slug === params.slug);
+  console.log('Available slugs:', notes.map(n => n.slug));
+  const note = notes.find(note => {
+    console.log('Comparing:', {
+      paramSlug: params.slug,
+      noteSlug: note.slug,
+      matches: note.slug === params.slug
+    });
+    return note.slug === params.slug;
+  });
 
   if (!note) {
+    console.log('Note not found for slug:', params.slug);
     return {
       notFound: true
     };

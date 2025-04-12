@@ -97,12 +97,18 @@ export default function Notes({ notes }) {
 
   // Modify the rendering logic to show highlights when tags are selected
   const renderContent = () => {
+    // Log the filtered notes to debug
+    console.log('Rendering notes:', filteredNotes.map(n => ({ title: n.title, slug: n.slug })));
+
     if (selectedTags.length === 0) {
       // Show books when no tags are selected
-      return filteredNotes.map(note => (
-        <div className="note-card" key={note.slug}>
+      return filteredNotes.map((note, index) => (
+        <div className="note-card" key={`${note.slug}-${index}`}>
           <h3 className="title-container">
-            <Link href={`/notes/${encodeURIComponent(note.slug)}`} className="title-link">
+            <Link 
+              href={`/notes/${encodeURIComponent(note.slug.trim())}`} 
+              className="title-link"
+            >
               {note.title}
             </Link>
           </h3>
@@ -123,10 +129,13 @@ export default function Notes({ notes }) {
       ));
     } else {
       // Show highlights that contain selected tags
-      return filteredNotes.map(note => (
-        <div key={note.slug} className="book-highlights">
+      return filteredNotes.map((note, index) => (
+        <div key={`${note.slug}-${index}`} className="book-highlights">
           <h3 className="title-container">
-            <Link href={`/notes/${encodeURIComponent(note.slug)}`} className="title-link">
+            <Link 
+              href={`/notes/${encodeURIComponent(note.slug.trim())}`} 
+              className="title-link"
+            >
               {note.title}
             </Link>
           </h3>
@@ -135,8 +144,8 @@ export default function Notes({ notes }) {
             .filter(highlight => 
               selectedTags.every(tag => highlight.tags.includes(tag))
             )
-            .map((highlight, index) => (
-              <div key={`${note.slug}-highlight-${index}`} className="highlight-card">
+            .map((highlight, hIndex) => (
+              <div key={`${note.slug}-highlight-${hIndex}`} className="highlight-card">
                 <div className="highlight-text">{highlight.text}</div>
                 <div className="highlight-tags">
                   {highlight.tags.map(tag => (

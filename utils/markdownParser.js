@@ -17,6 +17,22 @@ export function getAllNotes() {
     const filePath = path.join(notesDirectory, filename);
     const fileContents = fs.readFileSync(filePath, 'utf8');
     
+    // Create slug from filename by:
+    // 1. Removing .md extension
+    // 2. Replacing spaces with hyphens
+    // 3. Converting to lowercase
+    // 4. Removing any special characters
+    const slug = filename
+      .replace(/\.md$/, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/(^-|-$)/g, '');
+
+    console.log('Creating slug:', {
+      originalFilename: filename,
+      generatedSlug: slug
+    });
+
     // Extract title (after the # and before the first newline)
     const titleMatch = fileContents.match(/# (.*?)\n/);
     const title = titleMatch ? titleMatch[1].trim() : '';
@@ -61,7 +77,7 @@ export function getAllNotes() {
     }
 
     return {
-      slug: filename.replace('.md', ''),
+      slug,
       title,
       author: metadata.Author || '',
       fullTitle: metadata['Full Title'] || '',
