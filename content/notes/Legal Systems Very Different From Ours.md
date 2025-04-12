@@ -1,0 +1,136 @@
+# Legal Systems Very Different From Ours
+
+![](https://images-na.ssl-images-amazon.com/images/I/51tA-us7crL._SL200_.jpg)
+
+### Metadata
+
+- Author: David Friedman, Peter Leeson, David Skarbek
+- Full Title: Legal Systems Very Different From Ours
+- Category: #books
+
+### Highlights
+
+- The Legalists, who believed in using the rational self-interest of those subject to law to make them behave in the way desired by those making the law, were accused by later writers of advocating harsh penalties to drive the crime rate to near zero.2 They supported a strong central government and equal treatment under law. Confucianists argued for modifying behavior not by reward and punishment but by teaching virtue. They supported unequal treatment based both on the unequal status of those to whom the law applied and on their differing relationships. ([Location 86](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=86))
+    - **Tags:** #confucionism, #virtues, #racism, #incentive-allignment, #reward-and-punishment, #legalism, #virtue-ethics, #prison
+    - **Note:** Legalist believed in punishment and reform while confucionists wanted to teach virtue. Laws were also class based.
+- The disagreement between Legalists and Confucianists to some degree resembles the conflict between 18th and 19th century British approaches to crime and punishment. The dominant view in the eighteenth century saw criminal penalties as deterrence, their purpose to make crime unprofitable. The dominant view in the nineteenth century saw criminals as victims of their own ignorance and irrationality, the purpose of penalties to reform them, make them wiser and better. That view was reflected in terms such as “reformatory” and “penitentiary” and associated practices. Both approaches survive in modern legal theory and modern legal systems. ([Location 95](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=95))
+    - **Tags:** #prison, #deterence-vs-reform, #laws, #change-(don't-expect-from-others), #incentive-structures
+    - **Note:** Seeing laws as deterence vs reform.
+- The underlying assumption was that people ought to know right from wrong without the assistance of the legal code, that the Emperor, and by delegation his officials, had ([Location 195](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=195))
+    - **Note:** People were punished for doing something they knew was wrong. this gets back to the balance of the universe
+- As she produces children, her status in the household gradually rises. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=506))
+- Familia, Vitsa, and Natsiya are all kinship structures. The geographical unit above the Familia is the kumpania. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=509))
+- One consists of ordinary legal rules covering the obligations of Romani to each other, including extensive obligations of mutual help, especially but not exclusively between relatives. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=521))
+    - **Tags:** #coordination, #cooperation-and-competition
+    - **Note:** Mutual help.important
+- The second group’s response was to claim damages via a kris, a Romani court, from the responsible parties—not the locals who attacked them but the first group of Romani.78 ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=536))
+- The second category covered by Romania is an elaborate system of purity and pollution, Orthodox Judaism on steroids.79 Its ([Location 538](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=538))
+    - **Note:** Weird rules
+- enforced are feud and the threat of ostracism. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=554))
+- In a society where income and power depend in large part on the ability to manipulate both outside authorities and fellow members of the community, that ability and the ability to defend against it are important life skills. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=563))
+    - **Note:** They rejedct outsiders but get power from them
+- The Rom often lie to each other about everyday matters, but they almost always lie to the gaje. There ([Location 565](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=565))
+    - **Note:** Lying completely ok
+- Age is directly correlated with power and respect ([Location 600](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=600))
+- While these rules could lead to a succession of killings, in practice feud mostly takes the form not of violence but of avoidance—of ([Location 648](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=648))
+- contagious also blocks interaction with non-Rom and so makes the individual Rom dependent on his ability to associate with his fellow Rom. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=688))
+    - **Tags:** #mob-rule
+    - **Note:** Insular group
+- The basic unit of an Amish community is the congregation, typically of twenty-five to forty households; there is no higher level with authority over the individual congregation. ([Location 744](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=744))
+    - **Tags:** #amish
+- One can argue that the existence of such rules makes the Amish more modern than the rest of us, not less, since they are making deliberate decisions about what modern technologies do or do not fit into their social structure. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=771))
+    - **Tags:** #tech-serves-humans, #amish, #technology-(embrace-it)
+    - **Note:** Social structure and family important. Technology becoming your ally not enemy and using it intelligently is something we can learn from the amish.
+- Two weeks before, each is asked “whether he is in agreement with the Ordnung, whether he is at peace with the brotherhood, and whether anything ‘stands in the way’ of his entering into the communion service.” ([Location 781](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=781))
+- Communion does not take place until all members agree. This gives the members an opportunity to openly express disagreement with the current ordnung—but, as a rule, the members accept the clergy leaders’ position. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=783))
+    - **Tags:** #commit-to-path-dont-languish-in-theory, #critical-approach-(conjectures-and-refutations), #unity
+    - **Note:** Showing unity in decision, but allowing for disagreement before and conversation
+- If enough push at the boundaries of the existing rules without complaint, they are likely to change. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=786))
+    - **Tags:** #push-boundries, #change-(is-constant)
+    - **Note:** Common sense. If there is a desire for change it’ll happen.
+- “it is better not to make a vow than to make a vow and later break it ([Location 833](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=833))
+- Competitive dictatorship is the mechanism we routinely use to control hotels and restaurants; the customers have no vote on what color the walls are painted or what is on the menu but an absolute vote on which one they patronize. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=858))
+    - **Note:** Competative dictatorship
+- One was the problem of legal uniformity: If judges, who were also legal scholars, disagreed about the meaning of the possibly ambiguous text, how were their disagreements to be settled? ([Location 985](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=985))
+    - **Tags:** #laws, #legal-uniformity
+    - **Note:** Legal uniformity
+- A second problem was how to change the law. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=992))
+    - **Tags:** #change-(nature-of)
+    - **Note:** Updating the law
+- It is more important that there be a single answer than that the answer be correct and it is the view of the majority faction—Gamliel was the head of the Great Sanhedrin—that prevails. ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1015))
+    - **Tags:** #commit-to-path-dont-languish-in-theory, #agreement/-united-front
+    - **Note:** Important to be in agreement then right
+- The eventual solution was to do both. Joseph Caro wrote one volume, the Bet Yosef, that provided multiple arguments from different authorities and a second and shorter volume, the Shulhan Arukh, the “Set Table,” that gave only the conclusions.149 A judge could look up the answer to any legal problem in the Shulhan Arukh and, if unhappy with it, go to the Bet Yosef to see the variant opinions of other authorities. ([Location 1069](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1069))
+    - **Tags:** #laws, #trusting-sources-(knowing-which-to-trust), #sources-of-knowledge, #critical-approach-(conjectures-and-refutations)
+    - **Note:** With so many ways to make a decision a book of arguments theb a seperate book on conclusions was written. This is hilarious Jewish people love to debate and argue
+- The result of these developments was a legal system based in theory on Torah but in fact largely on rabbinic interpretations of Torah, many of them far from the literal meaning of the text,164 and rabbinic legislation, some of it in direct violation of the text.165 ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1134))
+- What I find interesting about this solution, other than its ingenuity and somewhat dubious logic, is the reluctance of the communal authorities who offered it to follow through in practice on their legal theory. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1201))
+    - **Tags:** #old-habits-die-hard
+    - **Note:** Create logic to solve problems between communal and biblical law
+- A legal doctrine that gave the daughter the right to sue would make the daughter’s tactic less risky by making it possible for her to punish a seducer who refused to marry her. A legal doctrine that gave the father control over the action gave him a threat that could be used to discourage unacceptable suitors.180 ([Location 1253](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1253))
+    - **Note:** Interesting marrige and divorce
+- making a claim certain rather than a claim uncertain; ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1263))
+- The court is not sure the defendant owes more than a quarter, so will not force him to pay more than a quarter. The court is not sure the plaintiff is entitled to less than a half, so if he has taken half the court will not make him give any of it back. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1292))
+    - **Tags:** #sunk-costs, #laws
+- as in much of modern tort law, is negligence; ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1358))
+    - **Note:** Negligence is a big tort feature
+- man suffered a sequence of injuries for each of which he was owed damages, the total was capped at the value of his life. ([Location 1388](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1388))
+    - **Tags:** #base-rates, #laws
+    - **Note:** Not ignorong base rates systems thinking
+- There could be only one correct answer to what God wanted humans to do but there could be more than one reasonable guess. ([Location 1439](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1439))
+    - **Tags:** #fallability-(of-knowledge), #critical-approach-(conjectures-and-refutations), #laws
+    - **Note:** Islamic law is guesswork. There is objective truth but our theories are fallible critical approach to Islamic law.
+- put the point differently, Islamic law is more nearly a system of morality than a system of law, since its rules primarily describe how one ought to act, only secondarily the legal consequences of action. ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1450))
+    - **Tags:** #morality, #morals-are-relative-and-change-with-the-times, #laws
+- But all agreed that once consensus had been established it provided an additional source of authority. ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1491))
+    - **Tags:** #laws
+    - **Note:** Law was mads through reputable passdiwns currebt sentiment and consensus
+- Scholars who argued for derivations of the law not based on divine revelation eventually lost out to those with the opposite position. ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1529))
+    - **Tags:** #devine-legitamacy, #laws, #histroical-knowledge
+    - **Note:** Argument made that muslim law just comes from arabic law and called devine fir legitimacy.
+- better than most modern systems, providing legal services for free to all, defending the poor and powerless ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1579))
+    - **Note:** This was because scholars remained fairly independent
+- The witnesses must be present at the trial and execution. In the case of stoning, if they do not throw the first stones the punishment is not carried out. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1630))
+    - **Tags:** #incentive-allignment, #laws
+    - **Note:** Crimes against god crazy
+- Stealing perishable food does not count because it is presumed that the theft is out of hunger and so permitted. ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1649))
+    - **Tags:** #morals-are-relative-and-change-with-the-times, #laws
+    - **Note:** STealing food allowed
+- Since the punishment was Koranic it could not be changed, but it could be hedged around with enough qualifications ([Location 1654](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1654))
+    - **Note:** Punishment from god too harsh so adapt rules so its prosecuted according to different rules
+- Successful piracy required the cooperation of a sizeable pirate crew. The ([Location 1933](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=1933))
+    - **Note:** Cooperation important
+- crewmembers were permitted to participate in pirate democracy, including black pirates, ([Location 2011](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2011))
+    - **Tags:** #democracy
+    - **Note:** Were democratc
+- Jury was appointed ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2041))
+    - **Note:** Juries
+- Aspiring quartermasters had to compete for crewmembers’ favor. Pirates who exhibited superior qualities for the job, such as fairness and skill in mediation, were the most likely to be elected. ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2064))
+    - **Tags:** #pirate-vs-navy, #leadership
+    - **Note:** Quartermasters ran the ship could be voted out democratically to check abuse of power
+- Only while pirate crews were “in Chase, or Battle” did their captains wield special authority, when, “by their own Laws,” “The Captain’s Power is uncontroulable” (Johnson 1726-1728, 139, 214). At all other times, pirate law treated the captain like any other member of the crew. ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2067))
+    - **Tags:** #wartime-vs-peacetime, #balance-of-powers, #war
+    - **Note:** Captain only control in battle
+- Pirates’ idea was a now-familiar one: to constrain authority, it is useful to divide authority, enabling one office to “check and balance” the other. ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2072))
+    - **Tags:** #checks-and-balances, #balance-of-powers
+    - **Note:** Main goal. Pirates used checks and balances to maintain power.
+- Profitable piracy required appropriately bold captains. It also required strategically clever captains who knew how to corner pirate-wary merchantmen. Pirates called these qualities of “superior … Knowledge and Boldness, Pistol Proof” ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2084))
+- mercilessness toward resistors, which they earned by adhering to a simple policy: surrender or die. Pirates adopted this policy to minimize the cost of taking prizes. ([Location 2144](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2144))
+    - **Tags:** #pirate-vs-navy, #mercy, #benefit-of-ruthlessness, #power-in-the-real-world, #absolute-standards, #machiavelli, #favorite
+    - **Note:** Pirates flew the flag to distiguish between them and coast guards to make life easier. Being extreme may lead to less death. If you didn’t submit they killed you it was very simple.
+- Prison gangs often have written constitutions to order their internal workings. New prisoners are frequently given lists of rules that delineate acceptable and unacceptable behavior when interacting with other prisoners. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2254))
+    - **Tags:** #prison-rules, #prison
+    - **Note:** Change from old days
+- They took him to a cell and really beat the shit out of him. We had to do it. If not, then everyone fights which is bad for business and bad for us.” ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2267))
+    - **Tags:** #favorite, #power-games, #mob-rule, #machiavelli
+    - **Note:** Rules and reputations
+- Conclusion ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2302))
+    - **Note:** Summary
+- Seen from the perspective of economics, it is also obvious. I have something worth ten thousand dollars to me and a hundred thousand to you. Markets exist to move assets to their highest valued use. You pay me fifty thousand dollars and I burn the evidence. ([Location 2518](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2518))
+    - **Tags:** #free-markets, #markets
+    - **Note:** Interesting. Market economy
+- man who did not have sufficient resources, in wealth or allies, to prosecute a case or enforce a verdict could sell it to another who expected to make a profit in both money and reputation by winning the case and collecting the fine. This ([Location 2726](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2726))
+    - **Note:** Interesting
+- After it is clear which side has won a battle most of the losers are let go unharmed, with the exception of anyone against whom the winners have a particularly serious grudge. ([Location 2745](https://readwise.io/to_kindle?action=open&asin=B07MTPZVX9&location=2745))
+    - **Tags:** #cultive-relationships, #war
+    - **Note:** Only killed what they needed because past that they still had to pay

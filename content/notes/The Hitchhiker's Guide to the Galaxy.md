@@ -1,0 +1,120 @@
+# The Hitchhiker's Guide to the Galaxy
+
+![](https://images-na.ssl-images-amazon.com/images/I/51X7zBMf9bL._SL200_.jpg)
+
+### Metadata
+
+- Author: Douglas Adams
+- Full Title: The Hitchhiker's Guide to the Galaxy
+- Category: #books
+
+### Highlights
+
+- A towel, it says, is about the most massively useful thing an interstellar hitchhiker can have. Partly it has great practical value. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble-sanded beaches of Santraginus V, inhaling the heady sea vapors; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; use it to sail a miniraft down the slow heavy River Moth; wet it for use in hand-to-hand combat; wrap it round your head to ward off noxious fumes or avoid the gaze of the Ravenous Bugblatter Beast of Traal (a mind-bogglingly stupid animal, it assumes that if you can’t see it, it can’t see you—daft as a brush, but very very ravenous); you can wave your towel in emergencies as a distress signal, and of course dry yourself off with it if it still seems to be clean enough. More importantly, a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of ([Location 350](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=350))
+    - **Note:** The art of keeping up appearences
+- “This is Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council,” the voice continued. “As you will no doubt be aware, the plans for development of the outlying regions of the Galaxy require the building of a hyperspatial express route through your star system, and regrettably your planet is one of those scheduled for demolition. The process will take slightly less than two of your Earth minutes. Thank you.” ([Location 443](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=443))
+    - **Tags:** #colonialism, #irony
+    - **Note:** They wanted to destroy his house andeveryone was ok with that now tgey wabt to destroy all of earth. same edxact problem differebt framing
+- “There’s no point in acting all surprised about it. All the planning charts and demolition orders have been on display in your local planning department in Alpha Centauri for fifty of your Earth years, so you’ve had plenty of time to lodge any formal complaint and it’s far too late to start making a fuss about it now.” ([Location 449](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=449))
+    - **Tags:** #irony, #bureaucracy
+    - **Note:** Same as the beginning. Funny irony and bureaucracy
+- but that was just another meaningless coincidence. ([Location 487](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=487))
+    - **Tags:** #coincidene, #irony
+    - **Note:** Coincidences can be and most often are meaningless
+- It might not even have made much difference to them if they’d known exactly how much power the President of the Galaxy actually wielded: none at all. Only six people in the Galaxy knew that the job of the Galactic President was not to wield power but to attract attention away from it. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=502))
+    - **Tags:** #power-in-the-real-world, #shadow-government, #distraction
+    - **Note:** President note on power. Irony and shadow government. Man behind the curtain and distraction.
+- This suited the Dentrassis fine, because they loved Vogon money, which is one of the hardest currencies in space, but loathed the Vogons themselves. The only sort of Vogon a Dentrassi liked to see was an annoyed Vogon. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=585))
+    - **Tags:** #hard-money, #economics, #crypto, #favorite, #money/wealth
+    - **Note:** This is like the US with the hardest money in the world importance of hard money. This is big crypto and economic point.
+- One of the things Ford Prefect had always found hardest to understand about humans was their habit of continually stating and repeating the very very obvious, as in It’s ([Location 595](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=595))
+- After a few months’ consideration and observation he abandoned this theory in favor of a new one. If they don’t keep on exercising their lips, he thought, their brains start working. After a while he abandoned this one as well as being obstructively cynical and decided he quite liked human beings after all, but he always remained desperately worried about the terrible number of things they didn’t know about. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=599))
+    - **Tags:** #thinking
+    - **Note:** Thinking not talking.
+- He always felt vaguely irritable after demolishing populated planets. He wished that someone would come and tell him that it was all wrong so that he could shout at them and feel better. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=619))
+    - **Tags:** #dehumaization, #irony, #coping-mechanisms
+    - **Note:** Irony and dehumanization. Coping mechanisms
+- “Now it is such a bizarrely improbable coincidence that anything so mind-bogglingly useful could have evolved purely by chance that some thinkers have chosen to see it as a final and clinching proof of the nonexistence of God. “The argument goes something like this: ‘I refuse to prove that I exist,’ says God, ‘for proof denies faith, and without faith I am nothing.’ “‘But,’ says Man, ‘the Babel fish is a dead giveaway, isn’t it? It could not have evolved by chance. It proves you exist, and so therefore, by your own arguments, you don’t. QED.’ “‘Oh dear,’ says God, ‘I hadn’t thought of that,’ and promptly vanishes in a puff of logic. “‘Oh, that was easy,’ says Man, and for an encore goes on to prove that black is white and gets himself killed on the next pedestrian crossing. “Most leading theologians claim that this argument is a load of dingo’s kidneys, but that didn’t stop Oolon Colluphid making a small fortune when he used it as the central theme of his best-selling book, Well That about Wraps It Up for God. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=726))
+- “Meanwhile, the poor Babel fish, by effectively removing all barriers to communication between different races and cultures, has caused more and bloodier wars than anything else in the history of creation.” ([Location 735](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=735))
+    - **Tags:** #similarity-and-conflict
+    - **Note:** Similarity and conflict
+- “Come on,” he droned, “I’ve been ordered to take you down to the bridge. Here I am, brain the size of a planet and they ask me to take you down to the bridge. Call that job satisfaction? ‘Cos I don’t.” ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1131))
+    - **Tags:** #autopilot, #automation, #potential-(realizing-ours), #organization-kid
+    - **Note:** Irony in the idea of humans not living up to their potential and doing lesser automaton jobs
+- But so successful was this venture that Magrathea itself soon became the richest planet of all time and the rest of the Galaxy was reduced to abject poverty. And so the system broke down, the Empire collapsed, and a long sullen silence settled over a billion hungry worlds, disturbed only by the pen scratchings of scholars as they labored into the night over smug little treatises on the value of a planned political economy. Magrathea itself disappeared and its memory soon passed into the obscurity of legend. In these enlightened days, of course, no one believes a word of it. ([Location 1359](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1359))
+    - **Note:** Anti trickle down economics and a disillusioned view of the past. Tom of irony.
+- Isn’t it enough to see that a garden is beautiful without having to believe that there are fairies at the bottom of it too? ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1397))
+    - **Tags:** #magic-(keep/-cultivate), #half-spaces, #universe
+    - **Note:** Magic of the half spaces of the universe
+- Antarean parakeet glands out of Antares (an Antarean parakeet gland stuck on a small stick is a revolting but much-sought-after cocktail delicacy and very large sums of money are often paid for them by very rich idiots who want to impress other very rich idiots), and the ship suddenly dropped out of the sky like a stone. ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1502))
+- When you walk through the storm . . .’” it whined nasally, “‘hold your head up high . . ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1510))
+    - **Tags:** #hope-(never-give-it-up)
+    - **Note:** You’ll never walk alone.
+- “At an Improbability factor,” cut in Eddie, who hadn’t changed a bit, “of eight million, seven hundred and sixty-seven thousand, one hundred and twenty-eight to one against.” ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1548))
+    - **Tags:** #probabilistic-thinking-deterministic-world, #probabilitic-thinking, #tail-risk
+    - **Note:** Low probability things happen every day
+- A whole section in the middle of both brains that related only to each other and not to anything else around them. Some bastard had cauterized all the synapses and electronically traumatized those two lumps of cerebellum.” ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1695))
+- And it was to this planet that unattended ballpoints would make their way, slipping away quietly through wormholes in space to a world where they knew they could enjoy a uniquely ballpointoid life-style, responding to highly ballpoint-oriented stimuli, and generally leading the ballpoint equivalent of the good life. ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1718))
+    - **Tags:** #absurdity, #multiverse
+    - **Note:** Planet for lost pens. Absurdity and multiverse.
+- There did, however, remain the question of both the mysterious sixty thousand Altairian dollars paid yearly into his Brantisvogan bank account, and of course Zaphod Beeblebrox’s highly profitable secondhand ballpoint business. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1726))
+    - **Tags:** #corruption
+- For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—while all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons. ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1809))
+    - **Tags:** #meaning-of-life, #intellegence
+    - **Note:** Dolphins and mice smarter than human. True meaning of intelligence and life
+- Looking up into the night sky is looking into infinity—distance is incomprehensible and therefore meaningless. The chamber into which the aircar emerged was anything but infinite, it was just very very very big, so big that it gave the impression of infinity far better than infinity itself. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1847))
+    - **Tags:** #infinity, #universe, #scale
+    - **Note:** Incomprehensible Infinity vs very large. Scale and infinity in the universe
+- “Earthman, the planet you lived on was commissioned, paid for and run by mice. It was destroyed five minutes before the completion of the purpose for which it was built, and we’ve got to build another one.” ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1884))
+    - **Note:** this is a bit of irony nihilism and cosmic insignificance, but makes you appreciate our place in the world and how big it is and we should just be happy
+- I can navigate the infinite delta streams of future probability and see that there must one day come a computer whose merest operational parameters I am not worthy to calculate, but which it will be my fate eventually to design.” ([Location 1946](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1946))
+    - **Tags:** #growth-mindset, #probabilitic-thinking, #learning-machine
+    - **Note:** no clue what this says but probalistic reality and how we are constantly learning and growing over time I knew more than einstein at some point
+- Under law the Quest for Ultimate Truth is quite clearly the inalienable prerogative of your working thinkers. Any bloody machine goes and actually finds it and we’re straight out of a job, aren’t we? I mean, what’s the use of our sitting up half the night arguing that there may or may not be a God if this machine only goes and gives you his bleeding phone number the next morning?” ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1979))
+    - **Tags:** #human-computer-symbiosis, #meaning-of-life, #opiod-of-hope, #purpose/meaning/goal, #favorite, #ai, #technology-(embrace-it)
+    - **Note:** This is the idea of hope being dangerous we’d rather suspend and waste time in uncertainty with the opioid of hope and sense of progress than actually take the step. The machine ends up spitting out nonsense and instead of making the machine they could’ve just done the thinking themselves, but they suspended judgment and delayed thinking which fuck them. People cling to the old world instead of wanting progress. Interesting argument for AI where instead of embracing technology people just wanna live in the past.
+- “Bloody hell,” said Majikthise, “now that is what I call thinking. Here, Vroomfondel, why do we never think of things like that?” “Dunno,” said Vroomfondel in an awed whisper; “think our brains must be too highly trained, Majikthise.” ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1998))
+    - **Tags:** #too-smart-for-own-good, #over-intellectualise, #systems-thinking
+    - **Note:** This is being too smart for your own good. Also kind of works in the highly specialized world we live in where everyone is super super smart, but they don’t see the full picture so they can’t understand the system.
+- “Terribly unfortunate,” he said, “a diode blew in one of the life-support computers. When we tried to revive our cleaning staff we discovered they’d been dead for nearly thirty thousand years. Who’s going to clear away the bodies, that’s what I want to know. Look, why don’t you sit yourself down over there and let me plug you in?” ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2012))
+    - **Tags:** #irony
+    - **Note:** Funny point. Irony.
+- “An answer for you?” interrupted Deep Thought majestically. “Yes. I have.” The two men shivered with expectancy. Their waiting had not been in vain. “There really is one?” breathed Phouchg. “There really is one,” confirmed Deep Thought. “To Everything? To the great Question of Life, the Universe and Everything?” “Yes.” Both of the men had been trained for this moment, their lives had been a preparation for it, they had been selected at birth as those who would witness the answer, but even so they found themselves gasping and squirming like excited children. “And you’re ready to give it to us?” urged Loonquawl. “I am.” “Now?” “Now,” said Deep Thought. They both licked their dry lips. “Though I don’t think,” added Deep Thought, “that you’re going to like it.” “Doesn’t matter!” said Phouchg. “We must know it! Now!” ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2054))
+    - **Tags:** #irreducable-complexity, #one-answer-may-not-exist
+    - **Note:** The answer. Not all questions have answers. Some answers are irreducibly complex or unclear.
+- “The Answer to the Great Question . . .” “Yes . . . !” “Of Life, the Universe and Everything . . .” said Deep Thought. “Yes . . . !” “Is . . .” said Deep Thought, and paused. “Yes . . . !” “Is . . .” “Yes . . . !!! . . . ?” “Forty-two,” said Deep Thought, with infinite majesty and calm. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2066))
+    - **Tags:** #meaning-of-life
+    - **Note:** The meaning of life is arbitrary and relative to whoever is looking at it it can be anything
+- “Forty-two!” yelled Loonquawl. “Is that all you’ve got to show for seven and a half million years’ work?” “I checked it very thoroughly,” said the computer, “and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you’ve never actually known what the question is.” ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2074))
+    - **Tags:** #meaning-of-life, #42, #ask-the-right-question, #different-things-for-different-people, #favorite
+    - **Note:** The right questions are more important than the answers bad general questions create useless answers. The meaning of life is different to different people so we need to ask and embrace the right questions
+- “Exactly!” said Deep Thought. “So once you do know what the question actually is, you’ll know what the answer means.” ([Location 2080](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2080))
+    - **Tags:** #understand-the-problem
+- And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called . . . the Earth.” ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2094))
+    - **Tags:** #living-in-simulation
+- “We didn’t wake you earlier,” said Trillian. “The last planet was knee-deep in fish.” “Fish?” “Some people like the oddest things.” ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2120))
+    - **Note:** Fishing
+- “Ten million years of planning and work gone just like that. Ten million years, Earthman, can you conceive of that kind of time span? A galactic civilization could grow from a single worm five times over in that time. Gone.” He paused. “Well, that’s bureaucracy for you,” he added. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2178))
+    - **Tags:** #bureaucracy, #irony
+- “but I always think that the chances of finding out what really is going on are so absurdly remote that the only thing to do is to say hang the sense of it and just keep yourself occupied. ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2185))
+    - **Tags:** #irreducable-complexity, #non-essential, #meaning-of-life, #complexity
+    - **Note:** The world is too complex give up.
+- “What does it matter? Science has achieved some wonderful things, of course, but I’d far rather be happy than right any day.” ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2193))
+    - **Tags:** #happiness, #happy-vs-right
+    - **Note:** Happy vs right
+- “We have to have something that sounds good,” said Benjy. “Something that sounds good?” exclaimed Arthur. “An Ultimate Question that sounds good? From a couple of mice?” The mice bristled. “Well, I mean, yes idealism, yes the dignity of pure research, yes the pursuit of truth in all its forms, but there comes a point I’m afraid where you begin to suspect that if there’s any real truth, it’s that the entire multidimensional infinity of the Universe is almost certainly being run by a bunch of maniacs. And if it comes to a choice between spending yet another ten million years finding that out, and on the other hand just taking the money and running, then I for one could do with the exercise,” said Frankie. ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2274))
+    - **Tags:** #deep-complexity, #happiness-vs-meaning, #meaning-of-life-(ignore-deep-questions), #objective-truth, #meaning-of-life
+    - **Note:** Something that sounds right vs is right. Sometimes it’s not worth considering what your life is about or deep meaning put to play the game and get rich. Instead of fighting for deeper meaning. Objective truth doesn’t exist.
+- “that’s excellent! Sounds very significant without actually tying you down to meaning anything at all. How many roads must a man walk down? Forty-two. Excellent, excellent, that’ll fox ’em. Frankie, baby, we are made!” ([Location 2324](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2324))
+    - **Tags:** #meaning-of-life, #commit-to-path-dont-languish-in-theory
+    - **Note:** The issues of the lack of commitment
+- “Hey,” he said, “I thought you said you didn’t want to shoot us!” and ducked again. They waited. After a moment a voice replied, “It isn’t easy being a cop!” “What did he say?” whispered Ford in astonishment. “He said it isn’t easy being a cop.” “Well, surely that’s his problem, isn’t it?” “I’d have thought so.” Ford shouted out, “Hey, listen! I think we’ve got enough problems of our own having you shooting at us, so if you could avoid laying your problems on us as well, I think we’d all find it easier to cope!” ([Location 2342](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2342))
+    - **Tags:** #irony, #funny, #cops
+    - **Note:** Funny
+- “Now, listen to this, Beeblebrox, and you better listen good!” “Why?” shouted back Zaphod. “Because,” shouted the cop, “it’s going to be very intelligent, and quite interesting and humane! Now—either you all give yourselves up now and let us beat you up a bit, though not very much of course because we are firmly opposed to needless violence, or we blow up this entire planet and possibly one or two others we noticed on our way out here!” ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2361))
+    - **Tags:** #irony, #violence, #depersonalization-of-violence, #law-enforcement
+    - **Note:** Irony playing into the depersonalization of violence and arbitrary law enforcement
+- R is a velocity measure, defined as a reasonable speed of travel that is consistent with health, mental well-being and not being more than, say, five minutes late. ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2407))
+- “The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival,Inquiry and Sophistication, otherwise known as the How, Why and Where phases. “For instance, the first phase is characterized by the question How can we eat? the second by the question Why do we eat? and the third by the question Where shall we have lunch?” ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2442))
+    - **Tags:** #why-not-what-questions, #creativity, #pleasure-seeking-vs-meaning, #stages-of-civilization, #enlightenment, #question-your-reality, #favorite, #irony
+    - **Note:** When we stop asking questions we become enlightened but we really just become reactive and mechanical and dont actually think. Post discovery we just become pleasure seeking over meaning which isn't good for us long term. We must always be curious and learning

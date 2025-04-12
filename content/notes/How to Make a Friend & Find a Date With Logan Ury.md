@@ -1,0 +1,45 @@
+# How to Make a Friend & Find a Date With Logan Ury
+
+![](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbc93ecf4-a4a0-11eb-95c0-33e0e555df4e%2Fimage%2FWCDHT_Cover1800.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=100&h=100)
+
+### Metadata
+
+- Author: We Can Do Hard Things with Glennon Doyle
+- Full Title: How to Make a Friend & Find a Date With Logan Ury
+- Category: #podcasts
+
+
+
+- URL: https://share.snipd.com/episode/43aa4d3d-13fb-4532-bfa7-c63977ea3ab7
+
+### Highlights
+
+- Finding Love by Focusing on How Someone Makes You Feel
+  Key takeaways:
+  - The speaker shares her experience of getting caught up in an anxious-avoidant loop while pursuing a guy who wasn't a good fit for her.
+  - She sought help from a dating coach and identified qualities she wanted in a partner.
+  - Through this process, she realized that a guy from work had all the qualities she wanted, unlike the guy she was pursuing.
+  - She took the initiative to ask him out and they've been together for eight years.
+  - The speaker's story highlights the importance of focusing on how a potential partner makes one feel rather than predetermined criteria.
+  Transcript:
+  Speaker 1
+  But at this time, I had met this guy a burning man and I was head over heels for him. And in what I can now identify is definitely an anxious avoided loop where I was chasing after this guy. He was pulling away. It was so exciting to me. Everything in my life became how can I convince this guy to date me? And I was so focused on getting him to want me when in retrospect, this guy was not a good fit for me at all. But because he didn't want me, I was like, oh, he must be better than me. And therefore, I should try to get him to like me. And I ended up seeing a dating coach because I was so unhappy. And she really helped me identify what I wanted and how I wanted somebody to make me feel. And when I put this list together, I was like, the guy from Burning Man has none of these qualities, he's actually not very nice. But this guy at work, he has all of these qualities. He makes me feel appreciated, desired. He makes me laugh. We're a team. And so I determined that I was going to turn him into my boyfriend. And so I let him know, hey, I don't have plans on Friday night. You should ask me out. And yeah, so we were able to turn this seven years of vaguely knowing each other on Facebook, one year of tutoring into this relationship. And so now we've been together for eight years. And I like to tell people the story because if you had asked me what I wanted in a partner, I probably wouldn't have said five foot eight vegan engineer. But you know what? This is the person who makes me happier than anybody else, the person who I love to be at the party with. And I love to leave the party and talk about everybody else at the party with. And he's so funny. He's so deep. He's just such an interesting person. And I feel like, you know what? I did swipe left on my husband on Tinder, but I really have this love story with him where I stopped thinking about who I should be with. And I really started focusing on how does this person make me feel? And he was the person who made me feel better than anyone I'd ever been with. ([Time 0:05:26](https://share.snipd.com/snip/a71c9149-f6f2-4ae0-ab85-2bdfdd3863fe))
+    - **Note:** Focus on who you want to be with not who you should be with.
+- How to Show Who You Really Are on a First Date
+  Key takeaways:
+  - Encourage sharing quirky personal stories during dates
+  - Highlight unique traits and experiences to make oneself appear more interesting
+  - Avoid complaining and focus on positive experiences and qualities
+  - Shift from approaching the date as an autobiography to approaching it as a memoir
+  Transcript:
+  Speaker 3
+  So should people when they go on a date, they should be like, these are my three best stories. I will find a way to tell these three on this date because stories that light you up and that you'll feel a lot about yourself. You just find a way to tell them.
+  Speaker 1
+  I used to train people to do that in my dating class. Some people push back and found that it was a little corporate for them. It didn't necessarily resonate with them, but it is actually how I feel, which is I had this client who was showing up on dates. He was just talking about work. People weren't connecting with him. And I'm like, tell me a quirky story about you. And he told the story about how when he was in college to make money, he ran an ice cream truck, but people kept coming up to him and asking for all these weird things. And he found out that the person who'd run it the year before was actually a drug dealer. And they were expecting a different type of ice cream. And I was like, yes, you just made me laugh. You just showed me all these different sides of you. I know that you put yourself through college. I know you have a sense of humor. I saw you light up. Tell that story on a date. And so really helping people know what are the things about you that make you shine. Maybe you talk about how much you love your nephew and how when he was born, you understood what unconditional love was. Talk about the things in your life that let you up. And that's what will draw people to you. Don't spend your date complaining about the waiter or the menu or your boss. You know what? Talk about what you want, not what you don't.
+  Speaker 3
+  And it's like switching from the date as being on autobiography to the day being a memoir. Right? Right. Stories that reveal who you are as opposed to like listing facts. Totally.
+  Speaker 2
+  And I think that sometimes it feels like, oh, a first date, I just don't want to do anything totally crazy. So I'm going to keep it as merely as possible. You know, no one will be taken aback by this question or this story. But can you talk about the fruit on the bottom? Yes. Where it's like actually if you're trying to be unobjectionable, you are failing.
+  Speaker 1
+  There's this mistake that people do, which is I want the maximum number of people to like me. I don't want to be offensive. I want to be something for everyone. And I think as we get older and as we mature, we realize that that's not really what life is about. Don't be for everyone. Make some enemies stand up for who you are. And what that means in dating is that you don't need 10 out of 10 people to like you. You need one person to really like you. And the way that you make that happen is by showing who you really are. And so I had this client who was so funny, so quirky, so interesting. But her dates were just finding her not memorable and they weren't following up. And so I told her that she was fruit on the bottom yogurt, that these guys were going dates with her and they were taking a scoop from the top and saying, she's vanilla. I'm not interested in this. But I needed her to help bring that fruit to the top so that on a date they actually saw who she was. And so if you're listening to this and you feel like you might be fruit on the bottom yogurt, let's work on that. What are your hot takes? How do you feel about your parents aging? What's been happening for you as your friends have kids and move away? What's something in your life that's different than what you thought it would be? Tell me who you are and I'm going to be interested in you. And instead of rejecting you for your complexities, you're going to make me feel more comfortable sharing my complexities. ([Time 0:41:26](https://share.snipd.com/snip/04a8f3e3-fce3-4058-820f-7c01c9c3550d))
+    - **Note:** Dating and you need 1-10 home runs not 10-10 singles

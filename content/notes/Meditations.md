@@ -1,0 +1,369 @@
+# Meditations
+
+![](https://images-na.ssl-images-amazon.com/images/I/41zY8V%2B5QEL._SL200_.jpg)
+
+### Metadata
+
+- Author: Marcus Aurelius
+- Full Title: Meditations
+- Category: #books
+
+### Highlights
+
+- Eleusinian Mysteries, a set of mystic rites connected with the worship of Demeter, the goddess of agriculture. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=172))
+    - **Tags:** #religion, #ancient-history
+- All events are determined by the logos, and follow in an unbreakable chain of cause and effect. Stoicism is thus from the outset a deterministic system that appears to leave no room for human free will or moral responsibility. In reality the Stoics were reluctant to accept such an arrangement, and attempted to get around the difficulty by defining free will as a voluntary accommodation to what is in any case inevitable. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=219))
+    - **Tags:** #rationality, #free-will
+    - **Note:** No free will very interesting i like the cause and effect idea (proximate vs root causes) this is ideal but the world (humans) are irrational. the first step toward rationality is accepting you will never get there.
+- man is like a dog tied to a moving wagon. If the dog refuses to run along with the wagon he will be dragged by it, yet the choice remains his: to run or be dragged. In the same way, humans are responsible for their choices and actions, even though these have been anticipated by the logos and form part of its plan. Even actions which appear to be—and indeed are—immoral or unjust advance the overall design, which taken as a whole is harmonious and good. They, too, are governed by the logos. But the logos is not simply an impersonal power that governs and directs the world. It is also an actual substance that pervades that world, not in a metaphorical sense but in a form as concrete as oxygen or carbon. In its physical embodiment, the logos exists as pneuma, a substance imagined by the earliest Stoics as pure fire, and by Chrysippus as a mixture of fire and air. Pneuma is the power—the vital breath—that animates animals and humans. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=222))
+    - **Note:** Good description of stoicism
+- metaphysical and ethical ones: Why are we here? How should we live our lives? How can we ensure that we do what is right? How can we protect ourselves against the stresses and pressures of daily life? How should we deal with pain and misfortune? How can we live with the knowledge that someday we will no longer exist? It would be both pointless and impertinent to try to summarize Marcus’s responses; the influence of the Meditations on later readers springs in part from the clarity and insistence with which he addresses these questions. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=307))
+    - **Tags:** #big-picture, #life-path---presented-vs-discovered, #existential-dreaf, #life-(what-is-life?), #meaning-of-life, #life-advice
+    - **Note:** Big questions. There are these big existential questions that guide your life and being awake to them, and considering them throughout your life is a key to living of fulfilling life. How should we live our lives.
+- Ideally this print will be an accurate and faithful representation of the original. But it may not be. It may be blurred, or it may include shadow images that distort or obscure the original. Chief among these are inappropriate value judgments: the designation as “good” or “evil” of things that in fact are neither good nor evil. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=321))
+    - **Note:** Relativity no good or bad only news
+- It is by no means the only possible interpretation, and I am not obliged to accept it. I may be a good deal better off if I decline to do so. It is, in other words, not objects and events but the interpretations we place on them that are the problem. Our duty is therefore to exercise stringent control over the faculty of perception, with the aim of protecting our mind from error. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=327))
+    - **Tags:** #bias-(inherent-in-models), #perception-vs-interpretation, #agency
+    - **Note:** Good follow up. Perception vs interpretation. The issue is we see the world through our models and give agency to our experiences.
+- Everywhere, at each moment, you have the option: ([Location 365](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=365))
+    - **Note:** Three disciplines
+- “We cannot step twice into the same river,” Heraclitus had said, and we see Marcus expanding on the observation: “Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone” ([Location 410](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=410))
+    - **Tags:** #time-(nature-of/quantum), #no-one-steps-in-the-same-river-twice
+    - **Note:** The passing of time. We don’t step in the same river twice.
+- As for humans, our role is simply to live as best we can, making the most of what pleasures are available to us and insulating ourselves as far as possible from pain and anxiety. In particular, we are to feel no anxiety about death, which consists simply in the dissolution of our component atoms. This process is not only inevitable, but harmless, for the simple reason that after death there is no “us” to suffer harm. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=430))
+    - **Tags:** #death-(contemplate-it), #meaning-of-life, #life-and-death, #anxiety-(worse-than-the-event), #live-your-life
+    - **Note:** Life and death we are supposed to make the most of life and death is not something to be feared something that just happens. We shouldn't feel anxiety just take things in the moment in stride
+- To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well-spent. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=811))
+    - **Tags:** #quality-above-all, #learning-machine
+    - **Note:** Pay for quality invest in education
+- To put up with discomfort and not make demands. To do my own work, mind my own business, and have no time for slanderers. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=814))
+    - **Tags:** #dont-listen-to-haters, #live-your-life, #focus-on-what's-important
+    - **Note:** Dont take shit from people
+- Not to be obsessed with quail-fighting or other crazes like that. To hear unwelcome truths. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=817))
+    - **Tags:** #truth-seeking-(vs-being-right), #tribal-behavior, #disconfirming-evidence-(seek-it-out)
+    - **Note:** embrace where youre wrong dont be tribal
+- RUSTICUS ([Location 819](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=819))
+- to be the same in all circumstances—intense ([Location 827](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=827))
+    - **Note:** Clear of mind
+- And to have learned how to accept favors from friends without losing your self-respect or appearing ungrateful. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=830))
+    - **Tags:** #accepting-gifts
+    - **Note:** Pt favors
+- Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage ([Location 838](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=838))
+    - **Note:** I ineed to improve here
+- MAXIMUS ([Location 853](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=853))
+- MY ADOPTED FATHER ([Location 860](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=860))
+- To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions. ([Location 928](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=928))
+    - **Tags:** #live-with-nature, #helping-others
+- The world is maintained by change—in the elements and in the things they compose. That should be enough for you; ([Location 936](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=936))
+    - **Tags:** #change-(is-constant)
+    - **Note:** The world is change
+- there is a limit to the time assigned you, and if you don’t use it to free yourself it will be gone and will never return. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=940))
+    - **Tags:** #free-yourself, #life-advice, #life-path---presented-vs-discovered, #time-(value-of), #choose-your-life-and-feelings, #present-is-gift, #favorite, #finite-life
+    - **Note:** Everyday is a gift take agency over the time your given to direct it how you want.
+- Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions. Yes, you can—if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable. You see how few things you have to do to live a satisfying and reverent life? If you can manage this, that’s all even the gods can ask of you. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=941))
+    - **Tags:** #simplicity-(power-of), #free-yourself, #simple-as-possible-no-simpler, #live-in-the-moment, #good-life
+    - **Note:** Live in the moment and be mindful approach always give your all and dont be bitter. A good life is a simple one. Life is simple not easy. Live a directed life. Free yourself
+- But if you won’t keep track of what your own soul’s doing, how can you not be unhappy? ([Location 951](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=951))
+    - **Tags:** #soul, #soul-(facing/-killing-it), #inner-monologue, #inner-harmony
+    - **Note:** You need to know yourself. Watch your soul.
+- people who run around in circles, “delving into the things that lie beneath” and conducting investigations into the souls of the people around them, never realizing that all you have to do is to be attentive to the power inside you and worship it sincerely. ([Location 976](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=976))
+    - **Tags:** #thick-vs-thin-desire, #internal-locus-of-control, #focus-internal-b4-externally, #investigate-your-soul, #ignore-others-opinions
+    - **Note:** Everyone is unique but just know yourself. God is just a word for chance maybe guided by a higher power maybe not. You are your own god you need to be proud of your actions someone is always watching you and it’s you. Don’t worry about others lives and going’s on yours is enough to keep you busy.
+- The present is all that they can give up, since that is all you have, and what you do not have, you cannot lose. ([Location 987](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=987))
+    - **Tags:** #present-is-all-we-have
+    - **Note:** You own the now
+- even the smallest things ought to be directed toward a goal. But the goal of rational beings is to follow the rule ([Location 996](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=996))
+- Don’t waste the rest of your time here worrying about other people—unless it affects the common good. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1033))
+    - **Tags:** #internal-locus-of-control, #dont-compare-yourself-to-others
+- He does only what is his to do, and considers constantly what the world has in store for him—doing his best, and trusting that all is for the best. For we carry our fate with us—and it carries us. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1045))
+    - **Tags:** #accept-life-as-is, #fate-(shape-dont-accept-it), #fate, #do-what-needs-to-be-done
+    - **Note:** Live the right way and you will live well. We live with our fate and at the mercy of it.
+- So make your choice straightforwardly, once and for all, and stick to it. Choose what’s best. —Best is what benefits me. As a rational being? Then follow through. Or just as an animal? Then say so and stand your ground without making a show of it. (Just make sure you’ve done your homework first.) ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1066))
+    - **Tags:** #motivation-(diff-for-everyone), #internal-locus-of-control, #focus-internal-b4-externally
+    - **Note:** Do what is best for you in your life and stick to the plan. This is a selfish ideal.
+- To look at it in such a way that we understand what need it fulfills, and in what kind of world. And its value to that world as a whole and to man in particular—as ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1086))
+    - **Note:** Look at everything figure out howit works what it is and what is ita purpose in the system
+- you can get away from it anytime you like. By going within. ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1121))
+    - **Tags:** #escape-by-goong-within
+    - **Note:** Escape by going wuthin
+- keep your mouth shut. ([Location 1129](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1129))
+    - **Tags:** #favorite, #keep-your-mouth-shut, #silence-in-conversations, #pause-before-action
+- Or is it your reputation that’s bothering you? But look at how soon we’re all forgotten. The abyss of endless time that swallows it all. The emptiness of all those applauding hands. The people who praise us—how capricious they are, how arbitrary. And the tiny region in which it all takes place. The whole earth a point in space—and most of it uninhabited. How many people there will be to admire you, and who they are. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1132))
+    - **Tags:** #praising-others, #favorite, #internal-locus-of-control, #agency, #control-the-narrative
+    - **Note:** We live on a small rock in a vaccum dont worry be happy. Don't care about what others think empower yourself and take control of your life do things you want no one controls you
+- Disturbance comes only from within—from our own perceptions. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1138))
+    - **Tags:** #inner-strength, #inner-peace, #internal-locus-of-control
+- “The world is nothing but change. Our life is only perception.” ([Location 1140](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1140))
+    - **Tags:** #perception-shapes-reality, #change-(is-constant)
+- since nothing comes from nothing, or returns to it. ([Location 1147](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1147))
+    - **Tags:** #matter-cant-be-created-or-destroyed, #finite-life
+    - **Note:** Matter cannot be created or destroyed only transfered
+- (ii) ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1160))
+    - **Note:** Change your mind when you realize youre wrong
+- Ask yourself at every moment, “Is this necessary?” ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1196))
+    - **Tags:** #focus-on-what's-important
+    - **Note:** Do less
+- The value of attentiveness varies in proportion to its object. You’re better off not giving the small things more time than they deserve. 33. ([Location 1221](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1221))
+    - **Tags:** #dont-sweat-the-small-stuff
+    - **Note:** Dont sweat the small stuff
+- Take the shortest route, the one that nature planned—to ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1278))
+    - **Note:** Make life as simple as possible but no simpiler
+- have to go to work—as a human being. What do I have to complain of, if I’m going to do what I was born for—the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?” —But it’s nicer here.… So you were born to feel “nice”? ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1283))
+    - **Tags:** #get-action, #work-life-balance, #favorite, #long/short-term-incentive-misalignment, #grow-through-hardship
+    - **Note:** Do what you were born to do and what gets you out of bed we’re not meant to live in bed.
+- Practice the virtues you can show: ([Location 1303](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1303))
+    - **Tags:** #practice-(importance-of), #circle-of-competence, #virtues
+    - **Note:** Stick to your circle of competence
+- Some people, when they do someone a favor, are always looking for a chance to call it in. And some aren’t, but they’re still aware of it—still regard it as a debt. But others don’t even do that. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1309))
+    - **Tags:** #positive/zero-sum, #favors-as-debts
+    - **Note:** Don’t regard favors as a debt just do good things.
+- So there are two reasons to embrace what happens. One is that it’s happening to you. It was prescribed for you, and it pertains to you. The thread was spun long ago, by the oldest cause of all. The other reason is that what happens to an individual is a cause of well-being in what directs the world—of its well-being, its fulfillment, of its very existence, even. Because the whole is damaged if you cut away anything—anything at all—from its continuity and its coherence. Not only its parts, but its purposes. And that’s what you’re doing when you complain: hacking and destroying. ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1332))
+    - **Tags:** #accept-life-as-is, #live-with-nature, #choose-happiness, #perception-vs-interpretation
+    - **Note:** Accept life. The world is fate as is. Live with your nature don’t complain it’s not worth it. Perception cs interpretation choose happiness.
+- Not to feel exasperated, or defeated, or despondent because your days aren’t packed with wise and moral actions. But to get back up when you fail, to celebrate behaving like a human—however imperfectly—and fully embrace the pursuit that you’ve embarked on. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1337))
+- What am I doing with my soul? Interrogate yourself, to find out what inhabits your so-called mind and what kind of soul you have now. A child’s soul, an adolescent’s, a woman’s? A tyrant’s soul? The soul of a predator—or its prey? ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1353))
+    - **Note:** Know yourself
+- Now go a step further. Ask yourself whether we should accept as goods—and should value—the things we have to think of to have the line make sense—the ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1362))
+- ones whose abundance leaves their owner with “… no place to shit.” ([Location 1363](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1363))
+    - **Tags:** #materialism, #extermal-events, #focus-on-what's-important
+    - **Note:** Understand what matters in life to you
+- The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts. ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1374))
+    - **Tags:** #content-of-mind-=-quality-of-thoughts, #favorite
+- It is crazy to want what is impossible. And impossible for the wicked not to do so. ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1384))
+    - **Tags:** #live-your-life, #desire, #evil-caused-by-insufficient-knowledge, #favorite
+    - **Note:** Live your life don’t desire or covet what is not yours to have. Live within your means with reasonable desires.
+- The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1391))
+- Keep in mind how fast things pass by and are gone—those that are now, and those to come. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1398))
+- So it would take an idiot to feel self-importance or distress. Or any indignation, either. As if the things that irritate us lasted. ([Location 1400](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1400))
+    - **Tags:** #transient, #cycles-in-life, #favorite
+    - **Note:** Everything is transient good and bad times pass don’t get caught up
+- Consider all that you’ve gone through, all that you’ve survived. And that the story of your life is done, your assignment complete. How many good things have you seen? How much pain and pleasure have you resisted? How many honors have you declined? How many unkind people have you been kind to? ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1423))
+    - **Tags:** #meaning-of-life, #favorite
+    - **Note:** Taking stock of your life. What’s the mark of a great life.
+- Honor and revere the gods, treat human beings as they deserve, be tolerant with others and strict with yourself. Remember, nothing belongs to you but your flesh and blood—and nothing else is under your control. ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1434))
+    - **Tags:** #treat-people-better-than-they-ask/need, #internal-locus-of-control, #tolerant-of-others-strict-with-yourself, #deserve-what-you-get, #nothing-belongs-to-you
+    - **Note:** Internal locus of control nothing belongs to you but your flesh and blood. Be tolerant of others and strict with yourself. Treat people how they deserve and nothing belongs to you this entire life and time is rented.
+- You can lead an untroubled life provided you can grow, can think and act systematically. ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1436))
+    - **Tags:** #systems-thinking, #clear-thinking
+    - **Note:** Think clearly through systems.
+- Just that you do the right thing. The rest doesn’t matter. ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1452))
+- Look inward. Don’t let the true nature or value of anything elude you. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1456))
+    - **Tags:** #introspection, #internal-locus-of-control
+- The best revenge is not to be like that. ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1459))
+    - **Tags:** #revenge, #do-the-right-thing
+- Dispersal is certain, whatever I do. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1465))
+    - **Tags:** #probabilitic-thinking
+    - **Note:** Fat tails
+- When jarred, unavoidably, by circumstances, revert at once to yourself, and don’t lose the rhythm more than you can help. ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1467))
+    - **Tags:** #recentering-(yourself), #cycles-in-life
+    - **Note:** First principles thinking. Return to center when you get knocked off the path.
+- latching onto things and piercing through them, so we see what they really are. That’s what we need to do all the time—all ([Location 1474](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1474))
+- We find ourselves in a river. Which of the things around us should we value when none of them can offer a firm foothold? ([Location 1485](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1485))
+    - **Tags:** #impermanance, #change-(is-constant), #favorite
+    - **Note:** World is impermanent so we should not hold on dogmatically to anything. Embrace change.
+- I think it’s this: to do (and not do) what we were designed for. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1497))
+    - **Tags:** #follow-what-gives-you-energy, #live-your-life
+    - **Note:** Do what you love
+- prizing a lot of other things? Then you’ll never be free—free, ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1500))
+- They refuse to admire their contemporaries, the people whose lives they share. No, but to be admired by Posterity—people they’ve never ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1507))
+- Not to assume it’s impossible because you find it hard. But to recognize that if it’s humanly possible, you can do it too. ([Location 1509](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1509))
+    - **Tags:** #agency-(we-have-infinite-power), #agency-(figure-things-out), #bound-by-laws-of-physics-only
+    - **Note:** believe in your agency only bound by the laws of physics
+- I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance. ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1514))
+- Remember—your responsibilities can be broken down into individual parts as well. Concentrate on those, and finish the job methodically—without getting stirred up or meeting anger with anger. ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1526))
+    - **Tags:** #breaking-things-down, #problem-solving, #start-small-and-scale
+    - **Note:** Goal setting. Break things down into simple comments attack them one by one.
+- 30. ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1533))
+    - **Note:** Good summary passage
+- 36. ([Location 1556](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1556))
+- If the gods have made decisions about me and the things that happen to me, then they were good decisions. ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1581))
+    - **Tags:** #accept-fate, #accept-life-as-is, #live-with-nature
+    - **Note:** Chance is just chance it is not biased accept what happens.
+- You accept the limits placed on your body. Accept those placed on your time. ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1607))
+    - **Tags:** #finite-life, #live-your-life
+    - **Note:** Time is finite.
+- Practice really hearing what people say. Do your best to get inside their minds. ([Location 1615](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1615))
+- What injures the hive injures the bee. ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1616))
+    - **Tags:** #systems-thinking
+- remembering that our own worth is measured by what we devote our energy to. ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1634))
+    - **Tags:** #worth-(understanding-ours), #you-become-what-you-do
+- Don’t be ashamed to need help. Like a soldier storming a wall, you have a mission to accomplish. And if you’ve been wounded and you need a comrade to pull you up? So what? ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1641))
+    - **Tags:** #ask-for-help, #support-from-others, #shame, #shame-(ignore-it)
+    - **Note:** Seek help. There is no shame we all need help and support from others. Seek it
+- No matter what anyone says or does, my task is to be good. Like gold or emerald or purple repeating to itself, “No matter what anyone says or does, my task is to be emerald, my color undiminished.” ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1658))
+    - **Tags:** #accept-life-as-is, #live-with-nature, #be-yourself
+    - **Note:** Your task is to be yourself make a positive impact and do what is yours to do.
+- Frightened of change? ([Location 1667](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1667))
+    - **Tags:** #change-(resistence-to-it), #change-(is-constant)
+    - **Note:** Change is natural we should recognize the need and do so
+- To feel affection for people even when they make mistakes is uniquely human. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1674))
+    - **Tags:** #empathy/sympathy-(understand-others-perspective)
+    - **Note:** Empathy and forgiveness is human.
+- When people injure you, ask yourself what good or harm they thought would come of it. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1683))
+    - **Tags:** #internal-locus-of-control
+    - **Note:** When things go wrong take a deep breath and acess the situation
+- Analyze what exists, break it all down: material and cause. Anticipate your final hours. Other people’s mistakes? Leave them to their makers. ([Location 1692](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1692))
+- To direct your thoughts to what is said. To focus ([Location 1693](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1693))
+- the mind on what happens and what makes it happen. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1694))
+    - **Note:** Analyze
+- should not cling to life, but leave it up to the gods, accepting, as women say, that ‘no one can escape his fate,’ and turn his attention to how he can best live the life before him?” ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1720))
+    - **Tags:** #fate-(shape-dont-accept-it), #live-in-the-moment, #favorite
+    - **Note:** Focus on living your best today no man escapes fate. We need to make the most of the lives we have.
+- Look at the past—empire succeeding empire—and from that, extrapolate the future: ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1726))
+    - **Tags:** #cycles-(in-hisotry), #human-nature-remains-constant
+- Which is why observing life for forty years is as good as a thousand. Would you really see anything new? ([Location 1727](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1727))
+    - **Note:** History repeats
+- Everywhere, at each moment, you have the option: to accept this event with humility to treat this person as he should be treated to approach this thought with care, so that nothing irrational creeps in. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1736))
+    - **Tags:** #present-is-all-we-have, #agency, #take-opportunities
+    - **Note:** Every moment offers you the chance to live a virtuous life and write your book in the present the value of the present moment
+- Think of yourself as dead. You have lived your life. Now take what’s left and live it properly. ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1747))
+- Look at who they really are, the people whose approval you long for, ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1758))
+    - **Tags:** #investigate-your-soul, #favorite
+- When you’re bothered by things like that, remind yourself: “I’m giving in to pain.” ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1766))
+    - **Tags:** #internal-locus-of-control, #agency
+    - **Note:** Dont give into pain
+- It’s quite possible to be a good man without anyone realizing it. Remember that. ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1776))
+    - **Tags:** #do-the-right-thing, #favorite, #internal-locus-of-control
+- It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1788))
+    - **Tags:** #faults-(people-dont-admit-them), #internal-locus-of-control
+- No one objects to what is useful to him. To be of use to others is natural. Then don’t object to what is useful to you—being of use. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1792))
+    - **Tags:** #live-with-nature, #helping-others
+    - **Note:** Be helpful and useful live with nature
+- 1. ([Location 1798](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1798))
+- So you know how things stand. Now forget what they think of you. Be satisfied if you can live the rest of your life, however short, as your nature demands. Focus on that, and don’t let anything distract you. You’ve wandered all over and finally realized that you never found what you were after: how to live. Not in syllogisms, not in money, or fame, or self-indulgence. Nowhere. —Then where is it to be found? In doing what human nature requires. —How? Through first principles. Which should govern your intentions and your actions. —What principles? Those to do with good and evil. That nothing is good except what leads to fairness, and self-control, and courage, and free will. And nothing bad except what does the opposite. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1801))
+    - **Tags:** #internal-locus-of-control, #believe-in-yourself, #live-with-nature
+    - **Note:** Top passage. Spent entire life looking to others for how to live when really that’s an internal quest of discovery and belief. Live with nature.
+- Don’t be anxious. Nature controls it all. And before long you’ll be no one, nowhere—like ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1813))
+- task is to be a good human being; ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1815))
+    - **Tags:** #assholes, #do-the-right-thing
+- Don’t be overheard complaining about life at court. Not even to yourself. ([Location 1826](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1826))
+    - **Tags:** #complaining
+- Physics. Ethics. Logic. ([Location 1834](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1834))
+    - **Note:** 3 ways of thinking
+- What dies doesn’t vanish. It stays here in the world, transformed, dissolved, as parts of the world, and of ([Location 1844](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1844))
+- Everything is here for a purpose, ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1845))
+    - **Tags:** #meaning-of-life
+- why were you born? ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1846))
+- You have to assemble your life yourself—action by action. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1879))
+    - **Tags:** #agency
+    - **Note:** You have agency over your life and you’re the only person who can Truly effect your day to day.
+- And be satisfied if each one achieves its goal, as far as it can. No one can keep that from happening. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1879))
+    - **Tags:** #life-path---presented-vs-discovered, #north-star-(core-direction)
+    - **Note:** This is the essential nature concept we all have our life goals and jobs and we must live to that as a friend father ect.
+- rational being can turn each setback into raw material and use it to achieve its goal. ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1892))
+    - **Tags:** #growth-mindset, #grow-through-hardship
+- Don’t let your imagination be crushed by life as a whole. Don’t try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can’t I endure it?” You’ll be embarrassed to answer. Then remind yourself that past and future have no power over you. Only the present—and even that can be minimized. Just mark off its limits. And if your mind tries to claim that it can’t hold out against that … well, then, heap shame upon it. ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1893))
+    - **Note:** Good passage
+- Remember that when it withdraws into itself and finds contentment there, the mind is invulnerable. ([Location 1929](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1929))
+    - **Tags:** #happiness-(internal-not-external)
+    - **Note:** True happiness is internal
+- That’s all you need to know. Nothing more. Don’t demand to know “why such things exist.” ([Location 1937](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1937))
+    - **Tags:** #meaning-from-experience, #cause-and-effect-vs-mean-reversion, #why-not-what-questions
+    - **Note:** Sometimes its impossible to know why something happened just understand the cause and effect
+- What doesn’t transmit light creates its own darkness. ([Location 1966](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1966))
+    - **Tags:** #love, #open-up-your-heart-and-find-love-all-around
+- Diseases like that can only threaten your life; this one attacks your humanity. ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1994))
+    - **Tags:** #death-(living-dead), #sum-of-your-5-closest-friends
+    - **Note:** Surround yourself with the right people death vs living well.
+- Don’t look down on death, but welcome it. ([Location 1995](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1995))
+- simply viewing it as one of the things that happen to us. ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=1998))
+    - **Tags:** #extermal-events, #events-(we-give-agency-to-them)
+    - **Note:** external events are things that happen and we give agency to them
+- Objective judgment, now, at this very moment. Unselfish action, now, at this very moment. Willing acceptance—now, at this very moment—of all external events. ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2008))
+    - **Tags:** #selfishness, #objectively-view-situations, #accept-life-as-is, #objective-truth
+- All things are drawn toward what is like them, ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2014))
+    - **Tags:** #similarity-in-relationships, #relationship-(drawn-to-similarities), #mimetic-models
+    - **Note:** People are drawn toward similarities
+- Everything in flux. And you too will alter in the whirl and perish, and the world as well. ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2043))
+    - **Tags:** #change-(is-constant), #impermanance
+    - **Note:** Change is constant life is finite.
+- Leave other people’s mistakes where they ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2043))
+- Do what nature demands. Get a move on—if you have it in you—and don’t worry whether anyone will give you credit for it. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2069))
+    - **Tags:** #credit-from-others-(dont-look-fot), #live-with-nature, #internal-locus-of-control
+    - **Note:** Do what you want don’t worry about external praise or support just do you. You can be a good person without others knowing.
+- the scale of the world ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2082))
+- infinite time ([Location 2083](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2083))
+- speed with which things change—each ([Location 2083](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2083))
+- Concentrate on what you’re doing, and what you’re doing it with. ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2116))
+    - **Tags:** #focus-on-what's-important
+- So when you call someone “untrustworthy” or “ungrateful,” turn the reproach on yourself. It was you who did wrong. By assuming that someone with those traits deserved your trust. Or by doing them a favor and expecting something in return, instead of looking to the action itself for your reward. ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2127))
+    - **Tags:** #expections, #perception-vs-interpretation, #trusting-sources-(knowing-which-to-trust)
+    - **Note:** Understand people and set reasonabble expectations. No one let’s you down only you can cause yourself genuine pain.
+- Whereas humans were made to help others. And when we do help others—or help them to do something—we’re doing what we were designed for. ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2131))
+    - **Tags:** #human-nature-remains-constant, #help-others-figure-your-point-out-for-thenselves-(guide-them), #support-for-others
+    - **Note:** Were designed to help others
+- If they’ve made a mistake, correct them gently and show them where they went wrong. If you can’t do that, then the blame lies with you. Or no one. ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2151))
+    - **Tags:** #giving-back, #help-others-figure-your-point-out-for-thenselves-(guide-them)
+    - **Note:** How to help others. If you can’t phrase helping someone right it’s on you.
+- If the process is harmful to the parts and unavoidable, then it’s hard to see how the whole can run smoothly, with parts of it passing from one state to another, all of them built only to be destroyed in different ways. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2163))
+    - **Tags:** #bottoms-up-and-top-down, #systems-thinking
+    - **Note:** What’s bad for the parts is bad for the whole systems thinking
+- Upright. Modest. Straightforward. Sane. Cooperative. Disinterested. ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2175))
+- Is what he’s doing now the right thing to be doing? Does he accept and welcome what he’s been assigned? ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2200))
+    - **Tags:** #live-with-nature, #live-your-life
+- relaxed and energetic, joyful and serious at once. ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2206))
+    - **Tags:** #relax-and-work-hard, #joyful-activities, #seriously-(taking-simple-ideas-seriously-can-lead-to-amazing-things)
+- To stop talking about what the good man is like, and just be one. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2215))
+    - **Tags:** #get-action, #actions-speak-louder-than-words
+    - **Note:** Get action stop talking.
+- To bear in mind constantly that all of this has happened before. And will happen again—the ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2242))
+    - **Note:** Life is cyclical
+- None of us have much time. And yet you act as if things were eternal—the ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2283))
+    - **Note:** Let go
+- So too a healthy mind should be prepared for anything. The one that keeps saying, “Are my children all right?” or “Everyone must approve of me” is like eyes that can only ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2287))
+    - **Note:** Be mentally flexibile
+- it is simultaneously cut away from the whole tree. So too a human being separated from another is cut loose from the whole community. The branch is cut off by someone else. But people cut themselves off—through hatred, through rejection—and don’t realize that they’re cutting themselves off from the whole civic enterprise. ([Location 2342](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2342))
+    - **Tags:** #perception-vs-interpretation, #pity-parties, #communication-(open-the-lines), #relationship, #self-sabotage, #pain-body, #hate-fuels-hate, #save-yourself-(no-one-saving-you), #favorite, #community-formation
+    - **Note:** Don't cut yourself off from other people for vain reasons and hate people you do more damage to yourself than you do to that other person. Pity and pain don't help you don't wallow in it.
+- The natural can never be inferior to the artificial; art imitates nature, not the reverse. In which case, that most highly developed and comprehensive nature—Nature itself—cannot fall short of artifice in its craftsmanship. ([Location 2353](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2353))
+    - **Tags:** #live-with-nature
+- It’s the pursuit of these things, and your attempts to avoid them, that leave you in such turmoil. And yet they aren’t seeking you out; you are the one seeking them. ([Location 2358](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2358))
+    - **Tags:** #live-with-nature, #anxiety-(worse-than-the-event), #live-your-life, #universe-listening-to
+    - **Note:** Seeking let the world come to you. Don’t be anxiously grabbing at the world but welcome it into your heart with time. Live with nature live your life listen to the universe.
+- The soul as a sphere in equilibrium: Not grasping at things beyond it or retreating inward. Not fragmenting outward, not sinking back on itself, but ablaze with light and looking at the truth, without and within. ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2360))
+    - **Tags:** #balacing-feedback-loops, #golden-mean, #philosophy, #favorite, #circle-of-competence
+    - **Note:** This is kinda the golden mean concept of being focused on what’s important and looking for truth and light. Du what is yours to deal circle of confidence.
+- straightforward, honest person should be like someone who stinks: when you’re in the same room with him, you know it. But false straightforwardness is like a knife in the back. False friendship is the worst. Avoid it at all costs. If you’re honest and straightforward and mean well, it should show in your eyes. It should be unmistakable. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2371))
+    - **Tags:** #fake-people, #relationship, #sum-of-your-5-closest-friends, #honesty-(margin-of-error-too-small-not-to-see-truth), #friendships
+    - **Note:** Honesty should show in your eyes and be obvious there’s nothing worse than fake people
+- You have to know an awful lot before you can judge other people’s actions with real understanding. ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2395))
+    - **Tags:** #ignorant-of-our-ignorance, #judging-others-(morals-change)
+    - **Note:** Listening to people. Ignorant of our ignorancd.
+- This thought is unnecessary. This one is destructive to the people around you. This wouldn’t be what you really think (to say what you don’t ([Location 2417](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2417))
+- “If you don’t have a consistent goal in life, you can’t live it in a consistent way.” ([Location 2428](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2428))
+    - **Tags:** #goals-(set-lofty-goals), #north-star-(core-direction), #intentional-life
+    - **Note:** Life purpose. Clear goal in life Northstar.
+- If you’d only let go of the past, entrust the future to Providence, and guide the present toward reverence and justice. ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2461))
+    - **Tags:** #presence, #letting-go, #surrender-to-preasent
+    - **Note:** Let go of the past and throw yourself surrender to the present.
+- Don’t let anything deter you: ([Location 2464](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2464))
+    - **Tags:** #grit/hardwork, #favorite
+- if it isn’t ceasing to live that you’re afraid of but never beginning to live properly ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2466))
+- God sees all our souls freed from their fleshly containers, stripped clean of their bark, cleansed of their grime. He grasps with his intelligence alone what was poured and channeled from himself into them. If you learn to do the same, you can avoid a great deal of distress. When you see through the flesh that covers you, will you be unsettled by clothing, mansions, celebrity—the painted sets, the costume cupboard? ([Location 2469](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2469))
+    - **Tags:** #character-(internal-not-external), #extermal-events, #internal-locus-of-control
+    - **Note:** Dad sees us for our internals not our externals. Why can’t you do the same? Do your clothes matter as much as your character?
+- we all love ourselves more than other people, but care more about their opinion than our own. ([Location 2480](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2480))
+    - **Tags:** #internal-locus-of-control, #opinions-of-others-=-poverty
+    - **Note:** Focus internally not on others opinions.
+- Practice even what seems impossible. ([Location 2491](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2491))
+    - **Tags:** #growth-mindset, #practice-(importance-of)
+    - **Note:** Growth mindset
+- If it’s not right, don’t do it. If it’s not true, don’t say it. Let ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2516))
+    - **Note:** Morals
+- That before long you’ll be no one, and nowhere. Like all the things you see now. All the people now living. Everything’s destiny is to change, to be transformed, to perish. So that new things can be born. ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2523))
+    - **Tags:** #finite-life, #death-(contemplate-it), #change-(is-constant), #fragility-of-life
+    - **Note:** Fragility of life. Change is constant so is the inevitable march and finiteness of life.
+- That the present is all we have to live in. Or to lose. ([Location 2550](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2550))
+    - **Tags:** #present-is-all-we-have
+- There’s nothing more insufferable than people who boast about their own humility. ([Location 2556](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2556))
+    - **Tags:** #irony, #humility, #favorite
+    - **Note:** Funny
+- Salvation: to see each thing for what it is—its nature and its purpose. To do only what is right, say only what is true, without holding back. What else could it be but to live life fully—to pay out goodness like the rings of a chain, without the slightest gap. ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2561))
+    - **Tags:** #salvation
+    - **Note:** Salvation see things for their truth and live life fully.
+- Keep all that in mind, and don’t treat anything as important except doing what your nature demands, and accepting what Nature sends you. ([Location 2574](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2574))
+    - **Tags:** #live-with-nature
+    - **Note:** Live with nature
+- the power that directed your creation, and now directs your dissolution. Neither was yours to determine. So make your exit with grace—the same grace shown to you. ([Location 2585](https://readwise.io/to_kindle?action=open&asin=B000FC1JAI&location=2585))
+    - **Tags:** #graceful, #live-your-life, #death-(contemplate-it)
+    - **Note:** Death. Life is finite and given and taken from us, be graceful in both life and death.

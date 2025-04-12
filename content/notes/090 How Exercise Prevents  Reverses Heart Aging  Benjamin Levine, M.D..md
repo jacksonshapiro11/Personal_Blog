@@ -1,0 +1,61 @@
+# #090 How Exercise Prevents & Reverses Heart Aging | Benjamin Levine, M.D.
+
+![](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fd%2F3%2F6%2Fcd36cb74754e3424%2FFoundMyFitness_3000x3000.png&w=100&h=100)
+
+### Metadata
+
+- Author: FoundMyFitness
+- Full Title: #090 How Exercise Prevents & Reverses Heart Aging | Benjamin Levine, M.D.
+- Category: #podcasts
+
+
+
+- URL: https://share.snipd.com/episode/b0a5ccac-87af-443f-9b50-a5d06924a27b
+
+### Highlights
+
+- Episode AI notes
+  1. Regularly varying training regimens is more beneficial for the body than doing the same thing repeatedly.
+  2. Incorporating diverse activities like long sessions, high-intensity workouts, moderate-intensity sessions, and strength training is essential for optimal cardiovascular health.
+  3. Proper recovery through easy sessions, days off, and monitoring resting heart rate is crucial for maximizing training benefits.
+  4. Utilizing a five-zone training model can help athletes tailor their training intensities to specific performance goals. ([Time 0:00:00](https://share.snipd.com/episode-takeaways/b875dc5a-47f9-4c57-b017-1d0d031d5468))
+- Mix Up Your Training Regimen for Better Results
+  Summary:
+  The human body adapts best to a variety of training regimens rather than doing the same thing repeatedly.
+  A study showed that maintaining the same training intensity and duration for a year did not increase fitness levels. To maximize cardiovascular health and fitness, it is recommended to incorporate diverse activities like long sessions lasting over an hour, one high-intensity session per week, moderate-intensity sessions for at least 30 minutes, and one or two days of strength training.
+  The key is to mix up training routines for optimal health rather than focusing on high-performance training, which requires a different approach.
+  Transcript:
+  Speaker 1
+  That's a good indicator of that higher level of zone two training. So the ideal strategy then is to incorporate all kinds of training. That's what the human body is best at adapting to. It doesn't really adapt very well to doing the same thing over and over and over again. You will not get fitter if you do that. And in fact, in our two year training study, if you read below the lines a little bit, we markedly upscale people. These were completely sedentary. And we worked them very hard for a year, including multiple high intensity sessions, prolonged sessions. But then we said, all right, I want you to sustain that for a year. So we dropped into only one interval session a week and one long session a week. And we didn't increase the dose. We didn't increase the frequency or duration or intensity over that last year. And you know what? You didn't get any fitter. And their hearts didn't get any bigger. The only thing that got bigger was the atria. And we can chat about that when we get to talking about toxicity of exercise training. So the human to come back to our point, the human body doesn't adapt very well to doing the same thing over and over again. And so my prescription for life, if you will, is one that mixes things up. So I suggest to people that you spend do at least one day of a long session that lasts at least an hour. And it should be fun. I don't care what it is. It could be, you know, going square dancing. It could be a long walk with your spouse or a long bike ride. It could be some other class that you take. But it needs to last over an hour and at least to be fun. Second thing you need to do is do one high intensity session a week. I like the four by four. I think it's very effective. There's great data about it from the Norwegians. But I don't care if you did two by six or if you're a Marty Gabal fan, if you did 30 seconds times eight, it doesn't really matter. Just do one thing at high intensity and then do two or three sessions of that moderate intensity at least 30 minutes, getting the talk test and then supplement that with one or two days Of strength training. And what I mean by strength training, it doesn't mean you have to go to the gym and pump iron. It could be Pilates. It could be strength yoga. Anything that requires training of strength and skill in a muscle. And if you do that over your whole life, I think that's the best strategy for preserving cardiovascular health. If you tell me you want to run an iron man, you got to train different than that. And that's a really important thing for your audience to understand. Training for health versus training for performance. Every coach knows how to train for performance. And so if that's your objective, if your goal is to have a competitive performance objective, then you have to train differently. If you tell me your goal is I just want to preserve my health and stay fit and have a good life, then you don't need to train 30 hours a week. But if you want to compete in Kona, you need to train 20 to 30 hours a week or you're not going to be successful. So I think you've got to just clearly identify what your goal of your fitness is and your goal of your overall health. ([Time 0:44:54](https://share.snipd.com/snip/f4df3349-c834-4dc0-a706-d59ae5d6abd5))
+    - **Tags:** #balanced-work-outs, #anearobic-fitness, #strength-training, #aerobic-fitness, #exercise, #health-vs-life-span, #balanced-life
+    - **Note:** Ideas training regiment is different for everyone. Having variability is best for you long term. Stretchy heart is the mark of a good athlete. Have balance or aerobic anaerobic and strength training
+- Optimal Training and Recovery for Athletes
+  Summary:
+  Ensuring proper recovery is crucial in maximizing the benefits of a training stimulus.
+  Introducing easy sessions after high intensity workouts and incorporating days off are essential practices for athletes. Monitoring resting heart rate can indicate overtraining, prompting adjustments in training frequency or intensity.
+  Utilizing a five-zone training model, which includes threshold, zone three, zone two, zone one, and zone five, enables athletes to tailor their training intensities to specific performance goals such as marathon, 10K, and 5K races.
+  Transcript:
+  Speaker 1
+  The athletic community has thought a lot about this over-training syndrome for years as a guy from the Netherlands in Armkipus who did a really interesting study with horses. Horses are some of the great endurance athletes of our time, of our world, our biologic world. And he tried to over-train them. And the first thing he did was he increased their base training load and they all got faster. And then he said, okay, well, let me increase the intensity of their training and they all got faster. And they said, let me increase the number of intensity training sessions and they all got faster. And finally, he said, well, I don't know what else to do. Maybe I'll just change their recovery. And what I mean by recovery is they do a high intensity session in the morning. And then the next session after a high intensity session is something easy. So a simple canter, just a walk around to get the blood moving. And as soon as within a week of increasing the intensity of the recovery sessions, they were all over-trained. With marked reduction of performance, increasing resting heart rate, fatigue, you know, every sign of over-training. So in order to reap the benefits of a training stimulus, the body has to do something, right? The muscles have to produce protein. There's blood vessels. There's a release of a variety of downstream metabolites from the oxygen sensing cascade from hypoxia-inducible factor through vegef, the vascular endothelial growth factor. And then you can make the blood vessels that improve the lining, the endothelium, that add muscle fibers that make them big or all these things have to happen. That's what, beneath the skin, those are the things that are happening after you do a training stimulus, right? And if you don't allow those, their full expression, then you won't get the benefit of the workout that you do. And so most good coaches and trainers will always incorporate an easy session after a high intensity session. And always, I think, should always have a day off. Whether that day off is some, you know, strength training or technical training or things like that, that's okay by me watching film, doing some basic technical things, shooting free Throws if you're a basketball player, whatever. But it has to be something easy that's unstressed. And that's what allows you to get the most benefit. And I think that people who are not coached, you know, or who have a coach that's perhaps a bit more inexperienced, they get driven to do more and more and more. And they find that they're not getting better. And that's probably because they're not having adequate recovery. And one of the things we did in all our altitude training studies, we spent more than a decade studying the best way to do altitude training for the USA Track and Field and the US Olympic Committee, is to monitor early morning heart rate. That was our best indicator. So we'd have the athletes put their heart rate monitor on, you know, set an alarm, put their heart rate monitor on. If you've got a watch at rest, it's pretty accurate. During exercise, the watches that just use the PPG, the Plethysmogram are not accurate. That's a whole nother discussion that we should talk about. But put it on at rest and track it for, go back to sleep and see what it was for those five minutes before you woke up again. And as you start to get over train, that resting heart rate starts to climb. And that's a signal that, okay, I need to reduce the frequency of my intensity sessions.
+  Speaker 2
+  I need to make them a little shorter, or I need to make sure that I'm adding adequate recovery and take a day off. An adequate recovery, if I'm just, I want to make sure I understand this.
+  Speaker 1
+  It includes on a day you're training doing something a little more light in terms of a rubber exercise. Easier. It might, if you're used to doing stuff in zone three and zone four or zone five, you might do in zone one. Okay. So do you know what I mean by those five zones?
+  Speaker 2
+  I go ahead and I would, it'd be great because it seems like definitions vary depending on what journal you're reading. And I think that that's true. And there are different coaches who use different zones for us.
+  Speaker 1
+  You know, and I learned, you know, my basic practical exercise science from Jim Stray gunerson, my partner in Carver.
+  Speaker 3
+  Hold on a second. Yes, sorry, sorry. Yeah. Yeah.
+  Speaker 1
+  So from Jim Stray gunerson who passed last year, my good friend and partner.
+  Speaker 3
+  I'll get there.
+  Speaker 1
+  Just give me a second.
+  Speaker 3
+  Okay.
+  Speaker 1
+  So I learned most of my exercise science from my good friend and partner, Jim Stray gunerson, who unfortunately passed from pancreatic cancer last year. And we, in all our studies, we used a five training zone model. And typically what that means is we would pick the generally the second ventilatory threshold where ventilation starts to really increase added proportion to oxygen uptake, where VEVCO2 has gone down to its nadir, where lactate is between that two to four millimolar range. They all reflect what we call the maximal steady state. That's the highest level that you can sustain for a prolonged period of time. Most good marathon runners are running at the maximal steady state. And let's just say for argument's sake, that was at a heart rate of 155. Because there's no magic to heart rate and it changes on a day to day basis, we're not machines, we would bracket that and call it say the maximal steady state or threshold or zone three Training would be 150 to 160. Okay. So then zone two training is about 20 beats below that. So 130 to 150. Okay. And then zone one or recovery is less than 130. So a ([Time 1:44:08](https://share.snipd.com/snip/214ea68b-ad0a-45ac-8d55-b295ead5b64b))
+    - **Tags:** #exercise, #heart-rate-training, #recovery-(importance-of), #overtraining, #burnout, #vo2-max, #zone-2-training
+    - **Note:** Heart rate zone and the importance of recovery. Recovery is vital and not overtraining and working into different zones because you accomplish different things in those zones

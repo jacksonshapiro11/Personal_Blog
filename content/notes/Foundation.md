@@ -1,0 +1,97 @@
+# Foundation
+
+![](https://images-na.ssl-images-amazon.com/images/I/61O7NtHtGFL._SL200_.jpg)
+
+### Metadata
+
+- Author: Isaac Asimov
+- Full Title: Foundation
+- Category: #books
+
+### Highlights
+
+- It was childish to feel disappointed, but childishness comes almost as naturally to a man as to a child, ([Location 130](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=130))
+    - **Tags:** #childhood, #maturity, #childishmess
+    - **Note:** Gaal this great future mathematician is going to trantor which seems important
+- “Subjective matter of opinion, Gaal. If you’re born in a cubicle and grow up in a corridor, and work in a cell, and vacation in a crowded sun-room, then coming up into the open with nothing but sky over you might just give you a nervous breakdown. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=226))
+    - **Tags:** #risk-and-return, #freedom
+    - **Note:** freedom can be a scary thing
+- psychohistory to be that branch of mathematics which deals with the reactions of human conglomerates to fixed social and economic stimuli.… ([Location 256](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=256))
+- “As Trantor becomes more specialized, it becomes more vulnerable, less able to defend itself. Further, as it becomes more and more the administrative center of Empire, it becomes a greater prize. As the Imperial succession becomes more and more uncertain, and the feuds among the great families more rampant, social responsibility disappears.” “Enough. And what of the numerical probability of total destruction within three centuries?” ([Location 292](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=292))
+    - **Tags:** #bureaucracy, #human-nature-remains-constant, #fragility-in-systems
+    - **Note:** Human nature never changes. Bureaucracy and created fragilities over time. Specialization creates fragility.
+- “Doctor? No other title? A scholar? And he rates above the civil authority?” ([Location 660](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=660))
+    - **Tags:** #creativity, #innovation, #late-stage-empire, #favorite, #explorer-vs-optimizer
+    - **Note:** Interesting irony juxtaposition. This might be some later stage empire beliefs prizing the men of allocation over the men of creation. Societies only grow through creation and when this backwards thinking is happening it is a clear sign of the society falling apart. The doctor is below the civil servant of the bureaucracy
+- “Not at all. He’s merely the product of his environment. He doesn’t understand much except that ‘I have a gun and you haven’t.’ ([Location 745](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=745))
+    - **Tags:** #path-dependence
+    - **Note:** Past dependence and us being a product of our environment
+- “But wheah’s the necessity? It seems an uncommonly woundabout and hopelessly wigmawolish method of getting anywheahs. Look heah, now, I’ve got the wuhks of all the old mastahs—the gweat ahchaeologists of the past. I wigh them against each othah—balance the disagweements—analyze the conflicting statements—decide which is pwobably cowwect—and come to a conclusion. That is the scientific method. At least”—patronizingly—“as I see it. How insuffewably cwude it would be to go to Ahctuwus, oah to Sol, foah instance, and blundah about, when the old mastahs have covahed the gwound so much moah effectually than we could possibly hope to do.” ([Location 896](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=896))
+    - **Note:** Don't Become too abstracted
+- The treaty ran through five pages of fine print and the analysis was scrawled out in just under half a page. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=959))
+    - **Tags:** #bureaucracy, #simplicity-(power-of), #simple-as-possible-no-simpler
+    - **Note:** Cut through the bs. Bureaucratic nonsense power of simplicity
+- When Holk, after two days of steady work, succeeded in eliminating meaningless statements, vague gibberish, useless qualifications—in short, all the goo and dribble—he found he had nothing left. Everything canceled out. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=977))
+    - **Tags:** #meaning-(is-in-everything), #nihalism, #bureaucracy, #social-commentary, #meaning-(in-theories), #organization-kid, #life-path---presented-vs-discovered, #favorite
+    - **Note:** This is some social commentary on nonsensical beauracracy and how everything people do is wasted and low leverage don’t disagree and it’s a bit nihilistic but partly true as well. Kinda like organization kid just does what he’s told without thinking creating no value but just living some cookie cutter life. Life path.
+- “Violence,” came the retort, “is the last refuge of the incompetent. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=988))
+    - **Tags:** #anger-(hopelessness-masquerading-as-frustration), #violence, #favorite
+- “Don’t you see? It’s Galaxy-wide. It’s a worship of the past. It’s a deterioration—a stagnation!” ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1041))
+    - **Tags:** #stagnation, #risk-control-vs-avoidance, #take-opportunities
+    - **Note:** The danger of stagnation and not taking chances
+- “This, by the way, is a rather straightforward crisis, much simpler than many of those that are ahead. To reduce it to its fundamentals, ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1122))
+    - **Note:** First principles thinkong
+- ‘Violence is the last refuge of the incompetent.’ ([Location 1222](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1222))
+    - **Tags:** #violence, #anger-(hopelessness-masquerading-as-frustration), #favorite
+- force we could and put up a fight. It’s the easiest way out, and the most satisfactory to self-respect—but, nearly invariably, the stupidest. You would have done it; you and your talk of ‘attack first.’ What I did, instead, was to visit the three other kingdoms, one by one; point out to each that to allow the ([Location 1233](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1233))
+- “It pays to be obvious, especially if you have a reputation for subtlety.” ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1291))
+    - **Tags:** #irony, #manipulation, #masks-of-our-lives
+    - **Note:** Distraction and keeping people guessing. Masks and manipulation.
+- You and I both know that the armament he now has could defeat Terminus handily, long before we could repair the cruiser for our own use. What does it matter, then, if we give him the cruiser as well? You know it won’t ever come to actual war.” ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1357))
+    - **Note:** Know when your beaten and buy time
+- It could not handle too many independent variables. He couldn’t work with individuals over any length of time; any more than you could apply kinetic theory of gases to single molecules. He worked with mobs, populations of whole planets, and only blind mobs who do not possess foreknowledge of the results of their own actions.” ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1393))
+    - **Tags:** #prediction, #complex-adaptive-systems, #psychohistory, #levels-of-emergence
+    - **Note:** Society is blind to the problems. Psychohistory dealing with predictions at a higher level of emergence physics for psychology.
+- “Space, yes. You’re absolutely right, you know. We must strike first. It’s simply self-defense.” ([Location 1482](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1482))
+    - **Note:** Irony mental gymnastics
+- He became acutely conscious of the fact that Wienis and his two arrogant sons were at present next in line to the throne. But he was king. And kings could order people executed. Even uncles and cousins. ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1534))
+- Your policy of peace, you see, has led you into making several very serious mistakes, ([Location 1727](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1727))
+    - **Tags:** #dont-underestimate-people
+    - **Note:** Underestimating the opponent
+- the chief characteristic of the religion of science that it works, ([Location 1844](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1844))
+    - **Tags:** #scientism, #process-vs-outcome
+- the kings of the Four Kingdoms accepted the religion of science that made them divine; and that same religion of science was their bridle and saddle, for it placed the life blood of nuclear power in the hands of the priesthood—who took their orders from us, be it noted, and not from you. You killed the wolf, but could not get rid of the m—” ([Location 1900](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1900))
+    - **Tags:** #power-in-the-real-world, #religion-vs-science, #scientism
+    - **Note:** Religion of science concentration of power. Irony of science being a religion
+- “Never let your sense of morals prevent you from doing what is right!” ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=1971))
+- I’m out to make money, and this is my chance. If it helps the ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2106))
+- Foundation at the same time, all the better. And I’ve risked my life on slimmer chances.” ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2107))
+- It’s his only way of recouping his losses, and if he makes money out of it, he’ll salve his pride. And he will be the next Grand Master—and the best man we could have in our favor.” ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2279))
+    - **Tags:** #incentive-allignment
+    - **Note:** Made it so je alligned the interests of both parties then The sale was madd
+- “That’s right. These traders. They are useful, but they are too strong—and too uncontrolled. They are Outlanders, educated apart from religion. ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2361))
+    - **Tags:** #outsiders, #fear-of-different-people
+    - **Note:** Outsiders fear of others we fear people who aren’t us.
+- ‘To succeed, planning alone is insufficient. One must improvise as well.’ I’ll improvise.” ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2407))
+    - **Tags:** #creativity, #improvizing
+    - **Note:** Creativity and emergence is vital to success.
+- They don’t know what I’m doing here and I don’t know what they’ve got here. But I’m in the weaker position because I’m one and they’re an entire world—maybe with atomic power. I can’t afford to be the one to weaken. Sure it’s dangerous. Sure there may be a hole in the ground waiting for us. But we knew that from the start. What else is there to do?” “I don’t—Who’s that, now?” ([Location 2443](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2443))
+- “I can. There’s no merit in discipline under ideal circumstances. I’ll have it in the face of death, or it’s useless. Where’s this missionary? Get him here in front of me.” ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2470))
+    - **Tags:** #grow-through-hardship, #mental-health, #behavior-matters-most-in-a-crisis
+    - **Note:** Resolve matters more in bad times. Temperament matters most in a crisis.
+- He read it in a glance and laughed shortly. “So my idea was far-fetched, was it?” He tossed it to Twer, and added, “Half an hour after we hand back the missionary, we finally get a very polite invitation to the Commdor’s august presence—after seven days of previous waiting. I think we passed a test.” ([Location 2547](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2547))
+    - **Tags:** #test-others-resolve, #test-assumptions, #crazy-ideas-(are-worth-entertaining), #favorite
+    - **Note:** passing tests by doing the crazy thing. That is the only way to do it. All the value is at the tails. Just fucking go for it all gas no breaks balls to the wall. Unique problem solving.
+- “You can have both, for it is possible to gather gold with one hand and love with the other.” ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2588))
+- “Galaxy, how they would fight for them. I’ll keep the supply small and let them bid. Of course, it wouldn’t do to let them know that I personally—” ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2618))
+    - **Note:** Binded by greed
+- If nuclear power makes them dangerous, a sincere friendship through trade will be many times better than an insecure overlordship, based on the hated supremacy of a foreign spiritual power, which, once it weakens ever so slightly, can only fall entirely and leave nothing substantial behind except an immortal fear and hate.” ([Location 2985](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=2985))
+    - **Tags:** #friendships, #love, #power-dynamics, #friends-close-enemies-closer, #love-core-of-relationships
+    - **Note:** Friends close enemies closer. Friendship and love is more powerful
+- “Now any dogma, primarily based on faith and emotionalism, is a dangerous weapon to use on others, since it is almost impossible to guarantee that the weapon will never be turned on the user. ([Location 3012](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=3012))
+    - **Tags:** #rational-and-anti-rational-memes, #dogma-(resist-it)
+- “The whole war is a battle between those two systems; between the Empire and the Foundation; between the big and the little. To seize control of a world, they bribe with immense ships that can make war, but lack all economic significance. We, on the other hand, bribe with little things, useless in war, but vital to prosperity and profits. ([Location 3286](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=3286))
+    - **Tags:** #war, #system-construction, #system-destruction
+    - **Note:** The means of creation and destruction are different
+- Mallow lifted his gloomy face, and exclaimed fiercely, “What business of mine is the future? No doubt Seldon has foreseen it and prepared against it. There will be other crises in the time to come when money power has become as dead a force as religion is now. Let my successors solve those new problems, as I have solved the one of today.” ([Location 3324](https://readwise.io/to_kindle?action=open&asin=B000FC1PWA&location=3324))
+    - **Note:** Relates to real world. midles ages religion controlled then economics and money what comes to rule in the future is unknown

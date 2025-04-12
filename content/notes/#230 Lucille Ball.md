@@ -1,0 +1,24 @@
+# #230 Lucille Ball
+
+![](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F57933a1d-c5a9-4040-9aca-e766ae2ec0eb%2F721c2dd0-f766-4405-a701-dcd9179d4a5b%2F3000x3000%2F1495013501artwork.jpg%3Faid%3Drss_feed&w=100&h=100)
+
+### Metadata
+
+- Author: Founders
+- Full Title: #230 Lucille Ball
+- Category: #podcasts
+
+
+
+- URL: https://share.snipd.com/episode/0b835a5c-9cb0-419d-bc6f-6a6b79b02ba7
+
+### Highlights
+
+- Dont listen to the haters. She becomes the largest female executive in Hollywood and runs her own studio. She was completely focused and worked until 2 am every night. Tough childhood fired to her success. Had people who mentored her and supported her goals. Her mom went into debt to put her into acting school. When she went, they told her she didn’t have the chops and become a top actress. She goes on to become most successful actress in history at the time. They didn’t think she could do it. She starts saving young. Long-term perspective always saving money the maker anti-fragile during tough times. She wanted to run her career. Worked 16 hours a day. She moved her entire family to California and supports them. She works at a studio that she goes onto to run. She does a radio show has great mentors. Do the best you can do never lie. Don’t make excuses just apologize.
+  Transcript:
+  David Senra
+  He said, Lucille Ball gave me advice about Hollywood. She said, just remember, when they say no, you hear yes and act accordingly. Someone says to you, we can't do this movie. You hug him and say, thank you for believing in me. And so the context of when he gives us advice, he says, listen, you don't listen to naysayers. Everything I did, I was told it was impossible. When someone said to me, it can't be done. I heard it could be done. When someone told me no, I heard yes. When they said it was impossible, I heard it was possible. And he talks about anybody doing something difficult, whether you're trying to be a bodybuilder, an actor, an entrepreneur, whatever it is that you're doing, ([Time 0:04:39](https://share.snipd.com/snip/bc06b6cc-1cbf-4fb9-a3a0-07c4c3a1ee4c))
+- She was a B list actress then did radio this captapukted her to getting noticed and getting her big shot. Striking out on your own, you have to sell yourself. She married a man who she loved deeply, but was an alcoholic and overall just a horrible person to be with and this ruined her but she did for love and ended up getting divorced. Important to surround yourself with great people. She’s getting manipulated and taking advantage of because she’s weak so she become strong. She’s doing bad in marriage great in her career. She rides the wave of tv. She is at the peak of her career but low of personal success. Children internalize their parent’s unhappiness.
+  Transcript:
+  David Senra
+  So they're constantly getting approached. And so she gets approached by a married man. He's very powerful. And, but she's like, I can't, like, I'm not going to break up her. He's got young kids. I'm not going to break up their marriage. And so she winds up getting blackballed because of this. So she says, that's the kind of marriage I wanted. I respected this producer's talent. He was attractive, young, and vital, but I couldn't allow myself to fall in love with him because of his wife and children. And so his wife winds up finding out. He's trying to leave her for a loose. And loose is like, no, I don't want to be with you. And all of her friends are saying, you know, you messed up. You don't understand how this business works. All of my friends said, you dope. If you had married that guy, you would be on top. Now you'll never make it. And the wife will get all the other Hollywood wives to blackball you. So this winds up being, she stuck to her convictions. It winds up, at the time she didn't realize it, it winds up being a good thing because she has a lull in the role she's getting and so she has to look around so she says i had to give hollywood A rest and look around to show for other showcases for my talent i wound up trying radio this turned out to be one of the smartest things i ever did and so that's what i was tying together Earlier how the fact is this weird circumstance causes her to not get roles for a little bit and then she's like okay i'll do radio the fact that she was so good at radio winds up getting Her noticed by CBS television and then that's going to launch you know to her she goes from you know orders of magnitude higher levels of fame than when she was just on the radio or whether She was you know playing minor roles in like these B-list movies so then she gets into one of the most important relationships the most important relationship she ever has in her life And that's the one with ([Time 0:32:15](https://share.snipd.com/snip/5b1c86af-9ff3-4ff3-9c4c-2ab3de9ead74))

@@ -1,0 +1,37 @@
+# Ruminating on Asset Allocation
+
+![](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2Fcb%2F23%2Fab%2Fbd%2Fcb23abbd-3061-4456-a39a-217d1397fd85%2Fb490f2bd2924b5507078be3a3e3703460009a7713a1c1b4cdde30965ca676b7eeeedcd2f57a76ad3627a73f63cdcf8c547ef05945df437c40f16f5002cf5865a.jpeg&w=100&h=100)
+
+### Metadata
+
+- Author: The Memo by Howard Marks
+- Full Title: Ruminating on Asset Allocation
+- Category: #podcasts
+
+
+
+- URL: https://share.snipd.com/episode/70cda24a-dea5-4889-a4fa-ab70e59f6fe9
+
+### Highlights
+
+- Navigating Risk: The Balancing Act of Investment
+  Summary:
+  Investors face a fundamental trade-off between expected returns and associated risks, with the choice deeply influenced by individual circumstances and risk tolerance.
+  Each investor must determine their appropriate risk posture, considering factors like investment horizon, financial condition, and personal resilience to market fluctuations. This posture can either remain constant or vary according to market conditions, allowing for strategic shifts towards offense during downturns and defense during peaks.
+  Understanding the inherently uncertain nature of risk and return is crucial; as risk increases, potential returns also rise but so does the likelihood of adverse outcomes.
+  A more nuanced representation of this relationship highlights that higher risk not only involves higher expected returns but also broader ranges of possible outcomes, including severe losses.
+  This comprehension of risk dynamics is vital for effective investment strategies and is a significant contribution to investment theory.
+  Transcript:
+  Speaker 1
+  In a market with any degree of efficiency, that is, rationality, it's just a trade-off. A higher expected return with further upside potential at the cost of greater uncertainty, volatility, and downside risk, or a more dependable but lower expected return, entailing Less upside and less downside? The choice between the two is subjective, largely a function of the investor's circumstances and attitude toward bearing risk. That means the answer will be different for different investors. Choosing the offense-defense balance. I've previously expressed my view that, as a starting point, every investor or their investment manager should identify their appropriate normal risk posture or offense-defense Balance. For each individual or institution, this decision should be informed by the investor investment horizon financial condition income needs aspirations responsibilities and crucially Intestinal fortitude or their ability to stomach ups and downs once investors have specified the normal risk posture that's right for them, they face a choice. They can maintain that posture all the time, or they can opt to depart from it on occasion in response to the movements of the market and thus changes in the attractiveness of the offerings It provides, increasing their emphasis on offense when the market is beaten down, and on defense when it's riding high. Regardless of whether one's risk posture is fixed or variable, however, the next question is how one gets there. This question led me to think about another old idea, the relationship between risk and return. I've described a million times the way this was taught at the University of Chicago, beginning when I was there in the 1960s. It's a graphical presentation we've all seen ever since, in which, as we move from left to right, increasing the expected risk, the expected return also increases. As readers know, I always felt this representation was highly inadequate, since the linearity of the relationship in the graph makes it appear too certain that increased risk will Lead to increased return. This obviously belies the nature of risk. So, in a memo in 2006, I took the same line and superimposed on it some bell-shaped curves representing probability distributions turned on their side. I did this to indicate the uncertain nature of returns from riskier assets. Now we see that as the thing called risk increases, that is, as we move from left to right on the graph, not only does the expected return increase, but the range of possible outcomes becomes Wider and the bad outcomes become worse. That's risk. I hope this way of presenting risk will be considered a lasting contribution to the investment industry when I'm gone. Doodling one day, I took the black and green curves describing ownership asset returns and debt returns from figure four and added some intermediate positions in blue and red to indicate Various combinations of the two. ([Time 0:12:47](https://share.snipd.com/snip/631b6542-6515-4c9e-8906-a78c895f7072))
+    - **Note:** Risk means the range of outcomes becomes wider.
+- Markets Are Not Always Right
+  Summary:
+  Markets are not perfectly efficient and can misprice assets despite rapidly incorporating new information and reflecting consensus opinions.
+  This mispricing presents opportunities for skilled investors to achieve superior risk-adjusted returns by carefully selecting among various options. The essential decision in portfolio management revolves around balancing ownership and debt assets to align with the desired risk-return profile.
+  While considering riskier assets with potentially skilled managers who possess alpha can be tempting, it is crucial to recognize that this strategy comes with significant uncertainty, as many managers claiming alpha may not deliver.
+  Ultimately, the asset allocation process heavily relies on the investor's ability to identify and access quality strategies and managers, a task that is inherently challenging.
+  Transcript:
+  Speaker 1
+  Now it's time for me to assert strenuously that, in reality, markets are not efficient in the academic sense of always being right. Markets may do an efficient job of A, rapidly incorporating new information, and B, accurately reflecting the resulting consensus opinion concerning the right price for each asset Given the totality of information. But that opinion can be far from correct. For that reason, gains can be achieved by choosing skillfully among the options. Some assets, markets, or strategies can offer a better risk-return bargain than others, and some managers can operate within a market or strategy to produce superior risk-adjusted Returns. This last idea raises one of the key questions in asset allocation. Should you consider departing from your sweet spot in terms of risk level in order to invest in a riskier asset class with a manager believed to possess alpha? There's no easy answer to this question, especially given that many managers who are believed to possess alpha turn out not to. To conclude, I'll recap the key points. Fundamentally speaking, the only asset classes are ownership and debt. They differ enormously in terms of their fundamental nature. Ownership assets and debt assets should be combined to get your portfolio to the position on the risk-return continuum that's right for you. This is the most important decision in portfolio management or asset allocation. The other decisions are merely a matter of implementation. Of course, your asset allocation process will be informed by how you rate your ability to identify and access superior strategies and superior managers, recognizing that doing so Isn't easy. ([Time 0:20:44](https://share.snipd.com/snip/462c2400-2540-4fd6-8424-0fb0ec27f886))
+    - **Note:** Asset allocation.

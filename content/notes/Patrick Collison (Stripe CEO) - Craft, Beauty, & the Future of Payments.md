@@ -1,0 +1,44 @@
+# Patrick Collison (Stripe CEO) - Craft, Beauty, & the Future of Payments
+
+![](https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Ffeed%2Fpodcast%2F69345%2Fcf4775ebf853d3c71b76b82f77046da4.jpg&w=100&h=100)
+
+### Metadata
+
+- Author: Dwarkesh Podcast
+- Full Title: Patrick Collison (Stripe CEO) - Craft, Beauty, & the Future of Payments
+- Category: #podcasts
+
+
+
+- URL: https://share.snipd.com/episode/8c2f90b4-eaf5-4495-9964-6ed3b511c971
+
+### Highlights
+
+- Episode AI notes
+  1. Creating an ecosystem can generate more value as both readers and writers benefit from it.
+  2. Written communication offers efficiency and inter-temporal benefits for readers, enabling them to understand thought processes over time.
+  3. Textual cultures differ significantly from oral cultures, allowing for better collaboration and consistency.
+  4. Firms heavily engaged in writing may be early adopters of AI advancements.
+  5. LLMs prove beneficial in financial services by bridging the gap between analog human aspects and digital transactions, offering an augmenting tool for various scenarios. ([Time 0:00:00](https://share.snipd.com/episode-takeaways/33ab8aa8-45f9-44b6-ad7b-50a5a171ff24))
+- Value Creation and Collaboration with LLMs
+  Summary:
+  Creating an ecosystem can generate more value as both readers and writers benefit from it.
+  Written communication offers efficiency and inter-temporal benefits for readers, enabling them to understand thought processes over time. Writers organize their thoughts through writing, which enhances their effectiveness.
+  Textual cultures differ significantly from oral cultures, allowing for better collaboration and consistency.
+  Firms heavily engaged in writing may be early adopters of AI advancements.
+  The integration of LLMs into production services and workflows facilitates collaborative prompts, enhancing productivity and problem-solving. Having a central bus to route access to LLMs enables experimentation with models for different use cases, leading to valuable insights. LLMs prove beneficial in financial services by bridging the gap between analog human aspects and digital transactions, offering an augmenting tool for various scenarios.
+  Transcript:
+  Speaker 2
+  Ecosystem, uh, you, you create it, create quite a bit more value. Okay. Let's go back to stripe. Um, is stripe a writing culture for the benefit of the writer or the reader? It can be both. But which one's the more so?
+  Speaker 1
+  I think there are actually really considerable benefits on both sides, um, because for the reader, it's, it's not just that it's maybe more efficient to communicate stuff through Text though, in many cases it is, but also this, like, this inter-temporal benefit, uh, where, you know, future readers can try to understand the, uh, the through line and the thought Process that, you know, led us to this point. Um, and, and I think that's, yeah, very considerable. But it's also true that I think that the, I mean, I, I, I, I write things and lots of real right things in order to organize one's own thoughts. And you know, if, if that kind of ability was, uh, was taken away from me, I think I'd be, you know, meetingfully less effective. So, you know, how exactly those bounce out is, is hard to say. Um, maybe, maybe the, uh, the, I mean, they're not actually separable. That's my answer. Um, like, literate cultures, uh, are just a different thing. I don't mean literate in some kind of faux intellectual way. I just mean, maybe textual cultures is a better term here, uh, where, um, you know, um, Bruno Latour spoke about how, um, you know, he thinks part of how the, um, the printing revolution, Um, like, Gutenberg's, uh, caused the scientific revolution, uh, was by making knowledge more rigid, uh, where before if some observation didn't match, you know, some claim, you Can also kind of struggle with like, well, I guess the person who transcribed that thing, you know, just like made a mistake or whatever. And so by making things more rigid, it's easier to break them. Uh, and, you know, then you can notice discrepancies between, I guess the theory or the claim or whatever and, you know, the actual reality. And I think there's some version that organizationally where, I mean, not, not, not during like that precise parallel, but there are analogous dynamics where the, the nature of oral Cultures and textual cultures, um, are, are just quite different. Uh, and, um, you know, so the, the, the kinds of collaboration that are possible and the kinds of consistency that can be achieved, like it is just fundamentally different. And, you know, um, is it, is the, uh, um, is the, you know, front or rear wheel of the bicycle more valuable. Um, I guess, if you're right, you can view any cycle, but like as a, as a practical matter, you do just need both.
+  Speaker 2
+  Mm. Um, I said, I know I said no more questions, but on this particular point, uh, it actually seems very legitimate to me that you might expect, uh, firms that have a lot of writing to be the, The, the first to experience a product of the games of AI, because there's all this context that the model doesn't have available readily. I don't know if that's something you anticipate.
+  Speaker 1
+  I think that's probably true. Yeah. Um, I, I don't know. And if the model is really good, maybe it should be able to pick stuff up quickly, but, um, I think most organizations are not recording all of their meetings, um, for a variety of reasons. And if they're not, then yeah, there is this question of, you know, what is the corpus? How do you get speed? So yeah, my guess is that will be true.
+  Speaker 2
+  Uh, we tell me about the internal LLM you built. Oh, um, it's, we didn't build the internal LLM.
+  Speaker 1
+  Uh, we, uh, we built, we built an internal LLM tool for making it very easy for people to integrate LLM's into, um, into production services. Um, uh, but also into, uh, just into their regular workflows, you know, as, as humans. Uh, so, um, the ability to, you know, work directly, I guess with the LLM, you know, as a standard chat agent, you know, as lots of people have built. Um, but then also to integrate that with some of our tools for, you know, querying and accessing data, um, or maybe most interestingly with sharing prompts, uh, across, um, you know, Different people. Um, and so, you know, somebody might discover, I mean, one of my favorite examples actually is somebody put together a prompt for optimizing SQL queries. Um, and, you know, it doesn't always work. Um, but, but sometimes it does. And like, it's very cheap to ask it, you know, got any ideas for optimizing the SQL query. Uh, and you know, sometimes it will come up with, uh, with some good stuff. Um, and, uh, and so yeah, the, the, the collaborative abilities there, uh, have, have proven, um, have proven surprisingly kind of high return and then having just, I mean, lots of organizations Have this. We're not claiming that it's very novel or anything, but, um, uh, having kind of a central bus to, um, through which to route all access to these LLMs such that we can, you know, experiment With different models and have, you know, some degree of, um, you know, observability into the respective performance trends. Um, and, and the usage of different cases and so forth like that, we have found building, um, a fairly significant amount of production infrastructure around LLMs, uh, to be valuable. And now given the proliferation of LLMs themselves, uh, with, you know, all of the obvious contenders, this is proving quite valuable because we're able to try to figure out for different Use cases, which models, self with the models, who knows, are, um, are almost effective. Uh, and you know, we, I don't know what the total number of invocations is, but, um, I think we're making millions of invocations per day now. Like there, there are just dozens of dozens of actual production use cases across Stripe and all sorts of really, I mean, the financial services ecosystem is in some way, um, a giant Analog to digital, uh, exercise because like humans are analog, um, and intentions, uh, and identities and all these things, uh, have, um, you know, there's always some degree of kind Of, uh, uncertainty around them and some noise. Um, but then transactions are, are digital, right? Uh, and we often find in these, yeah, analog to digital conversions that LLMs can be a surprisingly interesting, uh, augmenting tool. ([Time 1:28:11](https://share.snipd.com/snip/4f3684d6-3efa-4646-a3be-a7670ac23b65))
+    - **Tags:** #llms-within-org, #organizational-knowledge, #writing-cultures, #start-up-advice
+    - **Note:** Using LLMs within the org and writing cultures. LLMs are beneficial to build organizational knowledge and prompts across the org. Also writing makes thinking more rigid so it can be deconstructed more clearly.

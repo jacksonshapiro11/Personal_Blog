@@ -1,0 +1,428 @@
+# Super Thinking
+
+![](https://images-na.ssl-images-amazon.com/images/I/51NVQREIpjL._SL200_.jpg)
+
+### Metadata
+
+- Author: Gabriel Weinberg, Lauren McCann
+- Full Title: Super Thinking
+- Category: #books
+
+### Highlights
+
+- “The best time to plant a tree was twenty years ago. The second best time is now.” ([Location 140](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=140))
+    - **Tags:** #best-time-to-plant-tree-20-years/-today
+- The concept of inverse thinking can help you with the challenge of making good decisions. The inverse of being right more is being wrong less. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=153))
+    - **Tags:** #inversion
+- unforced error ([Location 157](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=157))
+- Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=172))
+    - **Tags:** #antifragile
+- Ultimately, to be wrong less, you also need to be testing your assumptions in the real world, a process known as de-risking. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=226))
+    - **Tags:** #test-assumptions
+- premature optimization, where you tweak or perfect code or algorithms (optimize) too early (prematurely). If your assumptions turn out to be wrong, you’re going to have to throw out all that work, rendering it ultimately a waste of time. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=253))
+    - **Tags:** #explorer-vs-optimizer, #premature-optimization, #local-vs-global-maximum
+- mental model to help you test your assumptions, called minimum viable product, or MVP. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=257))
+    - **Tags:** #mvp
+- “Everybody has a plan until they get punched in the mouth.” No matter the context, what they’re all saying is that your first plan is probably wrong. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=262))
+    - **Tags:** #mental-flexability, #planning, #punched-in-the-face, #pivot
+- Ockham’s razor helps here. It advises that the simplest explanation is most likely to be true. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=274))
+    - **Tags:** #ockhams-razor
+- second fallacy is overfitting, a concept from statistics. Adding in all those overly specific dating requirements is ([Location 305](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=305))
+- Overfitting occurs when you use an overly complicated explanation when a simpler one will ([Location 309](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=309))
+- KISS: Keep It Simple, Stupid! When crafting a solution to a problem, whether making a decision or explaining data, you want to start with the simplest set of assumptions you can think of and de-risk them as simply as possible. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=316))
+    - **Note:** Summary
+- physics your perspective is called your frame of reference, a concept central to Einstein’s theory of relativity. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=322))
+    - **Note:** See others perspective
+- frame-of-reference mental trap (or useful trick, depending on your perspective) is framing. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=329))
+- family members and coworkers are constantly framing ([Location 336](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=336))
+- Multiple framings can be valid yet convey vastly different perspectives. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=339))
+    - **Tags:** #perspective-taking
+- You can be nudged in a direction by a subtle word choice or other environmental cues. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=360))
+    - **Tags:** #enviornment-influences-behavior, #nudge
+- when making purchasing decisions is anchoring, which describes your tendency to rely too heavily on first impressions when making decisions. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=364))
+    - **Tags:** #anchoring
+- availability bias, which occurs when a bias, or distortion, creeps into your objective view of reality thanks to information recently made available to you. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=386))
+    - **Tags:** #availability-heuristic
+- With the rise of personalized recommendations and news feeds on the internet, availability bias has become a more and more pernicious problem. Online this model is called the filter bubble, ([Location 407](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=407))
+    - **Tags:** #availability-heuristic, #echo-chamber, #bias-(engrained/unnoticed)
+    - **Note:** Only see what you want
+- When you put many similar filter bubbles together, you get echo chambers, where the same ideas seem to bounce around the same groups of people, echoing around the collective chambers ([Location 419](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=419))
+- to be wrong less when thinking about people, you must find ways to increase your empathy, opening up a deeper understanding of what other people are really thinking. This section explores various mental models to help you do just that. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=430))
+    - **Tags:** #cultive-relationships, #empathy/sympathy-(understand-others-perspective)
+    - **Note:** How to listen cultivate empathy
+- Then there is the third story, the story that a third, impartial observer would recount. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=433))
+    - **Tags:** #3-sides-to-every-story
+- “The key is learning to describe the gap—or difference—between your story and the other person’s story. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=438))
+    - **Tags:** #perspective-taking, #understand-both-side-of-the-argument, #allign-mental-models, #understanding-other's-mental-models, #understanding-someones-worldview, #stories-we-tell-ourselves
+    - **Note:** Find the gaps
+- empathize is the most respectful interpretation, or MRI. In any situation, you can explain a person’s behavior in many ways. MRI asks you to you interpret the other parties’ actions in the most respectful way possible. It’s giving people the benefit of the doubt. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=444))
+    - **Note:** Dont assume malices hanlons razor
+- Hanlon’s razor: never attribute to malice that which is adequately explained by carelessness. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=457))
+    - **Tags:** #hanlons-razor, #incompetence->-malice
+- fundamental attribution error, where you frequently make errors by attributing others’ behaviors to their internal, or fundamental, motivations rather than external ([Location 465](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=465))
+- You of course tend to view your own behavior in the opposite way, which is called self-serving bias. When you are the actor, you often have self-serving reasons for your behavior, but when you are the observer, you tend to blame the other’s intrinsic nature. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=468))
+- veil of ignorance, ([Location 473](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=473))
+    - **Note:** Imagine yourself as any and every other party in a situation and ask if you want that treatment
+- Speaking of privilege, we (the authors) often say we are lucky to have won the birth lottery. Not only were we not born into slavery, but we were also not born into almost any disadvantaged group. At birth, we were no more deserving of an easier run at life than a child who was born into poverty, ([Location 485](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=485))
+    - **Tags:** #path-dependence, #luck-and-morality
+- This view is summed up as you reap what you sow. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=491))
+    - **Tags:** #reap-what-you-sow, #agency, #actions-express-priorities
+- victim-blame: ([Location 492](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=492))
+- You should also keep in mind that the model of learned helplessness can make it hard for some people to strive for improvement without some assistance. Learned helplessness describes the tendency to stop trying to escape difficult situations because we have gotten used to difficult conditions over time. Someone learns that they are helpless to control their circumstances, so they give up trying to change them. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=495))
+    - **Tags:** #anxiety-(worse-than-the-event), #favorite, #change-(resistence-to-it), #learned-helplessness, #opiod-of-hope, #status-quo, #helping-others, #compounding-of-small-changes, #feedback-loops, #agency
+    - **Note:** Learned helpless opioid of hope and comfort of the status quo. Everyone needs help to get started and compound positively. Learned helplessness. Never sacrifice your agency.
+- paradigm shift model, describing how accepted scientific theories change over time. Instead of a gradual, evolving progression, Kuhn describes a bumpy, messy process in which initial problems with a scientific theory are either ignored or rationalized away. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=524))
+    - **Tags:** #paradigm-shift
+- However, they both noticed obvious and important empirical truths that should have been investigated by other scientists but were reflexively rejected by these scientists because the suggested explanations were not in line with the conventional thinking of the time. Today, this is known as a Semmelweis reflex. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=558))
+- The human tendency to gather and interpret new information in a biased way to confirm preexisting beliefs is called confirmation bias. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=562))
+    - **Tags:** #confirmation-bias
+- Confirmation bias is so hard to overcome that there is a related model called the backfire effect that describes the phenomenon of digging in further on a position when faced with clear evidence that disproves it. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=567))
+    - **Tags:** #confirmation-bias, #allow-people-to-change-their-mind, #backfire-effect, #fooling-ourselves
+- Unsurprisingly, disapproval went from 56 percent to 80 percent. However, disapproval stayed up at 72 percent when they were told the ad was refuted and withdrawn by the abortion rights advocacy group that created ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=573))
+- cognitive dissonance, the stress felt by holding two contradictory, dissonant, beliefs at once. Scientists have actually linked cognitive dissonance to a physical area in the brain that plays a role in helping you avoid aversive outcomes. Instead of dealing with the underlying cause of this stress—the fact that we might actually be wrong—we take the easy way out and rationalize the conflicting information away. It’s a survival instinct! ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=581))
+    - **Tags:** #failure-(as-a-necessary-part-of-learning), #failure-(we-hate-it), #cognitive-dissonance
+    - **Note:** Cognitive dissidents, instead of recognizing were wrong, use mental gymnastics to make us feel like we’re right when we’re clearly wrong
+- First, consider thinking gray, a concept we learned from Steven Sample’s book The Contrarian’s Guide to Leadership. You may think about issues in terms of black and white, but the truth is somewhere in between, a shade of gray. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=589))
+    - **Tags:** #grey-thinking
+    - **Note:** Think grey
+- the test of a first-rate mind is the ability to hold two opposing thoughts at the same time while still retaining the ability to function. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=596))
+    - **Tags:** #hold-two-opposing-ideas-in-your-head, #hold-different-ideas-in-your-head-at-once
+    - **Note:** hold two opinions in the same mind without blowing up
+- A second mental model that can help you with confirmation bias is the Devil’s advocate position. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=602))
+    - **Tags:** #devils-advocate
+- intuition, ([Location 612](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=612))
+- You can run into trouble when you blindly trust your gut in situations where it is unclear whether you should be thinking fast or slow. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=620))
+    - **Tags:** #system-1-vs-system-2, #intuition-delay-it
+- where the mental models in this book will be useful, you will want to slow down and deliberately look for how to best apply them. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=623))
+    - **Tags:** #mental-models, #thoughful-action
+- proximate cause is the thing that immediately caused it to happen. In the case of the Challenger, the Rogers Commission Report showed that the proximate cause was the external hydrogen tank igniting. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=640))
+    - **Tags:** #root-vs-proximate-cause
+- part of its work, the commission conducted a postmortem. In medicine, a postmortem is an examination of a dead body to determine the root cause of death. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=649))
+    - **Tags:** #post-mortem
+- Whys, where you keep asking the question “Why did that happen?” until you reach the root causes. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=653))
+    - **Tags:** #root-vs-proximate-cause
+- This feeling is known as optimistic probability bias, because you are too optimistic about the probability of success. NASA ([Location 672](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=672))
+- KEY TAKEAWAYS ([Location 683](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=683))
+- avoid unintended consequences like these. You will be much less likely to fall into their traps if you are equipped with the right mental models to help you better ([Location 714](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=714))
+- William Lloyd described a similar, but hypothetical, overgrazing scenario, now called the tragedy of the commons. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=724))
+    - **Tags:** #tragedy-of-the-commons
+- tyranny of small decisions, where a series of small, individually rational decisions ultimately leads to a system-wide negative consequence, or tyranny. It’s death by a thousand cuts. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=736))
+    - **Tags:** #tyranny-of-the-minority
+- tyranny of small decisions can be avoided when someone who has a view over the whole system can veto or curb particular individual decisions when broad negative impacts can be foreseen. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=747))
+    - **Note:** Second level thinking
+- Another cause of issues like the tragedy of the commons is the free rider problem, where some people get a free ride by using a resource without paying for it. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=753))
+    - **Tags:** #tragedy-of-the-commons
+- Free-riding is commonplace with public goods, such ([Location 758](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=758))
+- plus one more: herd immunity. Diseases can spread only when they have an eligible host to infect. ([Location 763](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=763))
+    - **Tags:** #herd-immunity
+- In this example, the public good is a disease-free environment due to herd immunity, and the free riders are those who take advantage of this public good by not getting vaccinated. The tyranny of small decisions can arise when enough individuals choose not to get vaccinated, resulting in an outbreak of the disease, creating a tragedy of the commons. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=765))
+    - **Tags:** #tragedy-of-the-commons, #tyranny-of-the-minority
+    - **Note:** Good example. Tragedy of the commmons and tyranny of the minority
+- All these unintended consequences we’ve been talking about have a name from economics: externalities, which are consequences, good or bad, that affect an entity without its consent, imposed from an external source. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=814))
+    - **Tags:** #negative-externalities, #unintended-consequences
+- spillover effects, which happen when an effect of an activity spills over outside the core interactions of the activity. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=820))
+    - **Tags:** #second-level-thinking
+    - **Note:** Second order effects
+- Coase theorem, essentially a description of how a natural marketplace can internalize a negative externality. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=835))
+- When these conditions are met, entities surrounding the externality will transact among themselves until the extra costs are internalized. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=839))
+- moral hazard, is where you take on more risk, or hazard, once you have information that encourages you to believe you are more protected. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=857))
+    - **Tags:** #moral-hazard
+- a bike helmet may give you a false sense of security, leading you to bike more recklessly, ([Location 859](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=859))
+    - **Tags:** #moral-hazard
+- Moral hazard and principal-agent problems can occur because of asymmetric information, where one side of a transaction has different information than the other side; that is, the available information is not symmetrically distributed. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=882))
+    - **Tags:** #incentive-structures, #moral-hazard, #principal-agent-problem, #asymmetric-power-dynamics, #investment
+- parties select transactions that they think will benefit them, based at least partially on their own private information, that’s called adverse selection. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=892))
+    - **Tags:** #adverse-selection
+- The “Death Spiral” of Adverse Selection ([Location 908](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=908))
+- The mental models from the last section (tragedy of the commons, externalities, etc.) and those from this section (moral hazard, information asymmetry, etc.) are signs of market failure, where open markets without intervention can create suboptimal results, or fail. ([Location 915](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=915))
+    - **Tags:** #incentive-structures
+    - **Note:** This is incentive misalignment
+- Goodhart’s law summarizes the issue: When a measure becomes a target, it ceases to be a good measure. ([Location 956](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=956))
+    - **Tags:** #goodhart's-law
+- Both describe the same basic phenomenon: When you try to incentivize behavior by setting a measurable target, people focus primarily on achieving that measure, often in ways you didn’t intend. Most importantly, their focus on the measure may not correlate to the behavior you hoped to promote. High-stakes testing culture—be it for school examinations, job interviews, or professional licensing—creates perverse incentives to “teach to the test,” or worse, cheat. ([Location 964](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=964))
+    - **Tags:** #teaching-to-a-test, #goodhart's-law
+    - **Note:** Measurement biased by test.
+- In fact, there is a mental model for this more specific situation, called the cobra effect, describing when an attempted solution actually makes the problem worse. ([Location 976](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=976))
+    - **Tags:** #doom-loop, #cobra-effect
+- The Streisand effect applies to an even more specific situation: when you unintentionally draw more attention to something when you try to hide it. ([Location 985](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=985))
+    - **Tags:** #bad-boys-move-in-silence
+- A related model to watch out for is the hydra effect, named after the Lernaean Hydra, a beast from Greek mythology that grows two heads for each one that is cut off. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=992))
+    - **Tags:** #hydra
+- Don’t kick a hornet’s nest, meaning don’t disturb something that is going to create a lot more trouble than it is worth. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=995))
+    - **Tags:** #problems-(are-inevitable-and-soluable), #negative-compounding
+- another trap to watch out for is the observer effect, where there is an effect on something depending on how you observe it, or even who observes it. ([Location 999](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=999))
+    - **Tags:** #observer-effect, #bias-(inherent-in-models)
+- In the legal context where the term chilling effect originated, it refers to when people feel discouraged, or chilled, from freely exercising their rights, for fear of lawsuits or prosecution. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1011))
+    - **Tags:** #innovation, #government, #chilling-effect, #laws
+    - **Note:** When laws/ government create a hostile environment for innovation
+- This negative unintended consequence could be considered collateral damage. In a military context, this term means injuries, damage, inflicted on unintended, collateral, targets. ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1026))
+    - **Tags:** #unintended-consequences, #collateral-damage
+- Sometimes collateral damage can impact the entity that inflicted the damage in the first place, which is called blowback. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1033))
+    - **Tags:** #collateral-damage, #blowback
+- In other words, seemingly small changes in incentive structures can really matter. You should align the outcome you desire as closely as possible with the incentives you provide. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1051))
+    - **Tags:** #incentive-structures, #incentive-allignment
+- boiling frog persists as a useful mental model describing how a gradual change can be hard to react to, or even perceive. ([Location 1059](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1059))
+    - **Tags:** #change-is-cemented-before-we-realize-it-started, #change-(gradually-then-all-at-once)
+- From finance, short-termism describes these types of situations, when you focus on short-term results, such as quarterly earnings, over long-term results, such as five-year profits. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1064))
+    - **Tags:** #long/short-term-incentive-misalignment
+- The software industry has a name for the consequences of short-termism: technical debt. The idea comes from writing code: if you prioritize short-term code fixes, or “hacks,” over long-term, well-designed code and processes, then you accumulate debt that will eventually have to be paid down by future code rewrites and refactors. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1071))
+    - **Tags:** #long/short-term-incentive-misalignment, #technical-debt
+    - **Note:** Long short term incentive, misalignment, and tech debt
+- The general model for this impact comes from economics and is called path dependence, meaning that the set of decisions, or paths, available to you now is dependent on your past decisions. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1088))
+    - **Tags:** #path-dependence
+    - **Note:** Preserve optionality
+- For any decision, ask yourself: What kind of debt am I incurring by doing this? What future paths am I taking away by my actions today? Another model from economics offers some reprieve from the limitations of path dependence: preserving optionality. The ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1111))
+- idea is to make choices that preserve future options. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1113))
+    - **Tags:** #optionality
+- One model that can help you figure out how to strike this balance in certain situations is the precautionary principle: when an action could possibly create harm of an unknown magnitude, you should proceed with extreme caution before enacting the policy. It’s like the medical principle of “First, do no harm.” ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1126))
+    - **Tags:** #first-do-no-harm, #percautionary-principle, #first-dont-lose-then-win
+- Therefore, you want first to assess what substantial harms could arise in the long term, then work backward to assess how your short-term decisions (or lack thereof) might be contributing to long-term negative scenarios (a process that we cover in more depth in Chapter 6). ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1139))
+    - **Tags:** #long-term-mindset, #long/short-term-incentive-misalignment
+- Of course, you need some information to make good decisions, but too much information leads to information overload, which complicates a decision-making process. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1150))
+- There is a name for this unintended consequence: analysis paralysis, where your decision making suffers from paralysis because you are over-analyzing the large amount of information available. ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1152))
+    - **Tags:** #analysis-paralysis
+- The model perfect is the enemy of good drives home this point—if you wait for the perfect decision, or perfect anything, really, you may be waiting a long time indeed. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1156))
+    - **Tags:** #perfect-is-the-enemy-of-good
+- You can deal with this conflict by categorizing decisions as either reversible decisions or irreversible decisions. Irreversible decisions are hard if not impossible to unwind. And they tend to be really important. ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1161))
+    - **Tags:** #decision-making-(important/reversable-matrix), #jeff-bezos
+    - **Note:** Jeff Bezos decision-making framework
+- addition to increased decision-making time, there is evidence that a wealth of options can create anxiety in certain contexts. This anxiety is known as the paradox of choice, ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1183))
+    - **Tags:** #paradox-of-choice, #optionality
+- There is also a model that explains the downside of making many decisions in a limited period: decision fatigue. As you make more and more decisions, you get fatigued, leading to a worsening of decision quality. ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1199))
+    - **Tags:** #finite-mental-capacity
+    - **Note:** We have a finite mental capacity
+- Most generally, consider heeding Murphy’s law: Anything that can go wrong, will go wrong. It’s named after aerospace engineer Edward Murphy, from his remarks after his measurement devices failed to perform as expected. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1214))
+    - **Tags:** #murphys-law
+- KEY TAKEAWAYS ([Location 1223](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1223))
+- Polaris for inspiration, called north star, which refers to the guiding vision of a company. ([Location 1246](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1246))
+    - **Tags:** #north-star-(core-direction)
+- For an individual, it is important to have a personal north star, or mission statement. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1249))
+    - **Tags:** #north-star-(core-direction)
+- idea can also be powerful to you as an individual. Your incremental progress toward a goal may not be noticeable day to day. But over a long period of time, many small steps can get you really far if you stay pointed in the right direction. ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1266))
+    - **Tags:** #increase-learning-rate, #incremental-progress
+- This is called compound interest, referring to the fact that your interest payments are growing over time, or compounding. ([Location 1269](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1269))
+    - **Tags:** #compounding
+- Two-front wars played a major role in World Wars I and II, when Germany twice fought both Russia on its eastern front and Western allies on its western front. Each time, dividing its attention contributed significantly to Germany’s eventual defeat. An anonymous saying captures this concept well: “If you chase two rabbits, both will escape.” ([Location 1282](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1282))
+    - **Tags:** #2-front-war, #focus-on-what's-important
+    - **Note:** Importance of focus. Can do 2 things at once.
+- You should be wary of fighting a two-front war, yet you probably do so every single day in the form of multitasking. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1292))
+    - **Tags:** #focus, #context-switching, #multitasking, #focus-(dont-drift-through-life-direct-it)
+    - **Note:** Multitasking and the cost of context switching. Focus above all.
+- That’s because the best results rely on creative solutions, which often come from concentrating intently on one thing. Startup investor Paul Graham calls it the top idea in your mind ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1306))
+- This quote inspired Stephen Covey in 7 Habits of Highly Effective People to create the Eisenhower Decision Matrix, a two-by-two grid (matrix) that helps you prioritize important activities ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1334))
+- Sayre’s law, named after political scientist Wallace Sayre, offers that in any dispute the intensity of feeling is inversely proportional to the value of the issues at stake. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1372))
+    - **Tags:** #bike-shedding
+- organizations tend to give disproportionate weight to trivial issues. Both ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1374))
+- The committee members are reluctant to deeply discuss all of the complicated aspects of the atomic reactor decision because it is challenging and esoteric. By contrast, everyone wants to weigh in with their opinion on the bike shed decision because it is easy and familiar relative to the reactor, even though it is also relatively unimportant. This phenomenon has become known as bike-shedding. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1378))
+    - **Tags:** #bike-shedding
+- what is important versus what is not important is dependent on the particular goal being pursued. ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1395))
+    - **Tags:** #goal-driven-behavior
+- opportunity cost. Every choice you make has a cost: the value of the best alternative opportunity you didn’t choose. As a rule, you want to choose the option with the lowest opportunity cost. ([Location 1403](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1403))
+    - **Tags:** #opportunity-cost
+- opportunity cost is sometimes formalized as the opportunity cost of capital, the return you’d get on the best alternative use of that capital, your second-best opportunity. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1417))
+- Similarly, in negotiations there is another application of opportunity cost called BATNA, which stands for best alternative to a negotiated agreement. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1423))
+    - **Tags:** #negotiations
+- spending time or money on these high-leverage activities will produce the greatest effects. ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1458))
+    - **Tags:** #leverage-points
+- As a rule, the highest leverage activities have the lowest opportunity cost. The Pareto principle can help you find high-leverage activities. It states that in many situations, 80 percent of the results come from approximately 20 percent of the effort. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1468))
+    - **Tags:** #power-law, #leverage-points
+- power law distribution, where relatively few occurrences account for a significantly outsized proportion of the total. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1476))
+    - **Tags:** #power-law
+- law of diminishing returns. It is the tendency for continued effort to diminish in effectiveness after a certain level of result has been achieved. ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1494))
+    - **Tags:** #diminishing-returns
+- There is a similar concept called the law of diminishing utility, which says that the value, or utility, of consuming an additional item is usually, after a certain point, less than the value of the previous one consumed. ([Location 1499](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1499))
+    - **Tags:** #diminishing-returns
+- this can actually make things worse, you move from diminishing returns to negative returns. This can happen when you are striving for perfection and it becomes counterproductive. ([Location 1503](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1503))
+    - **Tags:** #diminishing-returns, #negative-compounding
+- Overdoing it is also a quick path toward burnout, where high stress can take its toll and eventually extinguish your motivation, ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1507))
+    - **Tags:** #burnout
+- why people procrastinate so much is present bias, which is the tendency to overvalue near-term rewards in the present over making incremental progress on long-term goals (see short-termism in Chapter 2). ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1534))
+- it effectively becomes an “interest rate,” called the discount rate (in the example above, it would be 25 percent, since $80 × 125% = $100). Like any interest rate, it can compound, but instead of compounding positively as we discussed earlier, the discount rate compounds negatively. ([Location 1545](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1545))
+    - **Tags:** #cashflow-businesses, #discount-rate, #investment, #time-(value-of)
+- discounted cash flow method of valuing assets, investments, and offers. This model can help you properly determine the worth of arrangements that involve future payments, such as investment properties, stocks, and bonds. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1548))
+    - **Tags:** #discount-rate, #dcf
+- called hyperbolic discounting. In other words, people really, really value instant gratification over delayed gratification, and this preference plays a central role in procrastination, ([Location 1601](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1601))
+    - **Tags:** #time-(value-of)
+    - **Note:** time value of things
+- combat your present bias is commitment, where you actively commit in some way to your desired future. Commitments can be formal or informal, but they are usually most effective when they have some sort of penalty attached to breaking the commitment. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1613))
+    - **Tags:** #accountability-partner, #commitment
+- the path of least resistance, 401(k) programs also showcase the default effect, the effect stemming from the fact that many people just accept default options. ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1620))
+    - **Tags:** #default-decision
+- Parkinson’s law (yes, another law by the same Parkinson of Parkinson’s law of triviality) states that “work expands so as to fill the time available for its completion.” Does that ring true for you? It certainly does for us. When your top priority has a deadline far in the future, it doesn’t mean that you need to spend all your time on it until the deadline. ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1636))
+    - **Tags:** #parkinson's-law, #work-life-balance, #favorite
+    - **Note:** This says people will overwork on thijngs when there is a farther ratger than immediate deadline. Work expands to meet the time you have
+- scientist Douglas Hofstadter coined Hofstadter’s law: It always takes longer than you expect, even when you take into account Hofstadter’s Law. ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1641))
+    - **Tags:** #planning-fallacy
+- loss aversion is the model that explains why. You are more inclined to avoid losses, to be averse to them, than you are to want to make similar gains. ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1661))
+    - **Tags:** #loss-aversion
+- When you allow these irrecoverable costs to cloud your decision making, you are falling victim to the sunk-cost fallacy. The costs of the project so far, including your time spent, have already been sunk. You can’t get them back. ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1679))
+    - **Tags:** #sunk-costs
+- rated their horses’ chances significantly higher. This supported the scientists’ prediction that, post-bet, bettors were more confident in their choices. Evidently, simply the act of committing to the bet convinced bettors that their odds of winning had increased ([Location 1692](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1692))
+- design pattern, which is a reusable solution to a design problem. This idea has been adapted to other fields and is especially popular in computer science. ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1712))
+    - **Tags:** #systems-thinking, #heuristic, #algorithms-mitigate-bias
+    - **Note:** This is a systems answer to a typical problem. Algorithms for life. Heuristics and algorithms
+- The opposite of the well-tested design pattern is the anti-pattern, a seemingly intuitive but actually ineffective “solution” to a common problem that often already has a known, better solution. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1720))
+    - **Tags:** #intuition, #local-vs-global-maximum
+- like this are a type of brute force solution. The term brute force is obviously applicable when referring to an activity that requires literal force, ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1728))
+    - **Tags:** #brute-force
+- This is a type of heuristic solution, a trial-and-error solution that is not guaranteed to yield optimal or perfect results, but in many cases is nevertheless very effective. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1741))
+    - **Tags:** #heuristic
+- Algorithms, step-by-step processes, are another approach. Algorithms are pervasive in modern life, solving many otherwise intractable problems, but we often don’t even realize it. ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1747))
+    - **Tags:** #constrain-optimization-problems, #heuristic
+- black boxes, which means they require very little understanding by the user of how they work. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1752))
+    - **Tags:** #black-box
+- Automation like this makes sense when the eventual time and money saved through more efficient processing and possibly better results outweigh the costs of setting it up. ([Location 1768](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1768))
+    - **Tags:** #opportunity-cost, #automation, #expected-value
+- advantage of economies of scale, when an operation becomes more efficient as its size increases. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1770))
+    - **Tags:** #scale-economies
+- parallel processing, in which you solve a group of problems in parallel. In a computing context, you’d literally assign different calculations to different processors, ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1776))
+    - **Tags:** #parallel-processing
+- Parallel processing is an example of a divide and conquer strategy. If you can break a problem into independent pieces ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1779))
+- Another strategy to get to a solution quicker when faced with a hard situation is to reframe the problem. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1783))
+    - **Tags:** #perspective-taking, #inversion, #reframe-feelings
+- From this angle, a better solution, unfortunately, is social engineering, where you are manipulated to give up your password willingly. Hackers literally engineer a social situation designed to get you to give up your password. ([Location 1796](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1796))
+    - **Tags:** #social-engineering
+- KEY TAKEAWAYS ([Location 1807](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1807))
+- “It is not the most intellectual of the species that survives; it is not the strongest that survives; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” ([Location 1844](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1844))
+    - **Tags:** #adapt-or-die, #niche, #red-queen-hypothesis
+- Luckily, science gives us such a mental model for making sure we stay among the “fittest”: the scientific method. Formally, the scientific method is a rigorous cycle of making observations, formulating hypotheses, testing them, analyzing data, and developing new theories. But you can also apply it simply by embracing an experimental mindset. ([Location 1850](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1850))
+    - **Tags:** #critical-approach-(conjectures-and-refutations), #scientific-method
+- Inertia is a physical object’s resistance to changing its current state of motion. ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1866))
+    - **Tags:** #inertia
+- A long-term commitment to an organizational strategy creates a lot of inertia toward that strategy. This inertia can lead to suboptimal decisions, referred to as a strategy tax. ([Location 1882](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1882))
+    - **Tags:** #default-decision, #sunk-costs
+    - **Note:** Inertia of the default.
+- A model related to the strategy tax is the Shirky principle, named after economics writer Clay Shirky. The Shirky principle states, Institutions will try to preserve the problem to which they are the solution. An illustrative example is TurboTax, a U.S. company that makes filing taxes easier, but also lobbies against ideas that would make it easier to file taxes directly with the government. ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1898))
+    - **Tags:** #power-games, #incentive-allignment, #shirky-principle
+    - **Note:** People fight for their livelihood and lobby to keep problems a problem so they get paid even when it's negative EV for society
+- The Lindy effect is the name of this phenomenon. It was popularized by Nassim Taleb in his book Antifragile, which ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1908))
+- More generally, the Lindy effect and peak concepts can help you assess any idea or market opportunity and better predict how it might unfold. Is the market healthy? Has it already reached its peak? How long has it been around? Remember, markets that have been around a long time have more inertia. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1930))
+    - **Tags:** #lindy-effect
+- Momentum is a model that can help you understand how things change. Momentum and inertia are related concepts. In physics, momentum is the product (multiplication) of mass and velocity, whereas inertia is just a function of mass. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1940))
+    - **Tags:** #momentum
+- Good to great comes about by a cumulative process—step by step, action by action, decision, turn by turn of the flywheel—that adds up to sustained and spectacular results. ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1986))
+    - **Tags:** #flywheel
+- homeostasis, ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=1998))
+    - **Note:** Change is slow and people want to revert back to the status quo instead of progressing
+- These toys work using two useful concepts that are also metaphorical mental models that help you when enacting change: potential energy and center of gravity. Potential energy is the stored energy of an object, which has the potential to be released. Center of gravity is the center point in an object or system around which its mass is balanced. ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2022))
+    - **Tags:** #potential-energy, #potential-(seeing-it-in-others), #center-of-gravity
+- So far in this section we’ve discussed the power of inertia (strategy tax, Shirky principle), how to assess it (peak, Lindy effect), how to take advantage of it (flywheel), and how to think about reversing it through tactical models (homeostasis, potential energy, center of gravity). A couple other chemistry concepts will also be helpful to you tactically: activation energy and catalyst. ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2041))
+    - **Tags:** #inertia, #flywheel, #lindy-effect, #center-of-gravity
+    - **Note:** Good summary
+- commitment can help you overcome present bias; it can also serve as a great catalyst, or forcing function, to reach the activation energy required for a personal or organizational change. ([Location 2055](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2055))
+    - **Tags:** #activation-energy, #commitment, #commit-to-path-dont-languish-in-theory, #get-action
+- momentum behind new ideas as they permeate society: critical mass. As we noted in the Introduction, in physics critical mass is the mass of nuclear material needed to create a nuclear chain reaction, ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2066))
+    - **Tags:** #critical-mass
+- rapidly gaining momentum, is often referred to as a tipping point. ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2081))
+    - **Tags:** #critical-mass
+- The spreading, or diffusion, of an idea or technology is known as the technology adoption life cycle. ([Location 2092](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2092))
+    - **Tags:** #technology-adoption-cycle
+- curves that emerge from the technology adoption life cycle are known as S curves ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2111))
+- Metcalfe’s law, is named after Robert Metcalfe, the co-inventor of the networking technology Ethernet. It describes the nonlinear growth in network value when nodes are connected to one another. ([Location 2133](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2133))
+    - **Tags:** #network-effects
+    - **Note:** Connecting nodes is non linear. the value of a network is proportional to the square of the number of connected users or devices in the network
+- known more generally as a cascading failure, where a failure in one piece of a system can trigger a chain reaction of failure that cascades through the entire system. ([Location 2161](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2161))
+    - **Tags:** #failure-(don't-let-it-compound), #spiraling-(depression)
+- the butterfly effect to explain the concept that chaotic systems are extremely sensitive to small perturbations or changes in initial conditions. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2178))
+- You must continuously adapt to what life throws at you. ([Location 2187](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2187))
+    - **Tags:** #adapt-or-die
+- In the same way that it is a lot easier to catch a fish if you cast a wide net, your personal luck surface area will increase as you interact with more people in more diverse situations. ([Location 2197](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2197))
+    - **Tags:** #luck-(increase-surface-area-for)
+    - **Note:** Luck service area basically preserve optionality
+- this context, increasing your luck surface area means increasing your personal maximum entropy, by increasing the ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2211))
+- polarity, which describes a feature that has only two possible values. A magnet has a north and south pole. An electric charge can be positive or negative. Polarity is useful because it helps you categorize things into one of two states: good or bad, useful ([Location 2251](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2251))
+- when making comparisons you must be careful to avoid the black-and-white fallacy—thinking that things fall neatly into two groups when they do not. ([Location 2261](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2261))
+    - **Tags:** #complexity, #grey-thinking
+- self-esteem with group membership, thereafter creating in-group favoritism and, conversely, out-group bias. Social ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2266))
+- group favoritism often fosters false beliefs that transactions are zero-sum, meaning that if your group gains, then the other group must lose, ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2270))
+    - **Tags:** #positive/zero-sum
+- Instead, most have the potential to be win-win situations, where ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2271))
+- KEY TAKEAWAYS ([Location 2301](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2301))
+- drawing incorrect conclusions using anecdotal evidence, informally collected evidence from personal anecdotes. You run into trouble when you make generalizations based on anecdotal evidence ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2359))
+- Just because two events happened in succession, or are correlated, doesn’t mean that the first actually caused the second. Statisticians use the phrase correlation does not imply causation ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2371))
+- fallacy arises is a confounding factor, a third, possibly non-obvious factor that influences both the assumed cause and the observed effect, confounding ([Location 2374](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2374))
+- the first step is to define or understand its hypothesis, the proposed explanation for the effect being studied ([Location 2392](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2392))
+- Texas sharpshooter fallacy. This model is named after a joke about a person who comes upon a barn with targets drawn on the side and bullet holes in the middle of each target. He is amazed at the shooter’s accuracy, only to find that the targets were drawn around the bullet holes after the shots were fired. A ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2393))
+- randomized controlled experiment, where participants are randomly assigned to two groups, and then results from the experimental group ([Location 2397](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2397))
+- A/B testing, ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2400))
+- additional blinding helps reduce the impact of observer-expectancy bias (also called experimenter bias), where the cognitive biases of the researchers, or observers, may cause them ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2406))
+- Interestingly, just the act of receiving something that you expect to have a positive effect can actually create one, called the placebo effect. ([Location 2416](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2416))
+    - **Tags:** #placebo-effect
+- observable or measurable, they must use a proxy endpoint (also called a surrogate endpoint or marker), a measure expected to be closely correlated to the endpoint they would measure if they could. ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2427))
+    - **Tags:** #estimation
+- The smokers in the study would therefore be those who selected to continue smoking, which can introduce a bias called selection bias. ([Location 2447](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2447))
+    - **Tags:** #selection-bias
+- common to surveys, is nonresponse bias, which occurs when a subset of people don’t participate in an experiment after they are selected for it, e.g., they fail to respond ([Location 2459](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2459))
+- usually account for the opinions of former employees, which can create another bias in the results called survivorship bias. Unhappy employees may have chosen to leave the company, but you cannot capture their opinions when you survey only current employees. ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2466))
+    - **Tags:** #survivorship-bias
+- One more type of bias that can be inadvertently introduced is response bias. While nonresponse bias is introduced when certain types of people do not respond, for ([Location 2489](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2489))
+- gambler’s fallacy, named after roulette players who believe that a streak of reds or blacks from a roulette wheel is more likely ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2512))
+- erroneously interpreted as evidence of nonrandom behavior, a failure of intuition called the clustering illusion. ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2524))
+    - **Tags:** #intuition
+- Probability Distributions ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2641))
+- type of confidence interval, an estimated range of numbers that you think may include the true value ([Location 2707](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2707))
+- This is an example of a model called conditional probability, the probability of one thing happening under the condition that something else also happened. ([Location 2745](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2745))
+    - **Tags:** #conditional-probability, #path-dependence, #probabilitic-thinking
+- There is a very useful result in probability called Bayes’ theorem, which tells us the relationship between these two conditional probabilities. ([Location 2773](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2773))
+    - **Tags:** #probabilitic-thinking, #bayesian-thinking
+- Bayes’ Theorem ([Location 2776](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2776))
+- This situation could result in a false negative: falsely giving a negative result when it really was true. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2824))
+    - **Tags:** #false-negative
+- The most common false positive rate chosen is 5 percent. (This rate is also denoted by the Greek letter α, alpha, which is equal to 100 minus the confidence level. This is why you typically see people say a confidence level of 95 percent.) ([Location 2846](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2846))
+- This value, called the power of the experiment, is typically selected to be an 80 to 90 percent chance of detection, with a corresponding false negative error rate of 10 to 20 percent. ([Location 2853](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2853))
+- The dotted line represents the threshold for statistical significance. All ([Location 2894](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2894))
+- The absence of evidence is not the evidence of absence. ([Location 2960](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2960))
+- That rate is low, and this problem is aptly positive results the replication crisis. This final ([Location 2975](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2975))
+- The act of running additional tests to look for statistically significant results has many names, including data dredging, fishing, and p-hacking (trying to hack your data looking for small enough p-values). ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=2991))
+    - **Tags:** #p-hacking
+- routinely enough, then you can see why a large number of studies in the set to be replicated might have been originally false positives. ([Location 3003](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3003))
+    - **Tags:** #false-positives, #replication-of-studies
+- Unfortunately, studies are much, much more likely to be published if they show statistically significant results, which causes publication bias. Studies that fail to find statistically significant results are still scientifically meaningful, but both researchers and publications have a bias against them for a variety of reasons. ([Location 3005](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3005))
+    - **Tags:** #replication-of-studies
+- you are lucky, someone has already published a systematic review about your research question. Systematic reviews are an organized way to evaluate a research question ([Location 3037](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3037))
+- include meta-analyses, which use statistical techniques to combine data from several studies into one analysis. The data-driven reporting site FiveThirtyEight is a good example; ([Location 3040](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3040))
+    - **Tags:** #meta-analysis
+- KEY TAKEAWAYS ([Location 3060](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3060))
+- type of cost-benefit analysis, ([Location 3116](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3116))
+    - **Tags:** #cost-benefit-analysis
+- One way to show this sensitivity is through a sensitivity analysis, ([Location 3205](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3205))
+    - **Tags:** #sensativity-to-action
+- In computer science, there is a model describing this phenomenon: garbage in, garbage out. ([Location 3269](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3269))
+    - **Tags:** #garbage-in-garbage-out
+- to make sense of all these potential outcomes: the decision tree. ([Location 3289](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3289))
+- estimates to get an expected value for ([Location 3298](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3298))
+- Think about your favorite band—it’s worth more to you to see them in concert than another band that offers their concerts at the same price, simply because you like them more. ([Location 3332](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3332))
+    - **Tags:** #subjectivity-of-knowledge, #motivation-(diff-for-everyone), #value-prop
+    - **Note:** Utility definition
+- utilitarianism that expresses the view that the most ethical decision is the one that creates the most utility for all ([Location 3345](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3345))
+- Black swan events, though, often come from fat-tailed distributions, which ([Location 3371](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3371))
+- Systems thinking describes this act, when you attempt to think about the entire system at once. By thinking about the overall system, you are more likely to understand and account for subtle interactions between components that could otherwise lead to unintended consequences from your decisions. ([Location 3391](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3391))
+    - **Tags:** #systems-thinking
+- in dynamic systems and simulations is hysteresis, which describes how a system’s current state can be dependent on its history. ([Location 3418](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3418))
+    - **Tags:** #path-dependence
+- By running a simulation of a system many times, you can begin to understand how probable different outcomes really are. ([Location 3443](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3443))
+    - **Tags:** #probabilitic-thinking, #simulations
+- Without such knowledge, you can get stuck chasing a local optimum solution, which is an admittedly good solution, but not the best one. ([Location 3452](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3452))
+    - **Tags:** #local-vs-global-maximum
+- you can, you want to work toward that best solution, which would be the global optimum ([Location 3454](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3454))
+- uncover unknown unknowns is scenario analysis (also known as scenario planning), which is a method for thinking about possible futures more deeply. ([Location 3501](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3501))
+    - **Tags:** #unknown-unknowns
+- To do scenario analysis well, you must conjure plausible yet distinct futures, ultimately considering several possible scenarios. ([Location 3509](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3509))
+    - **Tags:** #live-in-the-future, #scenario-analysis, #probabilitic-thinking, #creativity
+    - **Note:** Good Sanrio planning involves creative invention of probablistic futures as well as assigning probability
+- more broadly about possible future scenarios is the thought experiment, literally an experiment that occurs just in your thoughts, i.e., not in the physical world. ([Location 3514](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3514))
+    - **Tags:** #thought-experiment
+- This thought experiment poses some seemingly unanswerable questions: Until you observe the cat by opening the box, is it alive or dead, or in an in-between state, as certain interpretations of quantum mechanics would suggest? ([Location 3524](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3524))
+    - **Tags:** #quantum-vs-classical-systems, #thought-experiment
+    - **Note:** Quantum Mechanics and the idea of super position described
+- called counterfactual thinking, which means thinking about the past by imagining that the past was different, counter to the facts of what actually occurred. ([Location 3533](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3533))
+    - **Tags:** #inversion, #path-dependence, #probabilitic-thinking, #multiverse
+    - **Note:** Path dependent world taking a different path. Inverting path dependence
+- However, studies show this is not the right approach because of groupthink, a bias that emerges because groups tend to think in harmony. ([Location 3548](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3548))
+    - **Tags:** #groupthink
+- as it forms the basis for divergent thinking, where you actively try to get thinking to diverge in order to discover multiple possible solutions, as opposed to convergent thinking, where you actively try to get thinking to converge on one solution. ([Location 3561](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3561))
+- While you cannot expect similar results in all situations, Surowiecki explains the key conditions in which you can expect good results from crowdsourcing: ([Location 3578](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3578))
+    - **Tags:** #wisdom-of-crowds, #probabilitic-thinking
+    - **Note:** When crowds work best
+- prediction market, which is like a stock market for predictions. ([Location 3592](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3592))
+- KEY TAKEAWAYS ([Location 3640](https://readwise.io/to_kindle?action=open&asin=B07P8J83WR&location=3640))
