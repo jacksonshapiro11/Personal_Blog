@@ -157,9 +157,6 @@ export default function Notes({ notes }) {
 
   // Modify the rendering logic to show highlights when tags are selected
   const renderContent = () => {
-    // Log the filtered notes to debug
-    console.log('Rendering notes:', filteredNotes.map(n => ({ title: n.title, slug: n.slug })));
-
     if (selectedTags.length === 0) {
       // Show books when no tags are selected
       return visibleNotes.map((note, index) => (
@@ -188,39 +185,41 @@ export default function Notes({ notes }) {
         </div>
       ));
     } else {
-      // Show highlights that contain selected tags
+      // Show highlights that contain selected tags with improved styling
       return visibleNotes.map((note, index) => (
-        <div key={`${note.slug}-${index}`} className="book-highlights">
-          <h3 className="title-container">
-            <Link 
-              href={`/notes/${encodeURIComponent(note.slug.trim())}`} 
-              className="title-link"
-            >
-              {note.title}
-            </Link>
-          </h3>
-          <p className="author">By {note.author}</p>
-          {note.highlights
-            .filter(highlight => 
-              selectedTags.every(tag => highlight.tags.includes(tag))
-            )
-            .map((highlight, hIndex) => (
-              <div key={`${note.slug}-highlight-${hIndex}`} className="highlight-card">
-                <div className="highlight-text">{highlight.text}</div>
-                <div className="highlight-tags">
-                  {highlight.tags.map(tag => (
-                    <span key={tag} className="highlight-tag">#{tag}</span>
-                  ))}
-                </div>
-                {highlight.note && (
-                  <div className="highlight-note">
-                    <strong>Note:</strong> {highlight.note}
+        <div key={`${note.slug}-${index}`} className="note-page">
+          <div className="note-header">
+            <h1>{note.title}</h1>
+            <p className="author">By {note.author}</p>
+          </div>
+
+          <div className="highlights-section">
+            {note.highlights
+              .filter(highlight => 
+                selectedTags.every(tag => highlight.tags.includes(tag))
+              )
+              .map((highlight, hIndex) => (
+                <div key={`${note.slug}-highlight-${hIndex}`} className="highlight-block">
+                  <blockquote>{highlight.text}</blockquote>
+                  <div className="highlight-tags">
+                    {highlight.tags.map(tag => (
+                      <span key={tag} className="tag">#{tag}</span>
+                    ))}
                   </div>
-                )}
-              </div>
-            ))}
+                  {highlight.note && (
+                    <div className="highlight-note">
+                      <strong>Note:</strong> {highlight.note}
+                    </div>
+                  )}
+                </div>
+              ))}
+          </div>
+
+          <Link href={`/notes/${encodeURIComponent(note.slug.trim())}`} className="view-full-note">
+            View Full Note →
+          </Link>
         </div>
-      )).filter(book => book.props.children[2].length > 0);
+      )).filter(note => note.props.children[1].props.children.length > 0);
     }
   };
 
@@ -514,18 +513,65 @@ export default function Notes({ notes }) {
             }
 
             .book-highlights {
-              margin-bottom: 40px;
+              margin-bottom: 50px;
               background: rgba(255, 255, 255, 0.05);
               padding: 20px;
               border-radius: 8px;
+              position: relative;
+            }
+
+            .book-highlights::after {
+              content: '';
+              position: absolute;
+              bottom: -25px;
+              left: 5%;
+              right: 5%;
+              height: 2px;
+              background: linear-gradient(
+                to right,
+                transparent,
+                rgba(255, 128, 0, 0.5),
+                transparent
+              );
+            }
+
+            .highlights-container {
+              position: relative;
+              padding-bottom: 10px;
             }
 
             .highlight-card {
               background: rgba(255, 255, 255, 0.1);
               padding: 20px;
-              margin: 15px 0;
+              margin: 30px 0;
               border-radius: 8px;
               border-left: 4px solid #ff8000;
+              position: relative;
+              border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+              padding-bottom: 30px;
+            }
+
+            .highlight-separator {
+              height: 2px;
+              background: linear-gradient(
+                to right,
+                transparent, 
+                rgba(255, 255, 255, 0.5),
+                transparent
+              );
+              margin-top: 20px;
+              margin-bottom: 10px;
+              width: 90%;
+              margin-left: auto;
+              margin-right: auto;
+            }
+
+            .highlights-container > .highlight-card:first-child {
+              margin-top: 15px;
+            }
+
+            .highlight-card:last-child {
+              border-bottom: none;
             }
 
             .highlight-text {
@@ -673,6 +719,89 @@ export default function Notes({ notes }) {
             
             @keyframes spin {
               to { transform: rotate(360deg); }
+            }
+
+            /* Add these new styles for the highlight view that matches individual note pages */
+            .note-page {
+              max-width: 800px;
+              margin: 0 auto 50px;
+              padding: 20px;
+              background: rgba(255, 255, 255, 0.05);
+              border-radius: 8px;
+            }
+
+            .note-header {
+              margin-bottom: 30px;
+              text-align: center;
+            }
+
+            .note-header h1 {
+              margin-bottom: 10px;
+              color: white;
+              font-size: 1.8em;
+            }
+
+            .highlights-section {
+              margin: 40px 0;
+            }
+
+            .highlight-block {
+              background: rgba(255, 255, 255, 0.1);
+              padding: 20px;
+              margin: 20px 0;
+              border-radius: 8px;
+              border-left: 4px solid #ff8000;
+            }
+
+            .highlight-block blockquote {
+              margin: 0 0 15px 0;
+              padding: 10px 20px;
+              border-left: 4px solid rgba(255, 128, 0, 0.5);
+              background: rgba(255, 255, 255, 0.05);
+              font-size: 1.1em;
+              line-height: 1.6;
+            }
+
+            .highlight-block .highlight-tags {
+              display: flex;
+              flex-wrap: wrap;
+              gap: 8px;
+              margin: 15px 0;
+            }
+
+            .highlight-block .tag {
+              background: rgba(255, 255, 255, 0.1);
+              padding: 5px 10px;
+              border-radius: 15px;
+              font-size: 0.9em;
+            }
+
+            .highlight-block .highlight-note {
+              margin-top: 15px;
+              padding: 15px;
+              background: rgba(255, 255, 255, 0.05);
+              border-radius: 4px;
+              font-style: italic;
+            }
+
+            .view-full-note {
+              display: inline-block;
+              margin-top: 20px;
+              padding: 8px 16px;
+              background: rgba(255, 255, 255, 0.1);
+              border-radius: 20px;
+              color: white;
+              text-decoration: none;
+              transition: all 0.3s ease;
+            }
+
+            .view-full-note:hover {
+              background: linear-gradient(
+                to right,
+                #ff0000,
+                #ff8000
+              );
+              transform: translateX(5px);
             }
           `}</style>
         </div>
